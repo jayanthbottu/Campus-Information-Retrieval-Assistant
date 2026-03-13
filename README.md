@@ -1,4 +1,4 @@
-# CIRA — Campus Information Retrieval Assistant
+# Campus Information Retrieval Assistant
 
 <p align="center">
   <img src="assets/cira.svg" alt="CIRA Logo" width="220"/>
