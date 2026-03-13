@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────────────────────────
+# CIRA — Campus Information Retrieval Assistant
+# Requirements
+# Install with: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────
+
+# ── Web server ────────────────────────────────────────────────
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+
+# ── Vector search ─────────────────────────────────────────────
+faiss-cpu>=1.7.4
+# Use faiss-gpu instead if you have a CUDA-enabled GPU:
+# faiss-gpu>=1.7.4
+
+# ── Embeddings ────────────────────────────────────────────────
+sentence-transformers>=2.7.0
+
+# ── SLM inference (ask.py) ────────────────────────────────────
+torch>=2.2.0
+transformers>=4.40.0
+
+# ── BM25 retrieval ────────────────────────────────────────────
+rank-bm25>=0.2.2
+
+# ── Fuzzy FAQ matching (optional but recommended) ─────────────
+rapidfuzz>=3.6.0
+
+# ── ML utilities ─────────────────────────────────────────────
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# ── Core stdlib (included with Python, listed for reference) ──
+# pathlib   — built-in
+# difflib   — built-in
+# re        — built-in
+# json      — built-in
+# math      — built-in
+# threading — built-in
