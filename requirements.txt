@@ -1,39 +1,56 @@
-# ─────────────────────────────────────────────────────────────
-# CIRA — Campus Information Retrieval Assistant
-# Requirements
-# Install with: pip install -r requirements.txt
-# ─────────────────────────────────────────────────────────────
+# ── Web server ────────────────────────────────────────────────────────────────
+fastapi==0.131.0
+uvicorn==0.41.0
+starlette==0.52.1
+python-multipart        # needed for FastAPI file uploads
 
-# ── Web server ────────────────────────────────────────────────
-fastapi>=0.110.0
-uvicorn[standard]>=0.29.0
+# ── ML / Embeddings ───────────────────────────────────────────────────────────
+sentence-transformers==5.2.3
+faiss-cpu==1.13.2
+numpy==2.4.2
+scikit-learn==1.8.0
+scipy==1.17.1
 
-# ── Vector search ─────────────────────────────────────────────
-faiss-cpu>=1.7.4
-# Use faiss-gpu instead if you have a CUDA-enabled GPU:
-# faiss-gpu>=1.7.4
+# ── Torch (CUDA 12.1) — installs torch, torchvision, torchaudio ──────────────
+# Run this FIRST before pip install -r requirements.txt:
+#   pip install torch==2.5.1+cu121 torchvision==0.20.1+cu121 torchaudio==2.5.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
 
-# ── Embeddings ────────────────────────────────────────────────
-sentence-transformers>=2.7.0
+# ── Transformers / HuggingFace stack ─────────────────────────────────────────
+transformers==5.2.0
+tokenizers==0.22.2
+accelerate==1.12.0
+datasets==4.7.0
+huggingface_hub==1.4.1
+safetensors==0.7.0
+sentencepiece==0.2.1
+hf-xet==1.2.0
 
-# ── SLM inference (ask.py) ────────────────────────────────────
-torch>=2.2.0
-transformers>=4.40.0
+# ── RAG / Search ──────────────────────────────────────────────────────────────
+rank-bm25==0.2.2
+rapidfuzz==3.14.3
 
-# ── BM25 retrieval ────────────────────────────────────────────
-rank-bm25>=0.2.2
+# ── PDF / Document parsing ────────────────────────────────────────────────────
+pypdf==6.7.2
+PyMuPDF==1.27.1
 
-# ── Fuzzy FAQ matching (optional but recommended) ─────────────
-rapidfuzz>=3.6.0
-
-# ── ML utilities ─────────────────────────────────────────────
-scikit-learn>=1.4.0
-numpy>=1.26.0
-
-# ── Core stdlib (included with Python, listed for reference) ──
-# pathlib   — built-in
-# difflib   — built-in
-# re        — built-in
-# json      — built-in
-# math      — built-in
-# threading — built-in
+# ── Data / Utilities ─────────────────────────────────────────────────────────
+tqdm==4.67.3
+pandas==3.0.1
+pyarrow==23.0.1
+pillow==12.0.0
+pydantic==2.12.5
+pydantic_core==2.41.5
+requests==2.32.5
+httpx==0.28.1
+PyYAML==6.0.3
+sympy==1.13.1
+regex==2026.2.19
+filelock==3.24.3
+packaging==26.0
+fsspec==2026.2.0
+multiprocess==0.70.18
+dill==0.4.0
+xxhash==3.6.0
