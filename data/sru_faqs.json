@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "query": "What is SR University?",
+    "response": "SR University (SRU) is a State Private University located in Warangal, Telangana. It is spread over 150 acres of lush green campus and has approximately 9,000 students and 900 staff members. The university offers 140+ programs across five schools: School of Computer Science and Artificial Intelligence, School of Engineering, School of Business, School of Agriculture, and School of Sciences and Humanities.",
+    "keywords": ["SR University", "SRU", "overview", "Warangal", "Telangana", "about"]
+  },
+  {
+    "id": 2,
+    "query": "Where is SR University located?",
+    "response": "SR University is located in Warangal, Telangana, India. The tri-city area of Warangal-Hanamkonda-Kazipet surrounds the campus. Contact: sru.edu.in | info@sru.edu.in | 0870-281-8333.",
+    "keywords": ["location", "address", "Warangal", "Telangana", "SR University"]
+  },
+  {
+    "id": 3,
+    "query": "What is the NIRF ranking of SR University?",
+    "response": "SR University holds the 91st rank in the National Institutional Ranking Framework (NIRF) India Rankings. Additionally, in the Times Higher Education (THE) World University Rankings 2026, SRU is placed in the global band of 801 to 1000 and is ranked 7th among private universities in India.",
+    "keywords": ["NIRF", "ranking", "THE ranking", "world university ranking", "private university rank"]
+  },
+  {
+    "id": 4,
+    "query": "What are the sustainability rankings of SR University?",
+    "response": "SR University is ranked 23rd in the UI GreenMetric World University Rankings for sustainability and 50th in the Times Higher Education (THE) Impact Rankings for Sustainable Development Goals.",
+    "keywords": ["GreenMetric", "sustainability", "SDG", "THE Impact Rankings", "environment ranking"]
+  },
+  {
+    "id": 5,
+    "query": "Is SR University accredited by NBA?",
+    "response": "Yes. SR University holds NBA Tier-1 accreditation for its engineering programs. The University is also UGC approved — the UGC 2F approval is available at https://sru.edu.in/assets/pdf/SR University 2f Approval.PDF.",
+    "keywords": ["NBA", "accreditation", "Tier-1", "UGC", "approval", "engineering accreditation"]
+  },
+  {
+    "id": 6,
+    "query": "What are the statutory governance bodies of SR University?",
+    "response": "SR University is governed through three principal statutory bodies: (1) The Governing Body — oversees overall institutional policy and administration; (2) The Board of Management — responsible for strategic decisions and financial administration; (3) The Academic Council — oversees all academic matters, curriculum development, and examination policies.",
+    "keywords": ["governance", "Governing Body", "Board of Management", "Academic Council", "statutory bodies"]
+  },
+  {
+    "id": 7,
+    "query": "What schools are there at SR University?",
+    "response": "SR University has the following academic schools: School of Computer Science and Artificial Intelligence (SoCS&AI), School of Engineering, Astra School of Business, School of Sciences and Humanities, School of Agriculture, and School of Allied Health Sciences.",
+    "keywords": ["schools", "departments", "faculties", "academic schools", "SoCS&AI", "engineering", "business", "agriculture"]
+  },
+  {
+    "id": 8,
+    "query": "What B.Tech programs are offered in the School of Computer Science and AI at SR University?",
+    "response": "The School of CS&AI offers: B.Tech in Computer Science and Engineering (Core), B.Tech in CSE with specialisation in Artificial Intelligence and Machine Learning, B.Tech in CSE with specialisation in Cyber Security, B.Tech in CSE with specialisation in Data Science, B.Tech in CSE with specialisation in Gaming and ARVR, and B.Tech in CSE with specialisation in Robotics and Automation.",
+    "keywords": ["B.Tech", "CSE", "AI", "Machine Learning", "Cyber Security", "Data Science", "Gaming", "ARVR", "Robotics", "SoCS&AI programs"]
+  },
+  {
+    "id": 9,
+    "query": "What B.Tech programs are available in the School of Engineering at SR University?",
+    "response": "The School of Engineering offers: ECE (Core, VLSI Design, Robotics and Automation), EEE (Core with Siemens partnership, Renewable Energy, Electric Vehicles, Robotics and Automation), Mechanical Engineering (Core with Cyient partnership, Robotics and Automation, Smart Manufacturing), and Civil Engineering (Core with DivyaSree NSL Infrastructure partnership, Robotics and Automation).",
+    "keywords": ["School of Engineering", "ECE", "EEE", "Mechanical Engineering", "Civil Engineering", "B.Tech", "engineering programs"]
+  },
+  {
+    "id": 10,
+    "query": "What is the Astra School of Business?",
+    "response": "The Astra School of Business at SR University offers undergraduate BBA programs (core and with specialisations in Marketing, Finance, Operations Management, International Business, and Business Analytics) and the postgraduate MBA program. It also participates in the International Business Accelerated Program (IBAP) in collaboration with the University of Massachusetts Lowell, USA.",
+    "keywords": ["Astra School of Business", "BBA", "MBA", "business programs", "IBAP", "UMass Lowell"]
+  },
+  {
+    "id": 11,
+    "query": "What programs does the School of Agriculture offer at SR University?",
+    "response": "The School of Agriculture offers B.Sc. (Hons.) Agriculture at the undergraduate level and M.Sc. Agriculture at the postgraduate level. The school also participates in the Accelerated Masters program in International Agribusiness Management in collaboration with ISAM, Spain.",
+    "keywords": ["School of Agriculture", "B.Sc Agriculture", "M.Sc Agriculture", "agribusiness", "ISAM Spain"]
+  },
+  {
+    "id": 12,
+    "query": "What programs does the School of Sciences and Humanities offer?",
+    "response": "The School of Sciences and Humanities offers B.Sc. (Hons.) programs in Computer Science and in combinations of Physics, Chemistry, and Mathematics, as well as a B.Sc. in Physics, Chemistry, Mathematics, and Forensic Science. Postgraduate M.Sc. programs are also available in relevant science disciplines.",
+    "keywords": ["School of Sciences and Humanities", "B.Sc", "M.Sc", "Forensic Science", "Physics", "Chemistry", "Mathematics", "Computer Science"]
+  },
+  {
+    "id": 13,
+    "query": "What is the International Engineering Program (IEP) at SR University?",
+    "response": "The International Engineering Program (IEP) is offered in CSE and ECE disciplines in collaboration with US universities (University of Massachusetts Lowell, University of New Haven, University of Missouri, University of Central Missouri). Students can study 3 years at SRU + 1 year in the US, or 2 years at SRU + 2 years in the US. An optional 5th year allows pursuit of an MS degree from a US university.",
+    "keywords": ["IEP", "International Engineering Program", "US universities", "UMass Lowell", "study abroad", "CSE", "ECE"]
+  },
+  {
+    "id": 14,
+    "query": "What are the eligibility criteria for the International Engineering Program?",
+    "response": "To be eligible for the IEP, a candidate must obtain at least 70% marks in the subjects specified at 10+2 level, must have studied Physics, Chemistry, and Mathematics (PCM), and must qualify in SRSAT, JEE-Main, a state-level engineering entrance exam (EAPCET or EAMCET), or demonstrate merit in Sports or Cultural Activities.",
+    "keywords": ["IEP eligibility", "70%", "PCM", "SRSAT", "JEE-Main", "EAPCET", "International Engineering Program admission"]
+  },
+  {
+    "id": 15,
+    "query": "What is the University of Melbourne collaborative program at SR University?",
+    "response": "SR University offers the Bachelor of Science Advanced (Honours) degree in collaboration with the University of Melbourne, Australia (CRICOS code 112780B). Students complete Years 1-2 at SRU in Warangal and Years 3-4 at the University of Melbourne's Parkville campus. Tuition at SRU is Rs. 2,50,000/year and hostel is Rs. 1,00,000/year.",
+    "keywords": ["University of Melbourne", "B.Sc Advanced Honours", "Australia", "CRICOS 112780B", "international program", "dual degree"]
+  },
+  {
+    "id": 16,
+    "query": "What are the eligibility criteria for the University of Melbourne program at SR University?",
+    "response": "For entry into SRU (Years 1-2): Complete 10+2 in any science stream with a minimum of 70% marks (mathematics preferred but not mandatory). For transfer to the University of Melbourne (after Year 2): Complete Mathematics, Chemistry, and Physics to Year 12 level, achieve an IELTS band score of 6.5, and maintain a CGPA of 7.5 at SR University.",
+    "keywords": ["University of Melbourne eligibility", "70%", "IELTS 6.5", "CGPA 7.5", "science stream", "transfer requirements"]
+  },
+  {
+    "id": 17,
+    "query": "What is the IBAP program at SR University?",
+    "response": "The International Business Accelerated Program (IBAP) is a dual-degree 3+2 program combining a BBA from SR University with an MBA or MS in Finance or Business Analytics from the University of Massachusetts Lowell, USA. Students complete 3 years at SRU (earning the BBA) and 2 years at UMass Lowell (earning the MBA or MS).",
+    "keywords": ["IBAP", "International Business Accelerated Program", "BBA", "MBA", "UMass Lowell", "dual degree", "3+2"]
+  },
+  {
+    "id": 18,
+    "query": "What Accelerated Masters programs are available at SR University?",
+    "response": "SR University offers: (1) Accelerated MS in Computer Systems Technology with Louisiana State University Shreveport (LSUS), USA (3.5 years at SRU + 1.5 years at LSUS); (2) Masters in International Agribusiness Management with ISAM, Spain; (3) MS in Finance, MS in Public Administration, Professional MBA with UMKC (Bloch School); (4) MS in Computer Science with University of Florida (3.5 years SRU + 1.5 years UF).",
+    "keywords": ["Accelerated Masters", "LSUS", "ISAM Spain", "UMKC", "University of Florida", "MS programs", "international masters"]
+  },
+  {
+    "id": 19,
+    "query": "What is the eligibility for the Accelerated MS in Computer Science with the University of Florida?",
+    "response": "The Accelerated MS in Computer Science with the University of Florida requires a minimum CGPA of 7.5, a TOEFL score of 80, and a GRE score of 305. This program is exclusively open to B.Tech CSE students at SR University. Students complete 3.5 years at SRU and 1.5 years at the University of Florida.",
+    "keywords": ["MS Computer Science", "University of Florida", "CGPA 7.5", "TOEFL 80", "GRE 305", "B.Tech CSE", "eligibility"]
+  },
+  {
+    "id": 20,
+    "query": "What are the eligibility criteria for B.Tech programs at SR University?",
+    "response": "Candidates from Telangana must obtain at least 55% marks in 10+2 with Physics, Chemistry, and Mathematics (PCM). Candidates from other states must obtain at least 50% marks in 10+2 with PCM. All candidates must qualify in SRSAT, JEE-Main, EAPCET, EAMCET, or an equivalent state-level engineering entrance exam, or demonstrate merit in Sports or Cultural Activities.",
+    "keywords": ["B.Tech eligibility", "admission criteria", "55%", "50%", "PCM", "SRSAT", "JEE-Main", "EAPCET", "EAMCET"]
+  },
+  {
+    "id": 21,
+    "query": "What are the eligibility criteria for BBA at SR University?",
+    "response": "To be eligible for BBA at SR University, candidates must obtain at least 50% marks at the 10+2 level and must qualify in a written test and interview conducted by the University.",
+    "keywords": ["BBA eligibility", "admission", "50%", "written test", "interview", "business administration"]
+  },
+  {
+    "id": 22,
+    "query": "What are the eligibility criteria for B.Sc Agriculture at SR University?",
+    "response": "To be eligible for B.Sc. (Hons.) Agriculture at SR University, candidates must obtain at least 55% marks at 10+2 with Physics, Chemistry, and Mathematics or Biology (PCM or PCB). Students with a two-year Diploma in Agriculture or Seed Technology after Class 10 with first class are also eligible.",
+    "keywords": ["B.Sc Agriculture eligibility", "55%", "PCM", "PCB", "Diploma Agriculture", "Seed Technology"]
+  },
+  {
+    "id": 23,
+    "query": "What interdisciplinary research centres does SR University have?",
+    "response": "SR University has 12 interdisciplinary centres: NEST (entrepreneurship in science & technology), Center for Creative Cognition (CCC), Center for Design (CD), Center for Embedded Systems and IoT, Center for AI and Deep Learning (CAIDL), Collaboratory for Social Innovation (CSI), Center for Materials and Manufacturing (CMM), Center for Emerging Energy Technologies (CEET), Center for Construction Methods and Materials (CCMM), Center for Experiential Learning (CEL), Centre for Nanomaterials (CNM), and Center for Informetrics and Statistics (CIS).",
+    "keywords": ["research centres", "NEST", "CAIDL", "CCC", "IoT", "innovation centres", "interdisciplinary", "CEET", "CNM"]
+  },
+  {
+    "id": 24,
+    "query": "What is SRiX at SR University?",
+    "response": "SR Innovation Exchange (SRiX) is a DST-sponsored Technology Business Incubator at SR University. It brings entrepreneurs, mentors, researchers, and academicians together to transform ideas into businesses. SRiX provides Design & Rapid Prototyping facilities, Conference Halls, Video-conferencing, Air-conditioned Co-working spaces, and supports startups with idea validation, incubation, mentoring, legal support (IP, patenting), and funding (seed capital, angel investors, VCs). Contact: Mr. Prashanth, 8008025400.",
+    "keywords": ["SRiX", "SR Innovation Exchange", "incubator", "DST", "startup", "entrepreneurship", "incubation"]
+  },
+  {
+    "id": 25,
+    "query": "What is the CSSP at SR University?",
+    "response": "The Centre for Student Services and Placements (CSSP) coordinates all placement activities at SR University. It ensures smooth functioning of campus placements, facilitates training activities, assists students in identifying interests and strengths, offers skill development courses, arranges internships, and helps with portfolio creation. Contact: Mr. Gurcharan, 85209 54128, SRiX 1st Floor.",
+    "keywords": ["CSSP", "Centre for Student Services and Placements", "placement", "career", "training", "internship"]
+  },
+  {
+    "id": 26,
+    "query": "What student clubs are available in the School of CS&AI at SR University?",
+    "response": "The School of CS&AI has the following student clubs and chapters: Coding Club (Faculty: Dr. P. Pramod Kumar), IEEE Computer Society (Faculty: Dr. Mohammad Ali), ACM Chapter (Faculty: Dr. Raghvendra Kishore Singh), Computer Society of India (CSI) Chapter (Faculty: Ms. Neelima Gurrapu), Sankhya Club (Faculty: Dr. Sandeep), Student Startup Innovator Club (Faculty: Dr. Dharavat Nagaraju), Google Developer Student Club (GDSC) (Faculty: Dr. Rajchandar K.), and IEEE WIE (Faculty: Ms. Faiza Iram).",
+    "keywords": ["student clubs", "SoCS&AI clubs", "Coding Club", "IEEE", "ACM", "CSI", "GDSC", "Sankhya Club", "IEEE WIE"]
+  },
+  {
+    "id": 27,
+    "query": "Who is the faculty coordinator for the Coding Club at SR University?",
+    "response": "The faculty coordinator for the Coding Club at the School of CS&AI, SR University is Dr. P. Pramod Kumar.",
+    "keywords": ["Coding Club", "faculty coordinator", "Dr. P. Pramod Kumar", "SoCS&AI"]
+  },
+  {
+    "id": 28,
+    "query": "Who is the faculty coordinator for the IEEE Computer Society at SR University?",
+    "response": "The faculty coordinator for the IEEE Computer Society at the School of CS&AI, SR University is Dr. Mohammad Ali. All core members of the IEEE Computer Society must have active IEEE Student Membership, and a minimum of 12 memberships are required to run it.",
+    "keywords": ["IEEE Computer Society", "faculty coordinator", "Dr. Mohammad Ali", "IEEE membership"]
+  },
+  {
+    "id": 29,
+    "query": "Who is the faculty coordinator for the ACM Chapter at SR University?",
+    "response": "The faculty coordinator for the ACM Chapter at SR University is Dr. Raghvendra Kishore Singh. All core members must have active ACM Student Membership, and a minimum of 12-15 memberships are required to run the chapter.",
+    "keywords": ["ACM", "Association for Computing Machinery", "Dr. Raghvendra Kishore Singh", "faculty coordinator", "ACM membership"]
+  },
+  {
+    "id": 30,
+    "query": "What is the structure of the executive committee of a student club in the School of CS&AI?",
+    "response": "Each club's Executive Committee must include: Chairperson (2nd & 3rd Year students), Vice-Chair (1st-3rd year), Secretary (1st-3rd year), Treasurer (1st-3rd year), and Marketing & PR Secretary (1st-3rd year). The Operational Committee includes: Web Master, Membership Chair, Management Head, Content & Creative Head, and Digital & Social Media Head. A maximum of 12 members are allowed in the Core Committee, and the Faculty Mentor must be from the School of CS&AI.",
+    "keywords": ["executive committee", "student club structure", "Chairperson", "Vice-Chair", "Secretary", "Treasurer", "SoCS&AI clubs"]
+  },
+  {
+    "id": 31,
+    "query": "What is the Google Developer Student Club (GDSC) at SR University?",
+    "response": "The Google Developer Student Club (GDSC) at SRU is coordinated by Dr. Rajchandar K. Its objectives include fostering a community of tech enthusiasts, providing opportunities to learn technical skills through workshops and hackathons, promoting Google technologies, collaborating with student organizations and industry professionals, and offering mentorship to students interested in technology.",
+    "keywords": ["GDSC", "Google Developer Student Club", "Dr. Rajchandar K.", "Google technologies", "hackathons", "tech community"]
+  },
+  {
+    "id": 32,
+    "query": "What is the IEEE WIE chapter at SR University?",
+    "response": "The IEEE WIE (Women in Engineering) chapter at SRU is coordinated by Ms. Faiza Iram. Its objectives include promoting gender diversity in engineering, empowering and supporting female engineers through mentorship and career workshops, celebrating achievements of women in engineering, bridging industry and academia for female students, and advocating for women in engineering leadership.",
+    "keywords": ["IEEE WIE", "Women in Engineering", "Ms. Faiza Iram", "gender diversity", "female engineers", "STEM women"]
+  },
+  {
+    "id": 33,
+    "query": "What is the Student Startup Innovator Club at SR University?",
+    "response": "The Student Startup Innovator Club is coordinated by Dr. Dharavat Nagaraju. It focuses on ideation and pitching, mentorship and guidance from industry experts, entrepreneurship training (business planning, marketing, finance, legal aspects), networking opportunities with alumni and professionals, and incubation support for student startups.",
+    "keywords": ["Student Startup Innovator Club", "Dr. Dharavat Nagaraju", "startup", "entrepreneurship", "ideation", "incubation"]
+  },
+  {
+    "id": 34,
+    "query": "What is the Sankhya Club at SR University?",
+    "response": "The Sankhya Club is a mathematics-focused student club coordinated by Dr. Sandeep (Mathematics). Its activities include organizing workshops and seminars with renowned mathematicians, assisting students to prepare for GRE, GMAT, or GATE exams, advocating for mathematics students, motivating research in mathematics, conducting outreach to promote mathematics education, and fostering interdisciplinary learning.",
+    "keywords": ["Sankhya Club", "mathematics club", "Dr. Sandeep", "GRE", "GMAT", "GATE", "math workshops"]
+  },
+  {
+    "id": 35,
+    "query": "What is the CSI Chapter at SR University?",
+    "response": "The Computer Society of India (CSI) Chapter at SR University is coordinated by Ms. Neelima Gurrapu. All core members must have active CSI Student Membership. Its activities include boosting club activity, organizing specialization-specific training and workshops, focusing on technology development for India, organizing events for students' social skill development, and orienting 1st-year students for membership.",
+    "keywords": ["CSI", "Computer Society of India", "Ms. Neelima Gurrapu", "student chapter", "CSI membership"]
+  },
+  {
+    "id": 36,
+    "query": "What are the library working hours at SR University?",
+    "response": "The SR University library works on almost all days of the year (except national and social holidays): Monday to Friday: 8:30 AM to 8:30 PM; Saturday & Sunday: 10:00 AM to 4:00 PM. The library is spread over 1,000 sq.mtrs and features books, journals, e-books, e-journals, multimedia resources, a digital library section, and a reference section.",
+    "keywords": ["library hours", "library timings", "library working hours", "8:30 AM", "SRU library"]
+  },
+  {
+    "id": 37,
+    "query": "How many books can students borrow from SR University library?",
+    "response": "Borrowing privileges at SR University library: UG students - 4 books for one month; PG students - 6 books for one month; Research scholars - 6 books for one month. Members can search the library catalog using OPAC terminals at Circulation Counters or WEBOPAC within the campus at http://192.168.30.100/webopac/default.aspx.",
+    "keywords": ["library borrowing", "books limit", "OPAC", "UG students", "PG students", "research scholars", "library membership"]
+  },
+  {
+    "id": 38,
+    "query": "What is SRAAP at SR University?",
+    "response": "SRAAP stands for SR Academic & Administration Portal, the university's official web portal. Through SRAAP, students can: update profile information, review academic regulations, check the academic calendar and holiday list, register for semester courses, monitor attendance, view CIE and End-Term Examination marks, provide course feedback, submit grievances, and check final results. Daily attendance reports and mid marks are sent to parents via SMS. Contact: 8074253480.",
+    "keywords": ["SRAAP", "SR Academic Administration Portal", "academic portal", "attendance", "marks", "course registration", "student portal"]
+  },
+  {
+    "id": 39,
+    "query": "What is the attendance requirement for mid exams at SR University?",
+    "response": "Students must maintain a minimum attendance of 60% in each subject to be eligible to sit for mid exams. Attendance is calculated based on total classes conducted till the last class before the exam (including lectures, tutorials, and practical sessions). A grace allowance of up to 5% may be granted for documented absences due to medical emergencies (with HOD approval), reducing the minimum to 55%.",
+    "keywords": ["mid exam attendance", "60%", "55% grace", "attendance eligibility", "mid examination", "HOD approval"]
+  },
+  {
+    "id": 40,
+    "query": "What are the rules for arriving at the examination hall at SR University?",
+    "response": "Students must arrive at the examination hall at least 15 minutes before the scheduled start time. Identity Cards are mandatory for entry verification - no student will be permitted without a valid ID. Late entry is permitted only within the first 15 minutes after the exam has commenced.",
+    "keywords": ["exam rules", "examination hall", "arrival time", "15 minutes", "ID card", "identity verification", "late entry"]
+  },
+  {
+    "id": 41,
+    "query": "What items are prohibited in the examination hall at SR University?",
+    "response": "Prohibited items in the examination hall include: mobile phones, smart watches, electronic devices (must be switched off and stored in bags or outside), and any study material. Students must bring their own stationery (pens, pencils, erasers) - sharing is strictly prohibited. Any student found with prohibited devices will face disciplinary action.",
+    "keywords": ["prohibited items", "exam hall", "mobile phones", "smart watches", "electronic devices", "stationery", "examination rules"]
+  },
+  {
+    "id": 42,
+    "query": "What is the minimum attendance required for the end semester examinations?",
+    "response": "For end semester examinations, students with attendance 75% or more can directly register. Students with attendance between 55% and 75% must pay a condonation fee and submit a medical certificate. Students with attendance less than 55% will be detained and are not eligible to appear for end semester exams.",
+    "keywords": ["end semester attendance", "75%", "55%", "condonation fee", "detained", "attendance requirement", "end term exam"]
+  },
+  {
+    "id": 43,
+    "query": "What is the pass mark at SR University?",
+    "response": "The pass mark at SR University is 40 (out of 100). This applies to end semester examinations. Grades awarded are O, A, B, C, D for passing grades. A grade of F indicates failure.",
+    "keywords": ["pass mark", "40", "pass percentage", "fail grade", "F grade", "examination pass"]
+  },
+  {
+    "id": 44,
+    "query": "What happens if a student fails in a course at SR University?",
+    "response": "If a student fails, they can register for a Supplementary exam (one supply chance immediately after the End Term Exam or one supply chance after attempting the summer term). Students with grades B to D are eligible for grade improvement during the Summer Semester (only one chance per course). If a student fails in the supply exam, they can register for the next year supply or summer term.",
+    "keywords": ["fail course", "supplementary exam", "supply", "grade improvement", "summer semester", "backlogs", "fail policy"]
+  },
+  {
+    "id": 45,
+    "query": "What is the grade improvement policy at SR University?",
+    "response": "Students holding grades B to D are eligible for grade improvement in a course during the Summer Semester (only one chance per course). Only one opportunity will be given for grade improvement, and the best of the two grades will be considered. The maximum grade awarded in supplementary/makeup exams is 'C'.",
+    "keywords": ["grade improvement", "Summer Semester", "grade B to D", "best grade", "one chance", "grade policy"]
+  },
+  {
+    "id": 46,
+    "query": "What is the grading system at SR University?",
+    "response": "Under the R22/R23 regulation: O = 10 grade points, A = 10 grade points, B = 8 grade points, C = 6 grade points, F = 0 (fail). Under R20/R21: O = 10, A+ = 9, A = 8, B+ = 7, B = 6, C = 5, F = 0.",
+    "keywords": ["grading system", "grade points", "O grade", "A grade", "B grade", "C grade", "F grade", "CGPA", "R22", "R23", "R20"]
+  },
+  {
+    "id": 47,
+    "query": "What is the change of branch policy at SR University?",
+    "response": "Students can apply for change of branch after completing the first two semesters. Top 1% students (by CGPA until 2nd semester) can change to any branch subject to seat availability. Students with CGPA 8.0 or above (who have completed all 1st and 2nd semester courses) may also apply at SRU's discretion. All changes are effective from the 3rd semester and are final and binding. Students in the International Engineering Program cannot apply for branch upgradation.",
+    "keywords": ["change of branch", "branch transfer", "CGPA 8.0", "top 1%", "3rd semester", "branch upgradation policy"]
+  },
+  {
+    "id": 48,
+    "query": "What are the exit policy options for UG students at SR University?",
+    "response": "UG students have the following exit options under the NEP framework: (1) 1-Year UG Certificate - after earning all 40 credits within 2 years; (2) 2-Year UG Diploma Certificate - after earning all 80 credits within 4 years. Once a student opts for an exit certificate, they cannot continue to complete the full UG Degree.",
+    "keywords": ["exit policy", "UG certificate", "UG diploma", "40 credits", "80 credits", "NEP", "early exit", "lateral exit"]
+  },
+  {
+    "id": 49,
+    "query": "What are the exit options for PG students at SR University?",
+    "response": "PG students can exit with: (1) 1-Semester PG Certificate - after earning all 20 credits within 1 year; (2) 1-Year PG Diploma Certificate - after earning all 40 credits within 2 years. Once awarded an exit certificate, the student cannot continue for the full PG Degree.",
+    "keywords": ["PG exit policy", "PG certificate", "PG diploma", "20 credits", "40 credits", "postgraduate exit"]
+  },
+  {
+    "id": 50,
+    "query": "What medals and awards does SR University give to students?",
+    "response": "SR University awards: (1) Chancellor's Gold Medal - to the UG student with the highest overall performance across all programs university-wide; (2) Vice-Chancellor's Gold Medal - to the top-performing student in each program/branch; (3) Semester Academic Topper Award - to the student with the highest SGPA in each semester in each program. Students who have failed, been detained, or received betterment grades are not eligible for gold medals.",
+    "keywords": ["Chancellor Gold Medal", "Vice-Chancellor Gold Medal", "Semester Academic Topper Award", "awards", "medals", "topper", "academic excellence"]
+  },
+  {
+    "id": 51,
+    "query": "What is the mentoring system at SR University?",
+    "response": "At SR University, each student is assigned a dedicated mentor upon joining the university. Mentors are introduced during the induction program. Mentorship is designed to last throughout the student's entire academic journey. Students are urged to actively engage with mentors through regular communication and proactive participation in mentor-mentee meetings.",
+    "keywords": ["mentoring", "mentor", "mentee", "academic mentor", "induction", "student support", "academic guidance"]
+  },
+  {
+    "id": 52,
+    "query": "What health and wellness facilities are available at SR University?",
+    "response": "SR University has a Health Centre with two beds, a nurse, and a doctor available during the day. The university has an arrangement with Aaditya Hospital for emergencies, with a 24x7 ambulance on campus. The Wellness Centre operates 9:00 AM to 5:00 PM. A counseling center with a clinical psychologist is available - students can book appointments at +91 8341581850. Nurse: Ms. Pavani (8712615910); Ambulance Driver: Sai Kumar (7989738242).",
+    "keywords": ["health centre", "wellness centre", "ambulance", "counseling", "nurse", "doctor", "Aaditya hospital", "mental health"]
+  },
+  {
+    "id": 53,
+    "query": "What sports facilities are available at SR University?",
+    "response": "SR University has: Outdoor - Basketball Court, Volleyball Court, Kabaddi Court, Throw Ball Court, Kho-Kho Court, Badminton Court (beside SRiX Block); Athletics - 400m running track, Football Ground, Cricket Practice Nets (Block-III back side); Indoor - Table Tennis, Carroms, Chess, Gymnasium Hall (Block-1 back side sheds). Sports contact: Dr. P. Srinivas Goud, 9949279800.",
+    "keywords": ["sports facilities", "basketball", "volleyball", "cricket", "football", "badminton", "gymnasium", "athletics", "indoor sports", "outdoor sports"]
+  },
+  {
+    "id": 54,
+    "query": "What is the transport facility at SR University?",
+    "response": "SR University provides a daily bus service from the tri-city area of Kazipet, Hanamkonda, and Warangal, as well as from neighboring districts including Karimnagar, Husnabad, Jammikunta, and Huzurabad. Buses start from their respective points at 7:30 AM and leave the university at 5:00 PM. The service is available on a chargeable basis with no refunds for unused portions. Personal vehicles of students are not allowed inside campus. Transport complaints: Mr. T. Surendar, 9177302052.",
+    "keywords": ["transport", "bus service", "7:30 AM", "5:00 PM", "Kazipet", "Hanamkonda", "Warangal", "Karimnagar", "bus facility"]
+  },
+  {
+    "id": 55,
+    "query": "Are personal vehicles allowed inside SR University campus?",
+    "response": "Personal (powered) vehicles of students are not allowed inside the SR University campus. They must be parked outside the second gate at the designated space, at the students' own risk. The university is not responsible for any damage or theft. Cycles are allowed inside the campus and students can keep their cycles in the hostel.",
+    "keywords": ["personal vehicles", "bikes", "cars", "parking", "cycles", "bicycles", "vehicle policy"]
+  },
+  {
+    "id": 56,
+    "query": "What is the security arrangement at SR University?",
+    "response": "Security guards are deployed round the clock across all academic blocks, hostels, all entry-exit points, and key areas at SR University. These areas are also under 24x7 CCTV monitoring. Resident students must complete an out-pass process before leaving campus. Students entering after outing are physically frisked and their belongings are checked. Security contact: Mr. K Venkateshwar Rao, 9618503127.",
+    "keywords": ["security", "CCTV", "out-pass", "24x7 security", "campus security", "safety", "frisking"]
+  },
+  {
+    "id": 57,
+    "query": "What is the cafeteria like at SR University?",
+    "response": "SR University has a spacious two-storeyed cafeteria with modern equipment and a hygienic environment, spanning 710 sq ft with a capacity for 200 students. It is open 8:30 AM to 6:00 PM and serves a wide variety of North-Indian and South-Indian cuisine. Additional food outlets include Tasty Treat (near 2nd block), Meet and Eat (behind 1st block), and Bharat Foods (near 3rd block), which operate 9:00 AM to 7:00 PM.",
+    "keywords": ["cafeteria", "food", "canteen", "dining", "North-Indian", "South-Indian", "Tasty Treat", "Meet and Eat", "Bharat Foods"]
+  },
+  {
+    "id": 58,
+    "query": "What is the stationery store at SR University?",
+    "response": "A stationery store is available adjacent to Block-I at SR University, offering office supplies (pens, pencils, notebooks, files) and photocopy and printing services. Timings: 9:00 AM to 5:30 PM. Contact: Ch Rajeshwar Reddy, 9849014127.",
+    "keywords": ["stationery store", "printing", "photocopy", "Block-I", "stationery", "student supplies"]
+  },
+  {
+    "id": 59,
+    "query": "Does SR University have an ATM on campus?",
+    "response": "Yes, SR University has a Canara Bank ATM located at the entrance of the main gate of the university.",
+    "keywords": ["ATM", "Canara Bank", "banking", "cash", "ATM facility", "main gate"]
+  },
+  {
+    "id": 60,
+    "query": "What is the NCC at SR University?",
+    "response": "The National Cadet Corps (NCC) at SR University was established in September 2020 under 1(T) Compo (Tech) Regt. NCC, Warangal Group, with a strength of 160 cadets. 1st-year engineering students can enroll based on the NCC Act qualifications. Boy cadets join Senior Division (SD) and girl cadets join Senior Wing (SW). Activities include institutional training, camp training, leadership training, adventure activities, social service, cultural events, and educational programs. Contact: Mr. T. Haribabu, 8810415979.",
+    "keywords": ["NCC", "National Cadet Corps", "1st year", "SD", "SW", "military training", "leadership", "cadets"]
+  },
+  {
+    "id": 61,
+    "query": "What is the NSS at SR University?",
+    "response": "SR University has National Service Scheme (NSS) units that conduct community development and service-oriented activities including road safety programs, blood donation drives, plantation campaigns, and awareness programs in and around the region. Contact: Dr. K. Ravinder, 9912782872.",
+    "keywords": ["NSS", "National Service Scheme", "community service", "blood donation", "plantation", "social service", "Dr. K. Ravinder"]
+  },
+  {
+    "id": 62,
+    "query": "What is the printing facility at SR University?",
+    "response": "Students can avail the printing facility at the space dedicated for reprographic facilities beside Block I, available at a nominal cost. Timings: 9:00 AM to 5:30 PM. Contact: Mr. T. Surender, 9177302052.",
+    "keywords": ["printing facility", "reprographic", "Block I", "photocopy", "print", "9:00 AM", "5:30 PM"]
+  },
+  {
+    "id": 63,
+    "query": "How can students raise grievances at SR University?",
+    "response": "Students can submit grievances through SRAAP (the university's academic portal). Batch representatives also serve as a formal channel - they represent approximately 30 students each and raise grievances in meetings with the Dean/Vice-Chancellor held once per semester (usually mid-semester). The Help Desk at the main office also handles student-related services.",
+    "keywords": ["grievances", "complaints", "SRAAP", "batch representative", "Help Desk", "student feedback", "Dean meeting"]
+  },
+  {
+    "id": 64,
+    "query": "What is the Help Desk at SR University?",
+    "response": "The Help Desk at SR University functions as the primary support point for students, operating until 5:30 PM on campus. All certificates, fee receipts, medical assistance, and other student-related services are handled at the Help Desk, located at the main office. Contact: Mr. J. Sambamurthy, 9989899611.",
+    "keywords": ["Help Desk", "student services", "certificates", "fee receipts", "main office", "J. Sambamurthy"]
+  },
+  {
+    "id": 65,
+    "query": "What are the social media handles of SR University?",
+    "response": "SR University is active on: LinkedIn (https://www.linkedin.com/school/sr-university/), Instagram (https://www.instagram.com/sr_university/), Facebook (https://www.facebook.com/sruniversityindia), Twitter (https://twitter.com/sr_university), and Snapchat (https://www.snapchat.com/add/sr_university).",
+    "keywords": ["social media", "Instagram", "Facebook", "LinkedIn", "Twitter", "Snapchat", "SRU social media handles"]
+  },
+  {
+    "id": 66,
+    "query": "What is the Ph.D. program at SR University?",
+    "response": "SR University offers Ph.D. programs regulated by the Ph.D. Regulations effective for batches admitted from 2020-21 onwards. Categories include Full-time Scholars (pursuing research at SRU) and Part-time Scholars (working professionals sponsored by their organizations). The regulations cover admission, registration, coursework, examinations, and evaluation for the Ph.D. degree award.",
+    "keywords": ["PhD", "doctorate", "research program", "full-time scholar", "part-time scholar", "Ph.D. regulations", "2020-21"]
+  },
+  {
+    "id": 67,
+    "query": "What is the Ph.D. assistantship at SR University?",
+    "response": "Full-time Ph.D. scholars at SRU receive: (a) Rs. 50,000/month if their preceding degree is from IITs, NITs, or IIITs; (b) Rs. 40,000/month for all other full-time scholars; (c) Rs. 25,000/month if they opt for hostel facility (accommodation, 3 meals/day, snacks, and laundry are provided at no extra cost). Assistantship is valid for 3 years from admission registration.",
+    "keywords": ["PhD assistantship", "stipend", "Rs. 50,000", "Rs. 40,000", "Rs. 25,000", "IIT NIT IIIT", "full-time scholar", "PhD stipend"]
+  },
+  {
+    "id": 68,
+    "query": "What are the duties required for Ph.D. scholars receiving assistantship?",
+    "response": "Ph.D. scholars receiving assistantship must: provide 8 hours/week of teaching assistance; score feedback of 4 or above (out of 5) from students in teaching; show satisfactory performance in coursework, comprehensive viva, and semester progress monitoring; handle at least 1-2 capstone projects of final-year batches; mentor at least 5 UG/PG students in research tasks. They must submit the Ph.D. Assistantship claim on the 25th of every month.",
+    "keywords": ["PhD assistantship duties", "teaching assistance", "8 hours per week", "student feedback 4", "capstone project", "mentor UG PG", "claim form"]
+  },
+  {
+    "id": 69,
+    "query": "What is the credit transfer policy at SR University?",
+    "response": "SR University facilitates credit transfer to and from other universities. Students seeking transfer to other institutions submit a written request with the prescribed fee to the Dean (Academics). For incoming transfers to SRU, the student must earn at least 50% credits of SRU's approved scheme to get a degree from SRU. Student exchange programs can range from a minimum of one semester to a maximum of two years.",
+    "keywords": ["credit transfer", "Dean Academics", "50% credits", "student exchange", "transfer policy", "credits"]
+  },
+  {
+    "id": 70,
+    "query": "How does malpractice in examinations affect students at SR University?",
+    "response": "Malpractice in examinations can result in: expulsion from the examination hall, cancellation of performance in that course and all other courses in which the student has already appeared (including practicals and project work), debarment, and forfeiture of seat. Possession of lethal weapons or firearms results in the most severe penalties. Any unclassified malpractice is reported to the CoE for further action.",
+    "keywords": ["malpractice", "cheating", "exam misconduct", "expulsion", "debarment", "seat forfeiture", "exam malpractice consequences"]
+  },
+  {
+    "id": 71,
+    "query": "What regional companies are near SR University in Warangal?",
+    "response": "The tri-city area of Warangal-Hanamkonda-Kazipet has key economic entities including: IT SEZ, Cyient, Tech Mahindra, Quadrant Resource, Kakatiya Mega Textile Park, and Smart City initiatives. SRU has been actively engaged with these regional stakeholders in innovative initiatives, particularly in farming, textile, and incubation.",
+    "keywords": ["Warangal companies", "Cyient", "Tech Mahindra", "IT SEZ", "regional ecosystem", "Kakatiya Textile Park", "industry partners"]
+  },
+  {
+    "id": 72,
+    "query": "What industry partnerships does the School of Engineering have?",
+    "response": "The School of Engineering at SRU has partnerships with: Siemens (for the core EEE program), Cyient (for the core Mechanical Engineering program), and DivyaSree NSL Infrastructure (for the core Civil Engineering program).",
+    "keywords": ["industry partnerships", "Siemens", "Cyient", "DivyaSree NSL", "EEE", "Mechanical Engineering", "Civil Engineering", "industry collaboration"]
+  },
+  {
+    "id": 73,
+    "query": "What is the SRSAT exam?",
+    "response": "SRSAT (SR University Scholarship and Admission Test) is SR University's own entrance exam used for admissions to various undergraduate programs at SRU, including B.Tech, BBA, and other programs. It is one of the qualifying exams accepted along with JEE-Main, EAPCET, and EAMCET.",
+    "keywords": ["SRSAT", "SR University entrance exam", "admission test", "scholarship test", "entrance test SRU"]
+  },
+  {
+    "id": 74,
+    "query": "What are the mid examination conduct rules at SR University?",
+    "response": "During mid exams, students must: sit only in designated seats; maintain strict silence; not cheat (cheating leads to immediate expulsion and disciplinary action); not leave the hall within the first 30 minutes; use the restroom or drink water only once during the exam (one person at a time, max 10% of hall capacity at any given time). No study material is allowed in the examination hall.",
+    "keywords": ["mid exam conduct", "exam rules", "silence", "cheating", "leave exam hall", "restroom rule", "30 minutes"]
+  },
+  {
+    "id": 75,
+    "query": "What are special provisions for medical emergencies during exams at SR University?",
+    "response": "Students with permanent or temporary disabilities (with a certificate from the Chief Medical Officer/General Surgeon/Medical Superintendent of a government or certified institution) are eligible for special arrangements. In immediate emergencies (accidents/sudden illness), an application within 24 hours with a valid medical certificate and permission from school Deans can be considered. Eligible students may get a separate exam hall on the ground floor of their school/block.",
+    "keywords": ["medical emergency exam", "disability", "CMO certificate", "special exam arrangement", "ground floor", "medical certificate", "exam special case"]
+  },
+  {
+    "id": 76,
+    "query": "Can a student leave the examination hall early at SR University?",
+    "response": "Students may be permitted to leave the examination hall only after 30 minutes have elapsed from the start of the exam.",
+    "keywords": ["leave exam hall", "early exit", "30 minutes", "examination hall rules", "exam leave policy"]
+  },
+  {
+    "id": 77,
+    "query": "What information do parents receive about their ward at SR University?",
+    "response": "Parents of SR University students receive the daily attendance report, mid marks, and other relevant information via SMS. The SRAAP portal allows students to update their parent's contact numbers so parents stay informed of their ward's academic progress.",
+    "keywords": ["SRAAP parents", "SMS notifications", "attendance SMS", "parent information", "parents portal", "marks SMS"]
+  },
+  {
+    "id": 78,
+    "query": "What is the batch representative system at SR University?",
+    "response": "Batch representatives are elected at the start of every semester. A batch consists of approximately 30 students, each represented by one elected batch representative. These representatives voice the views and grievances of their batch in meetings with the Dean/Vice-Chancellor held once per semester (usually mid-semester).",
+    "keywords": ["batch representative", "class representative", "30 students", "Dean meeting", "VC meeting", "grievance", "student voice"]
+  },
+  {
+    "id": 79,
+    "query": "What is the NEST centre at SR University?",
+    "response": "NEST (Nest for Entrepreneurship in Science and Technology) is one of SR University's 12 interdisciplinary research and innovation centres. It focuses on promoting entrepreneurship among science and technology students.",
+    "keywords": ["NEST", "Nest for Entrepreneurship", "science technology entrepreneurship", "research centre", "innovation"]
+  },
+  {
+    "id": 80,
+    "query": "What is the Center for AI and Deep Learning at SR University?",
+    "response": "The Center for AI and Deep Learning (CAIDL) is one of SR University's 12 interdisciplinary centres. It supports research and application development in artificial intelligence and neural networks.",
+    "keywords": ["CAIDL", "Center for AI and Deep Learning", "artificial intelligence", "neural networks", "AI research", "deep learning"]
+  },
+  {
+    "id": 81,
+    "query": "How can students register for semester courses at SR University?",
+    "response": "Students register for semester courses through the SRAAP (SR Academic & Administration Portal). The Dean of Academics notifies students regarding course registration. The SRAAP team releases the portal for the payment of semester fees and course registration at the start of each semester.",
+    "keywords": ["course registration", "SRAAP", "semester registration", "Dean Academics", "fee payment", "portal registration"]
+  },
+  {
+    "id": 82,
+    "query": "What is the Semester Academic Topper Award at SR University?",
+    "response": "The Semester Academic Topper Award is given to the student with the highest SGPA in a specific semester. Awards are given in each semester in each program, with the number of awards equal to the number of batches in that semester. Ties are resolved first by maximum number of O, A, B grades (in that order), and if still unresolved, by the younger student (by date of birth).",
+    "keywords": ["Semester Academic Topper Award", "SGPA", "topper", "academic award", "tie-break", "O A B grades"]
+  },
+  {
+    "id": 83,
+    "query": "What is the Chancellor's Gold Medal at SR University?",
+    "response": "The Chancellor's Gold Medal is awarded to the undergraduate student who secures the first position in overall performance in the University, across all programs and branches, subject to a minimum number of students registered for the program. Students who have ever been disciplined, failed any course, or been detained are not eligible.",
+    "keywords": ["Chancellor Gold Medal", "first position", "overall performance", "UG", "university topper", "gold medal"]
+  },
+  {
+    "id": 84,
+    "query": "What is the Vice-Chancellor's Gold Medal at SR University?",
+    "response": "The Vice-Chancellor's Gold Medal is awarded to students who have secured the first position in overall performance in each program/branch running at SR University. A committee constituted by the Vice-Chancellor reviews candidates' behavior, discipline, semester percentages, and course completion before approving the award.",
+    "keywords": ["Vice-Chancellor Gold Medal", "program topper", "branch topper", "gold medal", "VC medal", "academic award"]
+  },
+  {
+    "id": 85,
+    "query": "What is the official website and contact email for SR University?",
+    "response": "SR University's official website is sru.edu.in. The official email is info@sru.edu.in and the phone number is 0870-281-8333.",
+    "keywords": ["SRU website", "sru.edu.in", "contact email", "info@sru.edu.in", "0870-281-8333", "phone number", "official contact"]
+  },
+  {
+    "id": 86,
+    "query": "What are the ECE specializations available at SR University?",
+    "response": "In the School of Engineering, ECE programs are available in: (1) B.Tech in Electronics and Communication Engineering (Core), (2) B.Tech in ECE with specialisation in VLSI Design, (3) B.Tech in ECE with specialisation in Robotics and Automation.",
+    "keywords": ["ECE programs", "Electronics Communication Engineering", "VLSI Design", "Robotics Automation", "ECE specialization"]
+  },
+  {
+    "id": 87,
+    "query": "What are the EEE specializations at SR University?",
+    "response": "EEE programs at SR University include: (1) B.Tech in Electrical and Electronics Engineering (Core, in partnership with Siemens), (2) B.Tech in EEE with specialisation in Renewable Energy, (3) B.Tech in EEE with specialisation in Electric Vehicles, (4) B.Tech in EEE with specialisation in Robotics and Automation.",
+    "keywords": ["EEE programs", "Electrical Electronics Engineering", "Siemens", "Renewable Energy", "Electric Vehicles", "EEE specialization"]
+  },
+  {
+    "id": 88,
+    "query": "What are the Mechanical Engineering programs at SR University?",
+    "response": "Mechanical Engineering programs at SR University: (1) B.Tech in Mechanical Engineering (Core, in partnership with Cyient), (2) B.Tech in ME with specialisation in Robotics and Automation, (3) B.Tech in ME with specialisation in Smart Manufacturing.",
+    "keywords": ["Mechanical Engineering", "Cyient", "Smart Manufacturing", "Robotics Automation", "ME programs", "B.Tech Mechanical"]
+  },
+  {
+    "id": 89,
+    "query": "What are the Civil Engineering programs at SR University?",
+    "response": "Civil Engineering programs at SR University: (1) B.Tech in Civil Engineering (Core, in partnership with DivyaSree NSL Infrastructure), (2) B.Tech in Civil with specialisation in Robotics and Automation.",
+    "keywords": ["Civil Engineering", "DivyaSree NSL", "Robotics Automation", "B.Tech Civil", "civil programs"]
+  },
+  {
+    "id": 90,
+    "query": "What is the BCA program at SR University?",
+    "response": "The Astra School of Business at SR University offers the Bachelor of Computer Applications (BCA) program. Details about the program are available on the university website at sru.edu.in.",
+    "keywords": ["BCA", "Bachelor of Computer Applications", "Astra School of Business", "BCA program"]
+  },
+  {
+    "id": 91,
+    "query": "What postgraduate programs are offered at SR University?",
+    "response": "SR University offers: MBA (Astra School of Business), M.Sc. Agriculture (School of Agriculture), M.Sc. programs in science disciplines (School of Sciences & Humanities), M.Tech programs in various engineering disciplines (School of Engineering), and MCA/other PG programs. International accelerated masters include MS programs with UF, LSUS, UMKC, and ISAM Spain.",
+    "keywords": ["postgraduate", "MBA", "M.Sc", "M.Tech", "MCA", "masters programs", "PG programs", "SRU masters"]
+  },
+  {
+    "id": 92,
+    "query": "How is the Continuous Internal Evaluation (CIE) conducted at SR University?",
+    "response": "CIE (Continuous Internal Evaluation) marks are tracked through SRAAP. Mid-term examination marks and CIE form part of the overall evaluation. Students can monitor their CIE marks on SRAAP. For supplementary/makeup exams, earlier Mid and CIE marks may be nullified or carried forward depending on the exam type.",
+    "keywords": ["CIE", "Continuous Internal Evaluation", "internal marks", "SRAAP marks", "mid marks", "internal assessment"]
+  },
+  {
+    "id": 93,
+    "query": "What is the fee structure for the University of Melbourne program at SR University?",
+    "response": "For the BSc Advanced Honours program with the University of Melbourne: Years 1-2 at SR University - tuition fee is Rs. 2,50,000 per year and hostel fee is Rs. 1,00,000 per year. For Years 3-4 at the University of Melbourne, fee details are available on the University of Melbourne website at https://study.unimelb.edu.au.",
+    "keywords": ["University of Melbourne fee", "tuition fee", "Rs. 2,50,000", "hostel fee Rs. 1,00,000", "fee structure Melbourne program"]
+  },
+  {
+    "id": 94,
+    "query": "What is the IBAP eligibility criteria at SR University?",
+    "response": "To be eligible for the IBAP program at SR University, candidates must obtain at least 60% marks at the 10+2 level and must qualify in SRSAT, JEE-Main, EAPCET, or equivalent state-level entrance exams, or demonstrate merit in Sports or Cultural Activities.",
+    "keywords": ["IBAP eligibility", "60%", "SRSAT", "JEE-Main", "EAPCET", "International Business Accelerated Program", "BBA UMass"]
+  },
+  {
+    "id": 95,
+    "query": "What is the Accelerated MS in Computer Systems Technology at SR University?",
+    "response": "The Accelerated MS in Computer Systems Technology is offered in partnership with Louisiana State University Shreveport (LSUS), USA. Students study B.Tech at SR University for 3.5 years and then transfer to LSUS for 1.5 years. Eligibility: open to all B.Tech students at SRU with a minimum CGPA of 6.5, a TOEFL score of 61 or IELTS score of 6, and no backlogs.",
+    "keywords": ["Accelerated MS", "LSUS", "Louisiana State University Shreveport", "Computer Systems Technology", "CGPA 6.5", "TOEFL 61", "IELTS 6", "no backlogs"]
+  },
+  {
+    "id": 96,
+    "query": "What is the research collaboration SR University has with Missouri S&T?",
+    "response": "SR University maintains a research collaboration with Missouri University of Science and Technology (Missouri S&T), USA. This collaboration is open to all engineering scholars at SRU.",
+    "keywords": ["Missouri S&T", "Missouri University of Science and Technology", "research collaboration", "engineering scholars", "USA research"]
+  },
+  {
+    "id": 97,
+    "query": "What is the Accelerated Masters in International Agribusiness Management at SR University?",
+    "response": "The Accelerated Masters in International Agribusiness Management is offered in collaboration with the International School of Agri Management (ISAM) in Spain. Students complete one year of study at ISAM in Spain. It is open to Agriculture students with at least 65% marks; language requirements are assessed on a case-by-case basis.",
+    "keywords": ["International Agribusiness Management", "ISAM Spain", "Agriculture masters", "65% marks", "accelerated masters", "Spain"]
+  },
+  {
+    "id": 98,
+    "query": "What is the Accelerated Masters program with UMKC at SR University?",
+    "response": "SR University offers MS in Finance, MS in Public Administration, and a Professional MBA in collaboration with the Bloch School of Management at the University of Missouri-Kansas City (UMKC), USA. Students study at SRU for 2.5 years and transfer to UMKC for the remaining 1.5 years. Eligibility: BBA students with at least 65% marks.",
+    "keywords": ["UMKC", "Bloch School", "University of Missouri Kansas City", "MS Finance", "MS Public Administration", "Professional MBA", "65% BBA", "accelerated masters"]
+  },
+  {
+    "id": 99,
+    "query": "What are the IEP partner universities for SR University?",
+    "response": "The International Engineering Program (IEP) partner universities are: University of Massachusetts Lowell (USA), University of New Haven (USA), University of Missouri (USA), and University of Central Missouri (USA).",
+    "keywords": ["IEP partner universities", "UMass Lowell", "University of New Haven", "University of Missouri", "University of Central Missouri", "IEP USA universities"]
+  },
+  {
+    "id": 100,
+    "query": "What internship opportunities are available for SR University students?",
+    "response": "CSSP at SR University reaches out to industries and start-ups to provide internship opportunities during the summer break and the final semester. Interns gain exposure to the latest technologies and corporate working culture while building their corporate network. Students can also create portfolios through CSSP assistance.",
+    "keywords": ["internship", "CSSP", "summer internship", "final semester internship", "industry internship", "corporate", "portfolio"]
+  },
+  {
+    "id": 101,
+    "query": "What skill development courses does SR University offer through CSSP?",
+    "response": "The CSSP (Centre for Student Services and Placements) at SR University offers various skill development courses aimed at improving employability. The centre works to enhance the skill component among students and offers courses related to improving employment opportunities. Students enroll upon registration calls from the center.",
+    "keywords": ["skill development", "CSSP courses", "employability", "placement training", "soft skills", "technical skills"]
+  },
+  {
+    "id": 102,
+    "query": "What is the portfolio creation service at SR University?",
+    "response": "CSSP at SR University provides assistance to students to create professional portfolios. The portfolio includes a collection of all skills, accomplishments, experiences, and attributes, highlighting the student's best works, certifications, and other important achievements.",
+    "keywords": ["portfolio creation", "CSSP portfolio", "student portfolio", "certifications", "achievements", "career portfolio"]
+  },
+  {
+    "id": 103,
+    "query": "What is the NSP Scholarship at SR University?",
+    "response": "SR University has published a circular for the NSP (National Scholarship Portal) Scholarship for 2025-26. Students seeking government scholarships should check this circular. Details are available through the university's official communications.",
+    "keywords": ["NSP scholarship", "National Scholarship Portal", "scholarship 2025-26", "government scholarship", "financial aid"]
+  },
+  {
+    "id": 104,
+    "query": "What is the Coding Club at SR University?",
+    "response": "The Coding Club at SR University (School of CS&AI) is coordinated by Dr. P. Pramod Kumar. Its activities include targeting problem-solving skills improvement, motivating students to improve their rank on coding platforms (Beginner, Intermediate & Advanced levels), encouraging participation in in-campus and off-campus coding competitions, exploring benefits of multiple coding platforms, and orienting 1st-year students for membership.",
+    "keywords": ["Coding Club", "Dr. P. Pramod Kumar", "problem solving", "coding platforms", "competitive programming", "coding competitions"]
+  },
+  {
+    "id": 105,
+    "query": "What does the IEEE Computer Society chapter do at SR University?",
+    "response": "The IEEE Computer Society chapter at SRU focuses on: exploring IEEE support and connecting with international experts, product technology protocols and standards, celebrating IEEE Day, increasing IEEE membership among students and faculty, technical development (paper contests, articles for Potentials magazine, robotic/design contests, IEEEXtreme programming challenge), professional development workshops (S-PAC, S-PAVe), and humanitarian/community activities.",
+    "keywords": ["IEEE Computer Society", "IEEE Day", "IEEEXtreme", "S-PAC", "S-PAVe", "Potentials magazine", "IEEE membership", "technical development"]
+  },
+  {
+    "id": 106,
+    "query": "What is the ACM chapter focus at SR University?",
+    "response": "The ACM student chapter at SRU focuses on: maintaining visibility on national and international landscapes, research-oriented topics, increasing reach by contacting ACM portal experts for talks, managing club member rosters and web tools, maintaining a local activities calendar, leveraging the ACM Distinguished Speakers Program, and applying for UPE/ACM Student Club Scholarship Award and ACM Student Club Excellence Awards.",
+    "keywords": ["ACM chapter", "ACM Distinguished Speakers", "research topics", "national international visibility", "ACM Student Club Excellence", "UPE ACM scholarship"]
+  },
+  {
+    "id": 107,
+    "query": "What is the maximum size of a student club core committee at SR University?",
+    "response": "The Core Committee of a student club in the School of CS&AI can have a maximum of 12 members, including the Executive Committee (Level 1) and Operational Team (Level 2). Two additional positions can be created by individual clubs as needed, but the total core committee must not exceed 12 members.",
+    "keywords": ["core committee", "12 members", "club size", "executive committee", "operational team", "student club limit"]
+  },
+  {
+    "id": 108,
+    "query": "What are the responsibilities of student clubs at SR University?",
+    "response": "Club office bearers are responsible for: meeting members' needs and carrying out activities assigned by the Dean; maintaining frequency and quality of activities; communicating with the faculty mentor; submitting annual financial and activity reports; reporting changes in officers and contact information; updating club member lists; and managing club funds.",
+    "keywords": ["club responsibilities", "office bearers", "faculty mentor", "annual report", "financial report", "club management", "Dean responsibilities"]
+  },
+  {
+    "id": 109,
+    "query": "What are the examination process steps for students with attendance between 55% and 75%?",
+    "response": "Students with attendance between 55% and 75% must pay a condonation fee and submit a medical certificate to be allowed to register for the End Semester Examinations. This is treated as a special case requiring prior approval.",
+    "keywords": ["condonation fee", "55% to 75% attendance", "medical certificate", "special case", "end semester exam", "attendance shortage"]
+  },
+  {
+    "id": 110,
+    "query": "Can a student absent for medical reasons appear for a makeup exam at SR University?",
+    "response": "Yes. Students who are absent for exams due to medical grounds can register for a Supplementary/End Semester Makeup Exam. They must provide a valid medical certificate. The makeup exam question paper is set for 100 marks and scaled down to equal the regular End Semester Exam marks. The maximum grade awarded is 'C'.",
+    "keywords": ["makeup exam", "medical absence", "supplementary exam", "medical certificate", "grade C maximum", "absent exam medical"]
+  },
+  {
+    "id": 111,
+    "query": "What is the fee fine for late registration for supplementary exams at SR University?",
+    "response": "Students who register late (with fine) for Even semester supplementary/End Term Make-Up exams are charged a fine of Rs. 5,000. For Summer Semester registrations with fine, the amount is Rs. 500.",
+    "keywords": ["late registration fine", "Rs. 5000", "Rs. 500", "supplementary exam fine", "make-up exam fine", "registration penalty"]
+  },
+  {
+    "id": 112,
+    "query": "What is the Continuous Internal Evaluation (CIE) impact in makeup exams at SR University?",
+    "response": "In Supplementary Exams: Earlier Mid and CIE marks will carry forward, and the question paper is set for 100 marks and scaled to equal the regular End Semester Exam marks. In Summer Semester/Grade Improvement: Earlier Mid and CIE marks will be nullified, and the question paper is set for 100 marks for evaluation.",
+    "keywords": ["CIE carry forward", "CIE nullified", "supplementary exam CIE", "summer semester CIE", "makeup exam marks", "internal marks policy"]
+  },
+  {
+    "id": 113,
+    "query": "What programs are available at the School of Allied Health Sciences at SR University?",
+    "response": "The School of Allied Health Sciences at SR University offers programs in allied health science disciplines. Detailed program-specific information is available on the official university website at https://sru.edu.in/schools/school-of-allied-health-sciences.",
+    "keywords": ["Allied Health Sciences", "health programs", "School of Allied Health Sciences", "healthcare programs", "SRU health"]
+  },
+  {
+    "id": 114,
+    "query": "What subjects can University of Melbourne students choose at the Melbourne campus?",
+    "response": "At the University of Melbourne, students can choose from majors including: Agricultural Science, Animal Health and Disease, Animal Science and Management, Biochemistry and Molecular Biology, Cell and Developmental Biology, Chemistry, Climate and Weather, Ecosystem Science, Food Science, Geography, Immunology, Infection and Immunity, Microbiology, Neuroscience, Pharmacology, Physics, Plant Science, Genetics, Zoology, and Data Science.",
+    "keywords": ["University of Melbourne majors", "BSc Advanced Honours subjects", "Neuroscience", "Data Science", "Biochemistry", "Genetics", "Zoology", "Melbourne courses"]
+  },
+  {
+    "id": 115,
+    "query": "How does SR University support regional development?",
+    "response": "SR University has been an active player in developing the regional ecosystem of Warangal by: engaging regional stakeholders through innovative initiatives, addressing regional needs in farming, textile, and incubation, and working to create living-learning regional communities to experiment, learn, and co-create new technologies. The university participates with key local entities such as Cyient, Tech Mahindra, and Smart City initiatives.",
+    "keywords": ["regional development", "Warangal ecosystem", "farming", "textile", "incubation", "Tech Mahindra", "Cyient", "regional engagement"]
+  },
+  {
+    "id": 116,
+    "query": "What are the five key focus areas of SR University's vision?",
+    "response": "SR University's five key focus areas are: (1) Industry-integrated learning with deep industry connections; (2) Inter-departmental learning that creates T-shaped professionals; (3) A vibrant learning ecosystem with academic freedom enabling diverse teaching techniques; (4) Diverse activities including international conferences, workshops, hackathons, and entrepreneurial initiatives; (5) Emphasis on entrepreneurship and research culture.",
+    "keywords": ["SRU vision", "industry integrated learning", "T-shaped professionals", "academic freedom", "entrepreneurship culture", "research culture", "SRU focus areas"]
+  },
+  {
+    "id": 117,
+    "query": "What is the UGC approval status of SR University?",
+    "response": "SR University is UGC approved (2F approval). A copy of the UGC 2F approval is available at https://sru.edu.in/assets/pdf/SR University 2f Approval.PDF. SR University is also registered under NIRF and publishes its data transparently at https://sru.edu.in/nirf.",
+    "keywords": ["UGC approval", "UGC 2F", "NIRF registration", "accreditation", "university approval", "UGC recognized"]
+  },
+  {
+    "id": 118,
+    "query": "What is the role of the Governing Body at SR University?",
+    "response": "The Governing Body at SR University oversees the overall institutional policy and administration. Detailed composition and minutes are available at https://sru.edu.in/governing_body.",
+    "keywords": ["Governing Body", "institutional policy", "administration", "statutory body", "governance SRU"]
+  },
+  {
+    "id": 119,
+    "query": "What is the role of the Board of Management at SR University?",
+    "response": "The Board of Management at SR University is responsible for strategic decisions and financial administration. Details are available at https://sru.edu.in/board_of_management.",
+    "keywords": ["Board of Management", "strategic decisions", "financial administration", "statutory body", "management body"]
+  },
+  {
+    "id": 120,
+    "query": "What is the role of the Academic Council at SR University?",
+    "response": "The Academic Council at SR University oversees all academic matters, curriculum development, and examination policies. Details are available at https://sru.edu.in/academic_council.php.",
+    "keywords": ["Academic Council", "curriculum development", "examination policies", "academic matters", "statutory body"]
+  },
+  {
+    "id": 121,
+    "query": "What is the Center for Emerging Energy Technologies at SR University?",
+    "response": "The Center for Emerging Energy Technologies (CEET) is one of SR University's 12 interdisciplinary research and innovation centres. It focuses on renewable and clean energy research.",
+    "keywords": ["CEET", "Center for Emerging Energy Technologies", "renewable energy", "clean energy", "energy research", "interdisciplinary centre"]
+  },
+  {
+    "id": 122,
+    "query": "What is the Center for Embedded Systems and IoT at SR University?",
+    "response": "The Center for Embedded Systems and IoT is one of SR University's 12 interdisciplinary centres. It focuses on the Internet of Things (IoT), embedded computing, and connected devices.",
+    "keywords": ["Center for Embedded Systems", "IoT", "Internet of Things", "embedded computing", "connected devices", "research centre"]
+  },
+  {
+    "id": 123,
+    "query": "What is the Collaboratory for Social Innovation at SR University?",
+    "response": "The Collaboratory for Social Innovation (CSI) is one of SR University's 12 interdisciplinary research and innovation centres. It focuses on socially relevant research and solutions.",
+    "keywords": ["Collaboratory for Social Innovation", "CSI centre", "social innovation", "socially relevant research", "interdisciplinary centre"]
+  },
+  {
+    "id": 124,
+    "query": "What is the Center for Informetrics and Statistics at SR University?",
+    "response": "The Center for Informetrics and Statistics (CIS) is one of SR University's 12 interdisciplinary research and innovation centres. It supports data analytics and statistical research.",
+    "keywords": ["CIS", "Center for Informetrics and Statistics", "data analytics", "statistical research", "informetrics"]
+  },
+  {
+    "id": 125,
+    "query": "What is the Center for Materials and Manufacturing at SR University?",
+    "response": "The Center for Materials and Manufacturing (CMM) is one of SR University's 12 interdisciplinary research and innovation centres. It engages in advanced materials research and manufacturing processes.",
+    "keywords": ["CMM", "Center for Materials and Manufacturing", "advanced materials", "manufacturing research", "materials science"]
+  },
+  {
+    "id": 126,
+    "query": "What is the Center for Construction Methods and Materials at SR University?",
+    "response": "The Center for Construction Methods and Materials (CCMM) is one of SR University's 12 interdisciplinary research and innovation centres. It supports civil engineering innovation.",
+    "keywords": ["CCMM", "Center for Construction Methods and Materials", "civil engineering", "construction innovation", "research centre"]
+  },
+  {
+    "id": 127,
+    "query": "What is the Center for Creative Cognition at SR University?",
+    "response": "The Center for Creative Cognition (CCC) is one of SR University's 12 interdisciplinary research and innovation centres. It explores creativity and cognitive approaches to learning and problem-solving.",
+    "keywords": ["CCC", "Center for Creative Cognition", "creativity", "cognitive learning", "problem-solving", "research centre"]
+  },
+  {
+    "id": 128,
+    "query": "What is the Center for Design at SR University?",
+    "response": "The Center for Design (CD) is one of SR University's 12 interdisciplinary research and innovation centres. It engages students in design thinking and practice.",
+    "keywords": ["Center for Design", "CD", "design thinking", "design practice", "student design", "interdisciplinary centre"]
+  },
+  {
+    "id": 129,
+    "query": "What is the Center for Experiential Learning at SR University?",
+    "response": "The Center for Experiential Learning (CEL) is one of SR University's 12 interdisciplinary research and innovation centres. It promotes learning through doing and real-world application.",
+    "keywords": ["CEL", "Center for Experiential Learning", "learning by doing", "real-world learning", "experiential education"]
+  },
+  {
+    "id": 130,
+    "query": "What is the Centre for Nanomaterials at SR University?",
+    "response": "The Centre for Nanomaterials (CNM) is one of SR University's 12 interdisciplinary research and innovation centres. It focuses on nanotechnology research.",
+    "keywords": ["CNM", "Centre for Nanomaterials", "nanotechnology", "nano research", "materials research"]
+  },
+  {
+    "id": 131,
+    "query": "What are the SRiX facilities at SR University?",
+    "response": "SRiX (SR Innovation Exchange) provides: Design & Rapid Prototyping facilities, Conference Halls/Meeting Rooms, Video-conferencing facilities, and Air-conditioned Co-working spaces with Wi-Fi. It also provides support in idea valuation/validation, end-to-end product development, incubation and acceleration, mentoring (branding, marketing, go-to-market, technology, commercialisation), legal support (IP, patenting, company incorporation), funding support (seed capital, grants, angel investors, VCs), financial services, and HR support.",
+    "keywords": ["SRiX facilities", "prototyping", "co-working space", "incubation support", "mentoring", "legal support", "funding", "seed capital", "angel investors"]
+  },
+  {
+    "id": 132,
+    "query": "What is the out-pass process for hostel students at SR University?",
+    "response": "All resident students at SR University must complete the out-pass process before leaving the campus. Students entering the campus after outing are physically frisked and their belongings are checked by security guards to prevent prohibited items from entering the hostels.",
+    "keywords": ["out-pass", "hostel rules", "leave campus", "frisking", "security check", "resident students", "hostel exit"]
+  },
+  {
+    "id": 133,
+    "query": "How does counseling work at SR University?",
+    "response": "SR University has a counseling center with a clinical psychologist offering counseling services to students. Students are informed about counseling services during the orientation program. Appointments can be made directly or via call/WhatsApp at +91 8341581850 (for both boys and girls).",
+    "keywords": ["counseling", "clinical psychologist", "mental health", "appointment", "+91 8341581850", "student counseling", "wellness"]
+  },
+  {
+    "id": 134,
+    "query": "What is the ambulance facility at SR University?",
+    "response": "SR University has a 24x7 ambulance stationed on campus. In case of any medical emergency, students are taken to Aaditya Hospital in the ambulance. Ambulance Driver: Sai Kumar, Contact No: 7989738242.",
+    "keywords": ["ambulance", "24x7", "emergency", "Aaditya Hospital", "Sai Kumar", "7989738242", "medical emergency"]
+  },
+  {
+    "id": 135,
+    "query": "What is the Capstone Project in Mechanical Engineering at SR University?",
+    "response": "In the Mechanical Engineering program at SR University, the Capstone Project (course code 23ME009PR401, 9 credits) is available in Semester VII. Alternatively, students can opt for a Major Project/Industry Project/Industry Internship/R&D Project/Startup/Externship (30 credit hours, 15 credits) in Semesters VII and VIII.",
+    "keywords": ["Capstone Project", "Mechanical Engineering", "23ME009PR401", "Semester VII", "Major Project", "Industry Internship", "Externship"]
+  },
+  {
+    "id": 136,
+    "query": "What is the course structure for first semester Mechanical Engineering at SR University?",
+    "response": "The 1st semester of Mechanical Engineering (R23) includes: Graphics Design and Modelling (23ME002ES101, 2 credits), Mathematics Electives-I (4 credits), Basic Sciences Elective-I (5 credits), Problem Solving Using Programming Elective-I (6 credits), Life Skills (23EN100HS101, 1 credit), Liberal Arts & Humanities Elective-I (1 credit), Liberal Arts & Humanities Elective-II (1 credit). Total: 20 credits.",
+    "keywords": ["Mechanical Engineering first semester", "R23", "Graphics Design", "Mathematics Elective", "Life Skills", "20 credits", "I SEM ME"]
+  },
+  {
+    "id": 137,
+    "query": "What are the specialization elective options for ECE at SR University?",
+    "response": "For ECE specializations, available elective tracks include: EDT (Electronic Design Technology) - MOS Device Modeling, Nanotechnology and Emerging Applications, Design for Manufacturability; ES (Embedded System) - Advanced Processor Architecture, Embedded SoC and Cyber Physical Systems, Advanced Embedded Computing; IoT - Networking and IoT, Cloud Architecture and Computing, Wearable Computing Mixed Reality and Internet of Everything; VLSI - Mixed Signal IC Design, Memory Design and Testing, Digital VLSI Testing.",
+    "keywords": ["ECE specialization electives", "EDT", "Embedded System electives", "IoT electives", "VLSI electives", "ECE elective courses"]
+  },
+  {
+    "id": 138,
+    "query": "What MBA specializations are available through the IBAP program at SR University?",
+    "response": "Through the IBAP (International Business Accelerated Program) in collaboration with UMass Lowell, USA, students can obtain an MBA, an MS in Finance, or an MS in Business Analytics from UMass Lowell after completing BBA from SR University.",
+    "keywords": ["IBAP MBA", "MS Finance", "MS Business Analytics", "UMass Lowell degrees", "dual degree business", "IBAP specializations"]
+  },
+  {
+    "id": 139,
+    "query": "What is the Mechanical Engineering III semester course structure at SR University?",
+    "response": "The III semester of Mechanical Engineering at SR University includes: Thermodynamics (24ME310PC201, 4 credits), Mechanics of Solids (24ME301PC202, 4 credits), Materials Science and Engineering (24ME301PC203, 4 credits), Machines and Mechanisms (24ME300PC204, 3 credits), Mathematics Electives-II (4 credits), Specialization Core-I (4 credits). Total: 23 credits.",
+    "keywords": ["ME III semester", "Thermodynamics", "Mechanics of Solids", "Materials Science", "Machines Mechanisms", "23 credits", "Mechanical III sem"]
+  },
+  {
+    "id": 140,
+    "query": "What are the program elective options for Mechanical Engineering at SR University?",
+    "response": "Program Electives for Mechanical Engineering at SRU include: Renewable Energy Systems, Non-Destructive Testing, Introduction to Factory Automation, Composite Materials, Applied Thermodynamics, Production Operations and Management, Production Planning and Control, Principles of Computer Integrated Manufacturing, and Industrial Robotics.",
+    "keywords": ["ME program electives", "Renewable Energy Systems", "Factory Automation", "Composite Materials", "Industrial Robotics", "Mechanical electives"]
+  },
+  {
+    "id": 141,
+    "query": "What is the Mechanical Engineering IV semester at SR University?",
+    "response": "The IV semester of Mechanical Engineering includes: Manufacturing Technology (24ME301PC205, 4 credits), Fluid Mechanics and Hydraulic Machinery (24ME301PC206, 4 credits), Mathematics Electives-III (4 credits), Specialization Core-II (4 credits), Program Elective-I (3 credits), Specialization Elective-I (3 credits), Career Readiness Elective-I (3 credits), and Summer Internship (24ME001PR201, 1 credit). Total: 25 credits.",
+    "keywords": ["ME IV semester", "Manufacturing Technology", "Fluid Mechanics", "Hydraulic Machinery", "Career Readiness", "Summer Internship ME", "25 credits"]
+  },
+  {
+    "id": 142,
+    "query": "What are the Civil Engineering M.Tech Honours course options at SR University?",
+    "response": "Civil Engineering Honors courses across semesters include: Semester IV - Nanocomposites Design and Synthesis (23CE310PH301, 4 credits); Semester V - Polymer Nanocomposites (23CE310PH302, 4 credits); Semester VI - Applications of Nanomaterials in Construction (23CE310PH303, 4 credits); Semester VII - Advanced Construction Techniques (23CE310PH304, 4 credits).",
+    "keywords": ["Civil Engineering Honours", "Nanocomposites", "Polymer Nanocomposites", "Nanomaterials in construction", "Advanced Construction Techniques", "CE Honours courses"]
+  },
+  {
+    "id": 143,
+    "query": "What is the VLSI specialization in ECE at SR University?",
+    "response": "The VLSI specialization in ECE at SR University covers: Program Core - Analog IC Design (23VL301PC501), CMOS VLSI Design (23VL301PC502), Advanced Microcomputer Systems and Interfacing (23EC301PC503); Specialization Core - CAD for VLSI Design (23VL401SC501, 5 credits); Specialization Electives - Mixed Signal IC Design, Memory Design and Testing, Digital VLSI Testing.",
+    "keywords": ["VLSI", "ECE VLSI specialization", "Analog IC Design", "CMOS VLSI", "CAD for VLSI", "Mixed Signal IC", "Memory Design", "Digital VLSI Testing"]
+  },
+  {
+    "id": 144,
+    "query": "What is the IoT specialization in ECE at SR University?",
+    "response": "The IoT specialization in ECE at SR University covers: Program Core - Wireless Sensor Protocols and Programming (23IT301PC501), Computer Networks and Management (23IT301PC502), Advanced Microcomputer Systems and Interfacing (23EC301PC503); Specialization Core - IoT Architecture and Protocols (23IT401SC501, 5 credits); Specialization Electives - Networking and IoT, Cloud Architecture and Computing, Wearable Computing Mixed Reality and Internet of Everything.",
+    "keywords": ["IoT specialization ECE", "Wireless Sensor Protocols", "IoT Architecture", "Cloud Computing", "Wearable Computing", "Internet of Things", "ECE IoT"]
+  },
+  {
+    "id": 145,
+    "query": "What is the Embedded System specialization in ECE at SR University?",
+    "response": "The Embedded System (ES) specialization in ECE at SR University covers: Program Core - Embedded Systems Design (23EC301PC501), Digital System Design (23EC301PC502), Advanced Microcomputer Systems and Interfacing (23EC301PC503); Specialization Core - System Level Design and Modeling (23ES401SC501, 5 credits); Specialization Electives - Advanced Processor Architecture, Embedded SoC and Cyber Physical Systems, Advanced Embedded Computing.",
+    "keywords": ["Embedded System specialization", "ECE ES", "Embedded Systems Design", "Digital System Design", "System Level Design", "Cyber Physical Systems"]
+  },
+  {
+    "id": 146,
+    "query": "What Civil Engineering Program Elective courses are offered at SR University?",
+    "response": "Civil Engineering Program Elective Courses at SRU include: Category I - Special Concretes and its Applications, Advanced Strength of Materials, Repair and Rehabilitation of Structures, Sustainability in Construction, Composite Materials; Category II - Construction Equipment and Management, Nanomaterials for Sustainable Development, Waste Management, Environmental Legislation and Impact Assessment, Prefabricated Structures and Design; Category III - Pavement Engineering and Management, Advanced Geotechnical Engineering, Building Information Modeling, Pre-stressed Concrete Structures and Design, Experimental Techniques for Civil Engineering Research.",
+    "keywords": ["Civil Engineering electives", "Special Concretes", "Pavement Engineering", "BIM Building Information Modeling", "Prestressed Concrete", "Geotechnical Engineering", "CE program electives"]
+  },
+  {
+    "id": 147,
+    "query": "What is the EDT (Electronic Design Technology) specialization at SR University?",
+    "response": "The EDT (Electronic Design Technology) specialization in ECE at SR University covers: Program Core - Embedded Systems Design, Digital System Design, Advanced Microcomputer Systems and Interfacing; Specialization Core - Electronics Product Design (23ED401SC501, 5 credits); Specialization Electives - MOS Device Modeling, Nanotechnology and Emerging Applications, Design for Manufacturability.",
+    "keywords": ["EDT", "Electronic Design Technology", "Electronics Product Design", "MOS Device Modeling", "Nanotechnology", "Design for Manufacturability", "ECE EDT"]
+  },
+  {
+    "id": 148,
+    "query": "How does SR University's academic calendar handle supplementary exams?",
+    "response": "Even semester Supplementary/End Term Make-Up Exams typically start in May. UG students and First Year PG students can register for supplementary exams (with a fine of Rs. 5,000 for late registration). Results are declared within a few days. Summer Semester registration for Backlogs and Grade Improvement typically starts in early June.",
+    "keywords": ["supplementary exam schedule", "May exams", "Even semester", "Rs. 5000 fine", "supplementary registration", "academic calendar exams"]
+  },
+  {
+    "id": 149,
+    "query": "What holidays are observed at SR University?",
+    "response": "SR University observes national holidays such as Eid Ul Adha (Bakrid), as indicated in the academic calendar. Holidays are listed in SRAAP for students to review. The library works on all days except national and social holidays included in the academic calendar.",
+    "keywords": ["holidays", "Eid Ul Adha", "Bakrid", "national holidays", "academic calendar holidays", "university holidays"]
+  },
+  {
+    "id": 150,
+    "query": "How does faculty use SRAAP at SR University?",
+    "response": "Faculty at SR University use SRAAP to enter CIE marks, submit course files, conduct LMS evaluations, and manage appraisal data. Faculty submit supplementary and end-term makeup exam marks through SRAAP. Faculty also use the portal to access and update academic schedules.",
+    "keywords": ["faculty portal", "SRAAP faculty", "CIE marks entry", "LMS evaluation", "course files", "appraisal data", "faculty responsibilities"]
+  },
+  {
+    "id": 151,
+    "query": "What is the LMS at SR University?",
+    "response": "SR University uses an LMS (Learning Management System) for course delivery and evaluation. Faculty submit course files and LMS evaluations through SRAAP. Course file and LMS evaluations are periodically scheduled per the academic calendar.",
+    "keywords": ["LMS", "Learning Management System", "course files", "LMS evaluation", "online learning", "e-learning"]
+  },
+  {
+    "id": 152,
+    "query": "What is the role of the Dean Academics at SR University?",
+    "response": "The Dean Academics at SR University oversees academic regulations, notifies students about course registrations, issues condonation and detention lists, supervises examination processes, and signs off on mid examination guidelines. The Dean also interacts with faculty and Deans of schools on academic policy matters.",
+    "keywords": ["Dean Academics", "academic regulations", "condonation", "detention", "course notification", "examination oversight"]
+  },
+  {
+    "id": 153,
+    "query": "What is the role of the Dean of Research at SR University?",
+    "response": "The Dean Research at SR University oversees Ph.D. scholars, approves conversion between full-time and part-time Ph.D. registration (on recommendation of the Scholar Research Committee - SRC), can grant exceptional extension of Ph.D. Assistantship, and manages research-related administrative processes.",
+    "keywords": ["Dean Research", "PhD oversight", "full-time part-time conversion", "SRC", "Scholar Research Committee", "research administration"]
+  },
+  {
+    "id": 154,
+    "query": "What is the minimum CGPA required for the Accelerated MS in Computer Systems Technology with LSUS?",
+    "response": "The Accelerated MS in Computer Systems Technology with Louisiana State University Shreveport (LSUS) requires a minimum CGPA of 6.5, a TOEFL score of 61 or an IELTS score of 6, and no backlogs. It is open to all B.Tech students at SRU.",
+    "keywords": ["LSUS CGPA", "6.5 CGPA", "TOEFL 61", "IELTS 6", "no backlogs", "Computer Systems Technology eligibility", "LSUS eligibility"]
+  },
+  {
+    "id": 155,
+    "query": "How are grades finalized for end semester examinations at SR University?",
+    "response": "Grades are allocated as O, A, B, C, D for passing and F for failing. Faculty enter marks through SRAAP. The Directorate of Examinations (DE) declares results. For supplementary and makeup exams, grades are frozen and declared within a defined schedule. The best of two grades is considered in grade improvement scenarios.",
+    "keywords": ["grade finalization", "DE declares results", "SRAAP marks entry", "grade allocation", "O A B C D F", "results declaration"]
+  },
+  {
+    "id": 156,
+    "query": "What is the role of the Registrar at SR University?",
+    "response": "The Registrar at SR University is involved in student academic affairs, including issuing transcripts for credit transfers upon request from Dean (Academics). The Registrar also participates in monthly meetings with Heads and Deans to discuss institutional matters.",
+    "keywords": ["Registrar", "transcript", "credit transfer", "Registrar meeting", "institutional administration", "SRU Registrar"]
+  },
+  {
+    "id": 157,
+    "query": "What is the Part-time Ph.D. requirement at SR University?",
+    "response": "Part-time Ph.D. scholars at SR University must submit a No Objection Certificate (NOC) from their employer stating: (i) they are permitted to pursue studies on a part-time basis; (ii) official duties permit sufficient time for research; (iii) if required, they will be relieved from duty to complete coursework. Part-time scholars are not eligible for Ph.D. Assistantship.",
+    "keywords": ["part-time PhD", "NOC", "No Objection Certificate", "employer permission", "part-time scholar", "PhD part-time eligibility"]
+  },
+  {
+    "id": 158,
+    "query": "What is the Ph.D. Assistantship security deposit policy at SR University?",
+    "response": "For full-time Ph.D. scholars, the first three months' assistantship is held as a security deposit, released after completing the Ph.D. Alternatively, scholars can: (a) pay three months' assistantship in advance to receive the full amount from day one; or (b) have 50% of the assistantship held for the first six months.",
+    "keywords": ["PhD security deposit", "first three months hold", "assistantship advance", "50% hold", "PhD deposit options"]
+  },
+  {
+    "id": 159,
+    "query": "What are the Mechanical Engineering Specialization Elective options at SR University?",
+    "response": "Mechanical Engineering Specialization Electives at SRU include: Refrigeration and Air-Conditioning, Manufacturing System Design, Unconventional Machining Process, Power Plant Engineering, and Finite Element Method.",
+    "keywords": ["ME specialization electives", "Refrigeration Air-Conditioning", "Manufacturing System Design", "Unconventional Machining", "Power Plant Engineering", "Finite Element Method"]
+  },
+  {
+    "id": 160,
+    "query": "What is the SRU email for general inquiries?",
+    "response": "The official email for SR University is info@sru.edu.in. The phone number is 0870-281-8333, and the website is sru.edu.in.",
+    "keywords": ["SRU email", "info@sru.edu.in", "contact SRU", "general inquiry", "university email"]
+  },
+  {
+    "id": 161,
+    "query": "What industry collaboration does the Mechanical Engineering program have at SR University?",
+    "response": "The core Mechanical Engineering B.Tech program at SR University is offered in partnership with Cyient, a leading global engineering and technology solutions company headquartered in Hyderabad. This industry collaboration ensures students gain industry-relevant training and exposure.",
+    "keywords": ["Mechanical Engineering industry", "Cyient collaboration", "Cyient partnership", "ME industry partner", "B.Tech ME industry"]
+  },
+  {
+    "id": 162,
+    "query": "What is the minimum CGPA required for the Accelerated MS in Computer Science with University of Florida?",
+    "response": "The Accelerated MS in Computer Science with the University of Florida requires a minimum CGPA of 7.5, a TOEFL score of 80, and a GRE score of 305. This program is exclusively open to B.Tech CSE students at SR University who complete 3.5 years at SRU before transferring.",
+    "keywords": ["University of Florida CGPA", "CGPA 7.5 UF", "TOEFL 80", "GRE 305", "B.Tech CSE UF", "MS CS eligibility UF"]
+  },
+  {
+    "id": 163,
+    "query": "What Ph.D. course work does SR University require?",
+    "response": "Ph.D. scholars at SR University must complete required coursework as part of their doctoral program. The Scholar Research Committee (SRC) monitors progress. All scholars must complete the prescribed course work, comprehensive Viva, and semester progress monitoring to maintain eligibility for assistantship and continue the program.",
+    "keywords": ["PhD coursework", "SRC", "Scholar Research Committee", "comprehensive Viva", "semester progress", "doctoral coursework"]
+  },
+  {
+    "id": 164,
+    "query": "What is the counseling number for boys and girls at SR University?",
+    "response": "The counseling number at SR University is the same for both boys and girls: +91 8341581850. Students can approach the counseling office directly or book an appointment via call or WhatsApp.",
+    "keywords": ["counseling number", "+91 8341581850", "boys counseling", "girls counseling", "mental health appointment", "clinical psychologist contact"]
+  },
+  {
+    "id": 165,
+    "query": "What does SR University publish on NIRF?",
+    "response": "SR University is registered under NIRF (National Institutional Ranking Framework) and publishes its data transparently at https://sru.edu.in/nirf. The university holds the 91st rank in NIRF India Rankings.",
+    "keywords": ["NIRF data", "NIRF transparency", "sru.edu.in/nirf", "institutional data", "ranking data", "NIRF 91"]
+  },
+  {
+    "id": 166,
+    "query": "How does the grade improvement work for summer semester at SR University?",
+    "response": "Students with grades B to D are eligible for grade improvement during the Summer Semester (only one chance per course). In summer semester/grade improvement exams, earlier Mid and CIE marks are nullified and the question paper is set for 100 marks. Only one opportunity is given for grade improvement, and the best of the two grades (original and improved) is considered.",
+    "keywords": ["grade improvement summer", "B to D eligible", "nullified CIE", "one chance", "best grade considered", "Summer Semester grade improvement"]
+  },
+  {
+    "id": 167,
+    "query": "What are the IEP study pathway options at SR University?",
+    "response": "The International Engineering Program (IEP) at SRU offers two pathways: Pathway 1 - Study 3 years at SRU + 1 year at a US partner university; Pathway 2 - Study 2 years at SRU + 2 years at a US partner university. An optional 5th year is available for students who wish to pursue an MS degree from a top US university.",
+    "keywords": ["IEP pathways", "3+1 pathway", "2+2 pathway", "5th year MS", "IEP study options", "International Engineering pathway"]
+  },
+  {
+    "id": 168,
+    "query": "What is the minimum CGPA for B.Sc Advanced Honours transfer to University of Melbourne?",
+    "response": "To be eligible for transfer to the University of Melbourne at the end of Year 2 in the B.Sc. Advanced Honours program, students must achieve a CGPA of 7.5 at SR University, complete Mathematics, Chemistry, and Physics to Year 12 level, and achieve an IELTS band score of 6.5.",
+    "keywords": ["Melbourne transfer CGPA", "CGPA 7.5", "IELTS 6.5", "Year 2 transfer", "University of Melbourne eligibility", "B.Sc Honours transfer"]
+  },
+  {
+    "id": 169,
+    "query": "Is the IEEE Computer Society membership mandatory at SR University?",
+    "response": "Yes, for the IEEE Computer Society chapter at SR University, all core members must have an active IEEE Student Membership. A minimum of 12 memberships are required to run the chapter.",
+    "keywords": ["IEEE membership mandatory", "12 memberships minimum", "core members IEEE", "IEEE Student Membership", "IEEE CS membership requirement"]
+  },
+  {
+    "id": 170,
+    "query": "Is ACM membership mandatory at SR University?",
+    "response": "Yes, for the ACM (Association for Computing Machinery) Chapter at SR University, all core members must have active ACM Student Membership. A minimum of 12-15 memberships are required to run the chapter.",
+    "keywords": ["ACM membership mandatory", "12-15 memberships", "core members ACM", "ACM Student Membership", "ACM chapter membership requirement"]
+  },
+  {
+    "id": 171,
+    "query": "What is the role of the Faculty Mentor in student clubs at SR University?",
+    "response": "The Faculty Mentor of each student club at the School of CS&AI must be from the School of Computer Science & AI. The Faculty Mentor is the Patron of the Student Club. Each club must communicate with the faculty mentor, and the faculty mentor serves alongside the Dean as Chief Patron in the club hierarchy.",
+    "keywords": ["Faculty Mentor", "Patron", "student club mentor", "SoCS&AI faculty", "Dean Chief Patron", "club mentor role"]
+  },
+  {
+    "id": 172,
+    "query": "What is the objective of student clubs in the School of CS&AI at SR University?",
+    "response": "The objective of student clubs and chapters in the School of CS&AI at SR University is to enable students' participation in the development of the university and to support their career, personality, and organizational skills development through interactive programs.",
+    "keywords": ["club objective", "SoCS&AI clubs goal", "student participation", "career development", "organizational skills", "personality development"]
+  },
+  {
+    "id": 173,
+    "query": "Where can I find SR University faculty profiles?",
+    "response": "Faculty profiles for SoCS&AI are at https://sru.edu.in/faculty/deptFaculties/cse; Business School faculty: https://sru.edu.in/faculty/deptFaculties/Business; Sciences and Humanities: https://sru.edu.in/faculty/deptFaculties/science; Agriculture: https://sru.edu.in/faculty/deptFaculties/agriculture.",
+    "keywords": ["faculty profiles", "faculty URL", "SRU faculty", "department faculty", "CSE faculty", "business faculty", "science faculty"]
+  },
+  {
+    "id": 174,
+    "query": "What is the Mechanical Engineering V semester course structure at SR University?",
+    "response": "The V semester of Mechanical Engineering at SRU includes: Machine Tools and Metrology (24ME301PC301, 4 credits), Heat Transfer (24ME301PC302, 4 credits), Machine Design (24ME310PC303, 4 credits), Seminar in Advanced Technologies (24ME010PR301, 1 credit), Under Graduate Research in Mechanical Engineering (24ME010PR302, 1 credit), Program Elective-II (3 credits), Open Elective-I (3 credits), Career Readiness Elective-II (3 credits). Total: 23 credits.",
+    "keywords": ["ME V semester", "Machine Tools Metrology", "Heat Transfer", "Machine Design", "Seminar Advanced Technologies", "UG Research ME", "23 credits"]
+  },
+  {
+    "id": 175,
+    "query": "What is the Civil Engineering core course for M.Tech at SR University?",
+    "response": "The Civil Engineering M.Tech program at SR University includes a core course: Computer Aided Design and Drawing of RCC Structures (23CE300SE302, 3 credits). Program electives span three categories covering structural engineering, materials, construction management, geotechnical engineering, and sustainability topics.",
+    "keywords": ["CE M.Tech core", "RCC Structures", "Civil Engineering M.Tech", "23CE300SE302", "CE program structure"]
+  },
+  {
+    "id": 176,
+    "query": "What happens if a student is detained due to attendance at SR University?",
+    "response": "Students with attendance less than 55% are detained and are not eligible to appear for end semester examinations. In cases of attendance between 55-75%, students can pay a condonation fee and submit a medical certificate. Detained students must appear for the exam in a subsequent attempt. Deans and Heads submit condonation and detention lists to the Dean Academics.",
+    "keywords": ["detained students", "attendance below 55%", "detention policy", "condonation detention list", "Dean Academics", "attendance detention"]
+  },
+  {
+    "id": 177,
+    "query": "What is the maximum number of supply chances for a course at SR University?",
+    "response": "For the 2022 admitted batch, there is only one supply chance immediately after the End Term Exam OR one supply chance after attempting the summer term. Only one of these two options applies per course - students do not get multiple supply attempts in the same academic year.",
+    "keywords": ["supply chances", "supplementary attempts", "one supply chance", "backlogs policy", "course supply", "2022 batch examination"]
+  },
+  {
+    "id": 178,
+    "query": "What is the Mechanical Engineering VI semester at SR University?",
+    "response": "The Mechanical Engineering VI semester at SR University includes: Program Elective-III (PE, 3 credits), Specialization Elective-II (SE, 3 credits), Open Elective-II (OE, 3 credits), Open Elective-III (OE, 3 credits), Open Elective-IV (OE, 3 credits). Total: 15 credits.",
+    "keywords": ["ME VI semester", "Program Elective III", "Open Elective II III IV", "Mechanical VI sem", "15 credits ME"]
+  },
+  {
+    "id": 179,
+    "query": "What is the Gold Medal eligibility criteria at SR University?",
+    "response": "To be eligible for a Gold Medal at SR University, a student must: successfully complete the respective program; secure the top position; have no history of indiscipline; have not failed in any course; not have been detained; and not have obtained grades through betterment. The Chancellor's Gold Medal goes to the top student across all programs university-wide, and the Vice-Chancellor's Gold Medal to the program/branch topper.",
+    "keywords": ["gold medal eligibility", "no failure", "no detention", "no betterment grades", "indiscipline disqualification", "top position gold medal"]
+  },
+  {
+    "id": 180,
+    "query": "What are the operational roles in a student club at SR University?",
+    "response": "The Operational Committee (Level 2) of student clubs in SoCS&AI includes: Web Master, Membership Chair, Management Head, Content & Creative Head, and Digital & Social Media Head. These roles are open to students from 1st to 3rd year. Together with the Executive Committee (Level 1), the total core committee cannot exceed 12 members.",
+    "keywords": ["operational committee", "Web Master", "Membership Chair", "Management Head", "Content Creative Head", "Digital Social Media Head", "Level 2 roles"]
+  },
+  {
+    "id": 181,
+    "query": "What are the program elective topics in ECE at SR University?",
+    "response": "ECE Program Electives at SRU include: Wireless Sensor Networks (4 credits), Micro and Nano Electro Mechanical Systems, Advanced Digital Signal and Image Processing, Adaptive Signal Processing, Real Time Operating System, DSP System Design, Control System Design, Principles of Sensor and Signal Conditioning, RFID And Microcontrollers, Electromagnetic Compatibility, Parallel and Distributed Systems, Biomedical Instrumentation, Electronic Packaging, MEMS Structures and Applications, Electronic Manufacturing Technology, Advanced Distributed System, Smart Convergent Technologies, VLSI Technology, and Advanced Computer Architecture.",
+    "keywords": ["ECE program electives", "Wireless Sensor Networks", "RFID", "Biomedical Instrumentation", "MEMS", "VLSI Technology", "DSP System Design", "ECE electives list"]
+  },
+  {
+    "id": 182,
+    "query": "What is the examination process at SR University?",
+    "response": "For the examination process begins with semester registration (with fine for late payment). Students with attendance 75% or more register for end semester exams. Those with 55-75% attendance pay condonation fees and submit medical certificates. Students with less than 55% attendance are detained. After end semester exams, failing students can register for supplementary exams or summer semester. Grade improvement is available for B-D grade holders in summer semester.",
+    "keywords": ["examination", "examination process", "condonation", "detention", "supplementary", "grade improvement", "semester registration"]
+  },
+  {
+    "id": 183,
+    "query": "What is the role of the Department of Physical Education at SR University?",
+    "response": "The Department of Physical Education at SR University is headed by a Physical Director and assisted by individual coaches for football, volleyball, cricket, basketball, etc. It aims to provide students with a wide range of sport, recreation, and leisure activities and manages all sports facilities on campus. Contact: Dr. P. Srinivas Goud, 9949279800.",
+    "keywords": ["Physical Education", "Physical Director", "Dr. P. Srinivas Goud", "sports department", "coaches", "football volleyball cricket basketball"]
+  },
+  {
+    "id": 184,
+    "query": "What B.Sc. programs does SR University offer with interdisciplinary combinations?",
+    "response": "The School of Sciences and Humanities at SR University offers: B.Sc. (Hons.) in combinations of Physics, Chemistry, and Mathematics (PCM), and B.Sc. in Physics, Chemistry, Mathematics, and Forensic Science (PCMF). M.Sc. programs are available in relevant science disciplines at the postgraduate level.",
+    "keywords": ["B.Sc. PCM", "B.Sc. PCMF", "Forensic Science", "Physics Chemistry Mathematics", "interdisciplinary B.Sc.", "science combinations"]
+  },
+  {
+    "id": 185,
+    "query": "How is the summer vacation period structured at SR University?",
+    "response": "Summer vacation for students begins typically around June 1st. During this period: students can check supplementary/End Term Make-Up Exam answer sheets; Faculty show answer sheets to students per schedule; grades are frozen; Summer Semester registration for backlogs and grade improvement begins; Summer Semester timetable is released. Faculty remain working during student summer vacation for academic duties.",
+    "keywords": ["summer vacation", "June", "answer sheets", "Summer Semester registration", "grade freezing", "backlogs registration summer"]
+  },
+  {
+    "id": 186,
+    "query": "What is the WEBOPAC at SR University library?",
+    "response": "WEBOPAC (Web Online Public Access Catalogue) allows students to search the bibliographic data of the SR University library (including Author, Title, Subject, and classified number) within the university campus. The WEBOPAC link is: http://192.168.30.100/webopac/default.aspx.",
+    "keywords": ["WEBOPAC", "library catalog", "bibliographic search", "author title subject search", "university library catalog", "OPAC"]
+  },
+  {
+    "id": 187,
+    "query": "What startup support does SRiX provide at SR University?",
+    "response": "SRiX at SR University provides startups with: Idea Valuation/Validation, End-to-end product development support, Incubation and Acceleration Support, Mentoring (branding, marketing, go-to-market strategy, technology, commercialisation), Legal Support (company incorporation, documentation, IP, patenting, regulatory compliance), Funding Support (seed capital, grants, angel investors, VCs, investor connect), Financial Services (accounting, filings, valuations), and Human Resources support (hiring interns, fresh graduates, team management).",
+    "keywords": ["SRiX startup support", "idea validation", "incubation", "legal IP support", "seed funding", "angel investors VC", "company incorporation", "startup mentoring"]
+  },
+  {
+    "id": 188,
+    "query": "What is the Mechanical Engineering VII and VIII semester structure at SR University?",
+    "response": "VII Semester Option 1: Capstone Project (23ME009PR401, 9 credits) + Specialization Elective-III (3 credits) + Open Elective-V (3 credits) = 15 credits. VII Semester Option 2: Major Project/Industry Project/Industry Internship/R&D Project/Startup/Externship (23ME015PR401, 15 credits). VIII Semester: Major Project/Industry Project/Industry Internship/R&D Project/Startup/Externship (23ME015PR402, 15 credits).",
+    "keywords": ["ME VII semester", "ME VIII semester", "Capstone Project", "Major Project", "Industry Internship ME", "R&D Project", "Externship ME", "15 credits final year"]
+  },
+  {
+    "id": 189,
+    "query": "What is the Wireless Sensor Networks course in ECE at SR University?",
+    "response": "Wireless Sensor Networks (23EC301PE501) is a Program Elective course in ECE at SR University, carrying 4 credits (3 Lecture hours, 2 Practical/Design hours per week). It is part of the Program Electives I to V list for ECE students.",
+    "keywords": ["Wireless Sensor Networks", "23EC301PE501", "ECE elective", "4 credits", "sensor networks course"]
+  },
+  {
+    "id": 190,
+    "query": "What is the summer internship credit in Mechanical Engineering at SR University?",
+    "response": "In the Mechanical Engineering program at SR University, the Summer Internship (course code 24ME001PR201) is a 1-credit course in Semester IV. It carries 0 lecture, 0 tutorial, and 0 practical hours, as it is an experiential/off-campus activity.",
+    "keywords": ["summer internship ME", "24ME001PR201", "1 credit internship", "ME IV sem internship", "Mechanical Engineering internship credit"]
+  },
+  {
+    "id": 191,
+    "query": "What is the procedure for a Ph.D. scholar to convert from full-time to part-time at SR University?",
+    "response": "A full-time Ph.D. scholar at SR University may be allowed to convert to part-time registration upon the scholar's request and the recommendation of the Scholar Research Committee (SRC), with approval from the Dean Research.",
+    "keywords": ["PhD conversion", "full-time to part-time PhD", "SRC recommendation", "Dean Research", "scholar registration conversion"]
+  },
+  {
+    "id": 192,
+    "query": "What is the Ph.D. Assistantship for scholars from IITs, NITs, and IIITs at SR University?",
+    "response": "Full-time Ph.D. scholars at SR University whose immediately preceding degree is from IITs, NITs, or IIITs receive a Ph.D. Assistantship of INR 50,000 per month. All other full-time scholars receive Rs. 40,000 per month (or Rs. 25,000/month if they opt for the hostel facility with meals and laundry).",
+    "keywords": ["IIT NIT IIIT PhD stipend", "Rs. 50,000", "Rs. 40,000", "PhD assistantship IIT", "full-time scholar stipend"]
+  },
+  {
+    "id": 193,
+    "query": "What is the Mechanical Engineering Specialization Core at SR University?",
+    "response": "The Mechanical Engineering Specialization Core at SR University includes: Core-I - Control Theory and Applications (23ME301SC201), Introduction to Smart Manufacturing (23ME301SC202), Introduction to Robotics (23ME300SC203); Core-II - CAD/CAM (23ME301SC204), Digital Manufacturing System Design (23ME301SC205), Robot Motion Planning and Control (23ME301SC206).",
+    "keywords": ["ME Specialization Core", "Control Theory", "Smart Manufacturing", "CAD/CAM", "Robot Motion Planning", "Digital Manufacturing", "Introduction to Robotics"]
+  },
+  {
+    "id": 194,
+    "query": "What are the total credits for final year Mechanical Engineering at SR University?",
+    "response": "In the final year (VII and VIII semesters) of Mechanical Engineering at SR University: VIII semester - Major Project/Industry Internship/R&D Project = 15 credits (30 practical hours). VII semester - Option 1: Capstone Project (9 credits) + Specialization Elective-III + Open Elective-V = 15 credits total; Option 2: Major Project/Industry Internship = 15 credits.",
+    "keywords": ["ME final year credits", "VII VIII semester credits", "15 credits major project", "Capstone 9 credits", "final year Mechanical Engineering"]
+  },
+  {
+    "id": 195,
+    "query": "What does SR University offer for students interested in entrepreneurship?",
+    "response": "SR University offers multiple avenues for entrepreneurship: the NEST center (Entrepreneurship in Science and Technology), SRiX (DST-sponsored Technology Business Incubator), the Student Startup Innovator Club, the IBAP program for business students, and an overall university emphasis on entrepreneurship and research culture. The Astra School of Business also offers specialization in Business Analytics and International Business.",
+    "keywords": ["entrepreneurship", "NEST", "SRiX incubator", "Student Startup Innovator Club", "startup ecosystem", "DST incubator", "entrepreneurship culture SRU"]
+  },
+  {
+    "id": 196,
+    "query": "What is the Mechanics of Solids course in Mechanical Engineering at SR University?",
+    "response": "Mechanics of Solids (course code 24ME301PC202) is a core course in the III semester of B.Tech Mechanical Engineering at SR University, carrying 4 credits (3 Lecture hours, 0 Tutorial, 2 Practical/Design hours per week).",
+    "keywords": ["Mechanics of Solids", "24ME301PC202", "III semester ME", "4 credits", "core course mechanical"]
+  },
+  {
+    "id": 197,
+    "query": "How does SR University handle examinations for students with fractures or physical disabilities?",
+    "response": "Students with permanent or temporary disabilities (e.g., fracture/plaster) must provide a medical certificate from a Chief Medical Officer, General Surgeon, or Medical Superintendent of a government/certified institution. They must write to their school head with their registration details and the type of assistance required, at least one week before the exam. A separate exam hall on the ground floor may be arranged.",
+    "keywords": ["disability exam", "fracture plaster", "special examination", "ground floor exam hall", "medical certificate disability", "exam accommodation"]
+  },
+  {
+    "id": 198,
+    "query": "Can a student in the International Engineering Program change their branch at SR University?",
+    "response": "No. Students admitted in the International Engineering Program (IEP) are not allowed to appear in the Branch Upgradation process at the end of First Year.",
+    "keywords": ["IEP branch change", "International Engineering Program branch change", "IEP no branch upgradation", "branch change restriction IEP"]
+  },
+  {
+    "id": 199,
+    "query": "What is the Fluid Mechanics and Hydraulic Machinery course at SR University?",
+    "response": "Fluid Mechanics and Hydraulic Machinery (course code 24ME301PC206) is a core course in the IV semester of B.Tech Mechanical Engineering at SR University, carrying 4 credits (3 Lecture hours, 0 Tutorial, 2 Practical/Design hours per week).",
+    "keywords": ["Fluid Mechanics", "Hydraulic Machinery", "24ME301PC206", "IV semester ME", "4 credits", "Mechanical Engineering core"]
+  },
+  {
+    "id": 200,
+    "query": "What is the SR University 2026 handbook official source?",
+    "response": "The official source for comprehensive information about SR University is the SR University Official Institutional Handbook 2026, available through the university's official website at sru.edu.in. Key URLs include: Schools & Academics - https://sru.edu.in/schools/Academics; Programs 2026 - https://sru.edu.in/programs-2026; Faculty profiles - https://sru.edu.in/faculty; Governing Body - https://sru.edu.in/governing_body; Board of Management - https://sru.edu.in/board_of_management; Academic Council - https://sru.edu.in/academic_council.php.",
+    "keywords": ["SR University Handbook 2026", "official source", "sru.edu.in", "institutional handbook", "university handbook", "SRU 2026"]
+  }
+]

@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "dr-sheshikala-martha",
+    "name": "Dr. Sheshikala Martha",
+    "designation": "CSE Dean",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/16-sheshikala-martha",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_shashikala.jpg"
+  },
+  {
+    "id": "dr-balajee-maram",
+    "name": "Dr. Balajee Maram",
+    "designation": "Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/328-balajee-maram",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024328-628460816-2024-02-03-BALAJEE_MARAM_Photo.JPG"
+  },
+  {
+    "id": "dr-g-swamy-reddy",
+    "name": "Dr. G. Swamy Reddy",
+    "designation": "Professor & Director of Evaluation",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/82-g-swamy-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/82-685770141-2022-03-25-Dr._G._Swamy_Reddy.JPG"
+  },
+  {
+    "id": "dr-r-archana-reddy",
+    "name": "Dr. R. Archana Reddy",
+    "designation": "Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/283-r-archana-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/ARCHANA_REDDY.webp"
+  },
+  {
+    "id": "dr-rajanala-vijaya-prakash",
+    "name": "Dr. Rajanala Vijaya Prakash",
+    "designation": "Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/18-rajanala-vijaya-prakash",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_R_Vijaya_Prakash.jpg"
+  },
+  {
+    "id": "dr-ravichander-janapati",
+    "name": "Dr. Ravichander Janapati",
+    "designation": "Professor & Assoc. Dean. -SW",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/116-ravichander-janapati",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Ravichander.jpg"
+  },
+  {
+    "id": "dr-shivani-goel",
+    "name": "Dr. Shivani Goel",
+    "designation": "Sr. Professor and Dean Mentoring",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/201-shivani-goel",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Shivani_Goel.webp"
+  },
+  {
+    "id": "dr-venkataramana-veeramsetty",
+    "name": "Dr. Venkataramana Veeramsetty",
+    "designation": "Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/64-venkataramana-veeramsetty",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Venkataramana.jpg"
+  },
+  {
+    "id": "dr-bhavana-jamalpur",
+    "name": "Dr. Bhavana Jamalpur",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/42-bhavana-jamalpur",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_J_Bhavana.jpg"
+  },
+  {
+    "id": "dr-c-madan-kumar",
+    "name": "Dr. C Madan Kumar",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/463-c-madan-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025463-730616318-2025-05-29-Photo_Madan_Kumar_1.png"
+  },
+  {
+    "id": "dr-chakravarthula-s-k-raju",
+    "name": "Dr. Chakravarthula S K Raju",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/528-chakravarthula-s-k-raju",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025528_68c114442c0ad.jpeg"
+  },
+  {
+    "id": "dr-chiranjeevi-manike",
+    "name": "Dr. Chiranjeevi Manike",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/482-chiranjeevi-manike",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025482_686d11a25a951.jpeg"
+  },
+  {
+    "id": "dr-durgesh-nandan",
+    "name": "Dr. Durgesh Nandan",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/353-durgesh-nandan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024353-1899751093-2024-08-24-WhatsApp_Image_2024-04-27_at_12.18.46_PM_(1)_(1).png"
+  },
+  {
+    "id": "dr-g-ravi-kiran",
+    "name": "Dr. G. Ravi Kiran",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/3-g-ravi-kiran",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/3-1556621105-2022-07-30-Dr._G._Ravi_Kiran.JPG"
+  },
+  {
+    "id": "dr-kabita-thaoroijam",
+    "name": "Dr. Kabita Thaoroijam",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/422-kabita-thaoroijam",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025422-657250161-2025-04-10-Kabita_PP.jpg"
+  },
+  {
+    "id": "dr-mohammed-ali-shaik",
+    "name": "Dr. Mohammed Ali Shaik",
+    "designation": "Associate Professor & Associate Dean (Cloud Computing & DevOps)",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/151-mohammed-ali-shaik",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Ali_Shaik.jpg"
+  },
+  {
+    "id": "dr-pappula-praveen",
+    "name": "Dr. Pappula Praveen",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/47-pappula-praveen",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_P_Praveen.jpg"
+  },
+  {
+    "id": "dr-pramoda-patro",
+    "name": "Dr. Pramoda Patro",
+    "designation": "Associate Professor & Director, Centre of AI and Deep Learning",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/350-pramoda-patro",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024350-1338528637-2024-08-22-pramod_Latest_photo_20211.jpg"
+  },
+  {
+    "id": "dr-prof-shamshuddin-md",
+    "name": "Dr. Prof. Shamshuddin Md",
+    "designation": "Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/237-prof-shamshuddin-md",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_shamshuddin.jpg"
+  },
+  {
+    "id": "dr-rahul-mishra",
+    "name": "Dr. Rahul Mishra",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/549-rahul-mishra",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025549_68e8b3a411a7a.jpeg"
+  },
+  {
+    "id": "dr-rupesh-kumar-mishra",
+    "name": "Dr. Rupesh Kumar Mishra",
+    "designation": "Associate Professor",
+    "department": "Computer Science & Ai",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/306-rupesh-kumar-mishra",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023306-779755191-2023-12-11-rupesh_image.jpg"
+  },
+  {
+    "id": "dr-s-vairachilai",
+    "name": "Dr. S Vairachilai",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/502-s-vairachilai",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025502_688728e1f0cce.jpeg"
+  },
+  {
+    "id": "dr-sampath-kumar-tallapally",
+    "name": "Dr. Sampath Kumar Tallapally",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/43-sampath-kumar-tallapally",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_T_Sampath.jpg"
+  },
+  {
+    "id": "mr-sandeep-chintham",
+    "name": "Mr. Sandeep Chintham",
+    "designation": "Head of the Department CSE",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/38-sandeep-chintham",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/38-331298864-2022-03-16-Mr.-Ch.Sandeep.jpg"
+  },
+  {
+    "id": "dr-santosh-kumar-henge",
+    "name": "Dr. Santosh Kumar Henge",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/429-santosh-kumar-henge",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025429-41946420-2025-04-15-Dr_SantoshKumarHenge_Photo_(2).jpg"
+  },
+  {
+    "id": "dr-sasanko-sekhar-gantayat",
+    "name": "Dr. Sasanko Sekhar Gantayat",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/346-sasanko-sekhar-gantayat",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024346-1279860102-2024-08-21-ssg-hyd-9-8-24.jpg"
+  },
+  {
+    "id": "dr-sri-raman-kothuri",
+    "name": "Dr. Sri Raman Kothuri",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/423-sri-raman-kothuri",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025423-1525764274-2025-04-10-ksr-blazer-refined1.jpg"
+  },
+  {
+    "id": "dr-sumit-kumar-singh",
+    "name": "Dr. Sumit Kumar Singh",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/539-sumit-kumar-singh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025539_68ce644bcaf11.jpeg"
+  },
+  {
+    "id": "dr-t-kiran-kumar",
+    "name": "Dr. T. Kiran Kumar",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/2-t-kiran-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/2-1793236663-2022-07-30-Dr._T._Kiran_Kumar.JPG"
+  },
+  {
+    "id": "mr-v-thirupathi",
+    "name": "Mr. V Thirupathi",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/49-v-thirupathi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/49-1477257576-2022-03-16-Mr.-V.Thirupathi.jpg"
+  },
+  {
+    "id": "dr-vijaya-chanra-jadala",
+    "name": "Dr. Vijaya Chanra Jadala",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/384-vijaya-chanra-jadala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024384-1196289865-2024-12-20-VC.jpg"
+  },
+  {
+    "id": "dr-abeyram-m-nithin",
+    "name": "Dr. Abeyram M Nithin",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/642-abeyram-m-nithin",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026642_699a790f0c8f9.png"
+  },
+  {
+    "id": "dr-ahsan-mahboob",
+    "name": "Dr. Ahsan Mahboob",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/554-ahsan-mahboob",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025554_69037bd8ea4dc.jpeg"
+  },
+  {
+    "id": "dr-ajit-kumar",
+    "name": "Dr. Ajit Kumar",
+    "designation": "Assistant Professor",
+    "department": "School Of Computer Science And Artificial Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/491-ajit-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025491_68809530bc552.jpeg"
+  },
+  {
+    "id": "dr-amit-kumar-yadav",
+    "name": "Dr. Amit Kumar Yadav",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/327-amit-kumar-yadav",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024327-252675649-2024-02-02-AKY-Photo_Professional.png"
+  },
+  {
+    "id": "dr-anomitra-chakraborty",
+    "name": "Dr. Anomitra Chakraborty",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/592-anomitra-chakraborty",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr-AnomitraChakraborty.png"
+  },
+  {
+    "id": "dr-anupam-khatua",
+    "name": "Dr. Anupam Khatua",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/631-anupam-khatua",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026631_698478006d838.jpeg"
+  },
+  {
+    "id": "dr-anurodh-kumar",
+    "name": "Dr. Anurodh Kumar",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/411-anurodh-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025411-1395898136-2025-04-06-Anurodh.jpg"
+  },
+  {
+    "id": "mr-ashok-rachapalli",
+    "name": "Mr. Ashok Rachapalli",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/243-ashok-rachapalli",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023243-999790825-2023-08-23-IMG_20210330_225632.jpg"
+  },
+  {
+    "id": "dr-b-ravindar",
+    "name": "Dr. B. Ravindar",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/95-b-ravindar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/95-515644042-2022-03-25-Dr._B._Ravindar.JPG"
+  },
+  {
+    "id": "dr-bgirirajan",
+    "name": "Dr. B.Girirajan",
+    "designation": "Assistant Professor & Dean, Innovation and Startups",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/105-b-girirajan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/105-1679715305-2022-03-25-Sri._B.Girirajan.JPG"
+  },
+  {
+    "id": "ms-balija-swathi",
+    "name": "Ms. Balija Swathi",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/26-balija-swathi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/26-143179467-2022-03-15-Ms.-B.Swathi.jpg"
+  },
+  {
+    "id": "dr-bapin-mondal",
+    "name": "Dr. Bapin Mondal",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/535-bapin-mondal",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025535_68c91d171650b.jpeg"
+  },
+  {
+    "id": "mr-bediga-sharan",
+    "name": "Mr. Bediga Sharan",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/386-bediga-sharan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024386-2108625906-2024-12-24-cloud_club_sharan_faculty.png"
+  },
+  {
+    "id": "dr-bhukya-ramadevi",
+    "name": "Dr. Bhukya Ramadevi",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/489-bhukya-ramadevi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025489_68807ff4c8962.jpeg"
+  },
+  {
+    "id": "dr-brij-kishor-tiwari",
+    "name": "Dr. Brij Kishor Tiwari",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/452-brij-kishor-tiwari",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025452-1223780483-2025-05-12-1_Brij_Kishor.jpg"
+  },
+  {
+    "id": "mr-bura-vijay-kumar",
+    "name": "Mr. Bura. Vijay Kumar",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/31-bura-vijay-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/31-801843585-2022-03-15-Mr.-B.-Vijay-Kumar.jpg"
+  },
+  {
+    "id": "dr-c-balarama-krishna",
+    "name": "Dr. C. Balarama Krishna",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/99-c-balarama-krishna",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/99-639850938-2022-07-30-Dr._C._Balarama_Krishna.JPG"
+  },
+  {
+    "id": "dr-ch-jayanth-babu",
+    "name": "Dr. Ch. Jayanth Babu",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/451-ch-jayanth-babu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025451-1263617013-2025-05-12-Dr.Ch._Jayanth_babu-Photo.jpeg"
+  },
+  {
+    "id": "dr-debashis-mohanty",
+    "name": "Dr. Debashis Mohanty",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/526-debashis-mohanty",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025526_68c10589a4df6.jpeg"
+  },
+  {
+    "id": "dr-debasish-gorai",
+    "name": "Dr. Debasish Gorai",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/588-debasish-gorai",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025588_69537bed4ec78.png"
+  },
+  {
+    "id": "dr-deepthi-kothapeta",
+    "name": "Dr. Deepthi Kothapeta",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/274-deepthi-kothapeta",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023274-1441837315-2023-08-24-WhatsApp_Image_2023-08-24_at_20.20.39.jpeg"
+  },
+  {
+    "id": "dr-dipesh",
+    "name": "Dr. Dipesh",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/377-dipesh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024377-1260607162-2024-11-06-1569771493786.jpg"
+  },
+  {
+    "id": "dr-dipesh-barman",
+    "name": "Dr. Dipesh Barman",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/587-dipesh-barman",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025587_6948d7c14c175.png"
+  },
+  {
+    "id": "dr-ezhilarasan-p",
+    "name": "Dr. Ezhilarasan P",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/543-ezhilarasan-p",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025543_68d37ce28fe0a.jpeg"
+  },
+  {
+    "id": "mis-faiza-iram",
+    "name": "Mis. Faiza Iram",
+    "designation": "Assistant professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/232-faiza-iram",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023232-1932669629-2023-08-22-1686383035587.jpg"
+  },
+  {
+    "id": "dr-g-punnam-chander",
+    "name": "Dr. G Punnam Chander",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/436-g-punnam-chander",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025436-1576968535-2025-04-30-MyPhoto.jpeg"
+  },
+  {
+    "id": "mr-g-sunil-reddy",
+    "name": "Mr. G Sunil Reddy",
+    "designation": "Assistant Professor (Computer Science & Artificial Intelligence) )",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/34-g-sunil-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Mr_G_Sunil.jpg"
+  },
+  {
+    "id": "dr-gagan-sahoo",
+    "name": "Dr. Gagan Sahoo",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/637-gagan-sahoo",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026637_69944af9e3fdd.jpeg"
+  },
+  {
+    "id": "mr-gotte-ranjit-kumar",
+    "name": "Mr. Gotte Ranjit Kumar",
+    "designation": "assistant professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/236-gotte-ranjit-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023236-53362504-2023-08-22-WhatsApp_Image_2023-07-05_at_10.41.11_AM.jpeg"
+  },
+  {
+    "id": "dr-inzamamul-haque",
+    "name": "Dr. Inzamamul Haque",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/524-inzamamul-haque",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025524_68bebc9930951.jpeg"
+  },
+  {
+    "id": "dr-janmejaya-rout",
+    "name": "Dr. Janmejaya Rout",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/638-janmejaya-rout",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026638_69959996c0804.jpeg"
+  },
+  {
+    "id": "dr-johnson-kolluri",
+    "name": "Dr. Johnson Kolluri",
+    "designation": "Assistant Professor",
+    "department": "Computer Science & Artficial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/431-johnson-kolluri",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025431-472961878-2025-04-16-john_370_460.jpg"
+  },
+  {
+    "id": "dr-k-deepa",
+    "name": "Dr. K. Deepa",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/223-k-deepa",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_K_Deepa.jpg"
+  },
+  {
+    "id": "dr-k-rajchandar",
+    "name": "Dr. K. Rajchandar",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/189-k-rajchandar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_K_Rajchandar.jpg"
+  },
+  {
+    "id": "mr-kanegonda-ravi-chythanya",
+    "name": "Mr. Kanegonda Ravi Chythanya",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/21-kanegonda-ravi-chythanya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/21-1016852777-2022-03-15-Mr.-K.-Ravi-Chythanya.jpg"
+  },
+  {
+    "id": "mr-kasharaju-balakrishna",
+    "name": "Mr. Kasharaju Balakrishna",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/248-kasharaju-balakrishna",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Mr_K_Balakrishna.jpg"
+  },
+  {
+    "id": "dr-kavitha-williams-w",
+    "name": "Dr. Kavitha Williams W",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/630-kavitha-williams-w",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026630_698477a7ef947.jpeg"
+  },
+  {
+    "id": "mr-khaja-mannanuddin",
+    "name": "Mr. Khaja Mannanuddin",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/432-khaja-mannanuddin",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025432-1657126655-2025-04-17-mannan.jpg"
+  },
+  {
+    "id": "mr-komuravelly-sudheer-kumar",
+    "name": "Mr. Komuravelly Sudheer Kumar",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/207-komuravelly-sudheer-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023207-133735370-2023-08-20-ksk_photo_(2).jpg"
+  },
+  {
+    "id": "dr-kummari-venkatesh",
+    "name": "Dr. Kummari Venkatesh",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/459-kummari-venkatesh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025459-428712134-2025-05-19-8B9A4925_copy_(1).jpg"
+  },
+  {
+    "id": "mr-lade-gunakar-rao",
+    "name": "Mr. Lade Gunakar Rao",
+    "designation": "ASSISTANT PROFESSOR",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/199-lade-gunakar-rao",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023199-599442032-2023-08-17-GUNAA.jpg"
+  },
+  {
+    "id": "dr-laxmipriya-swain",
+    "name": "Dr. Laxmipriya Swain",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/593-laxmipriya-swain",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026593_69607b47b6c45.jpeg"
+  },
+  {
+    "id": "dr-lohakare-santosh-vijay",
+    "name": "Dr. Lohakare Santosh Vijay",
+    "designation": "Assistant professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/534-lohakare-santosh-vijay",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025534_68c8eb06c4e87.jpeg"
+  },
+  {
+    "id": "dr-lokesh-kumar-duchaniya",
+    "name": "Dr. Lokesh Kumar Duchaniya",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/529-lokesh-kumar-duchaniya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025529_68c118ff573c6.jpeg"
+  },
+  {
+    "id": "dr-manoj-kumar",
+    "name": "Dr. Manoj Kumar",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/617-manoj-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026617_69734fdd36543.jpeg"
+  },
+  {
+    "id": "dr-mathivanan-durai",
+    "name": "Dr. Mathivanan Durai",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/615-mathivanan-durai",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026615_6970b7c82b2d1.png"
+  },
+  {
+    "id": "dr-md-golam-mortuja",
+    "name": "Dr. Md Golam Mortuja",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/268-md-golam-mortuja",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023268-188429614-2023-08-24-Photo_MGM.jpg"
+  },
+  {
+    "id": "dr-minakshmi-shaw",
+    "name": "Dr. Minakshmi Shaw",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/331-minakshmi-shaw",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024331-979202499-2024-02-09-Passport_Size_Photo.jpg"
+  },
+  {
+    "id": "dr-mohd-vasiulla",
+    "name": "Dr. Mohd Vasiulla",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/616-mohd-vasiulla",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026616_6972de281d39e.jpeg"
+  },
+  {
+    "id": "dr-moumita-ghosh",
+    "name": "Dr. Moumita Ghosh",
+    "designation": "Asst. Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/584-moumita-ghosh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025584_6946a0b549e4a.jpeg"
+  },
+  {
+    "id": "mr-y-arjun-sagar",
+    "name": "Mr. Y. Arjun Sagar",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/424-mr-y-arjun-sagar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025424-1883373142-2025-04-10-1P4A7192_(2).jpg"
+  },
+  {
+    "id": "dr-n-sharmila-banu",
+    "name": "Dr. N. Sharmila Banu",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/228-n-sharmila-banu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Sharmila.jpg"
+  },
+  {
+    "id": "mis-n-shilpa",
+    "name": "Mis. N. Shilpa",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/104-n-shilpa",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2022104-241837885-2022-03-25-Ms.N.Shilpa.JPG"
+  },
+  {
+    "id": "dr-nagaraju-gajjela",
+    "name": "Dr. Nagaraju Gajjela",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/260-nagaraju-gajjela",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Nagaraju_Gajjela.webp"
+  },
+  {
+    "id": "mr-nagendar-yamsani",
+    "name": "Mr. Nagendar Yamsani",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/23-nagendar-yamsani",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/23-1440310443-2022-07-30-Mr.-Y.Nagender.jpg"
+  },
+  {
+    "id": "dr-nageswararao-naik-bhookya",
+    "name": "Dr. Nageswararao Naik Bhookya",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/495-nageswararao-naik-bhookya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025495_6880c3b2505c6.png"
+  },
+  {
+    "id": "mr-nagurla-mahender",
+    "name": "Mr. Nagurla Mahender",
+    "designation": "Asst Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/230-nagurla-mahender",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023230-2016497611-2023-08-22-MAHI_PHOTO.jpeg"
+  },
+  {
+    "id": "dr-naramula-venkatesh",
+    "name": "Dr. Naramula Venkatesh",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/290-naramula-venkatesh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_N_Venkatesh.jpg"
+  },
+  {
+    "id": "mr-naresh-kumar-sripada",
+    "name": "Mr. Naresh Kumar Sripada",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/45-naresh-kumar-sripada",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/45-613698269-2022-03-16-Mr.-S.Naresh-Kumar.jpg"
+  },
+  {
+    "id": "mrs-neelima-gurrapu",
+    "name": "Mrs. Neelima Gurrapu",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/245-neelima-gurrapu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023245-1187799330-2023-08-23-Neelima_G.JPG"
+  },
+  {
+    "id": "dr-neetu-prasad",
+    "name": "Dr. Neetu Prasad",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/470-neetu-prasad",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025470_686bad2f5d04e.jpeg"
+  },
+  {
+    "id": "dr-nitisha-yadav",
+    "name": "Dr. Nitisha Yadav",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/621-nitisha-yadav",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026621_6979b4f30e795.png"
+  },
+  {
+    "id": "dr-pramod-kumar-poladi",
+    "name": "Dr. Pramod Kumar Poladi",
+    "designation": "Senior Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/17-pramod-kumar-poladi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Mr_P_Pramod.jpg"
+  },
+  {
+    "id": "dr-priyanka-chandra",
+    "name": "Dr. Priyanka Chandra",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/427-priyanka-chandra",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025427-38054488-2025-04-10-Pasport_Size_Pic.jpeg"
+  },
+  {
+    "id": "mr-radhakrishnan-paramasivan",
+    "name": "Mr. Radhakrishnan Paramasivan",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/226-radhakrishnan-paramasivan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023226-1390950481-2023-08-22-IMG_20230705_100821~2.jpg"
+  },
+  {
+    "id": "dr-ramesh-babu-a",
+    "name": "Dr. Ramesh Babu A",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/187-ramesh-babu-a",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_A_Ramesh.jpg"
+  },
+  {
+    "id": "dr-ramesh-dadi",
+    "name": "Dr. Ramesh Dadi",
+    "designation": "Asst. Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/150-ramesh-dadi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/150-1115426647-2022-07-30-Mr.-D.Ramesh.jpg"
+  },
+  {
+    "id": "dr-ramit-kumar-mondal",
+    "name": "Dr. Ramit Kumar Mondal",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/553-ramit-kumar-mondal",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025553_68f2270f6c47d.jpeg"
+  },
+  {
+    "id": "dr-ranjeeth-kumar-m",
+    "name": "Dr. Ranjeeth Kumar M",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/347-ranjeeth-kumar-m",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024347-909099912-2024-08-21-DSC_0988_2.jpg"
+  },
+  {
+    "id": "dr-raveendrababu-vempati",
+    "name": "Dr. Raveendrababu Vempati",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/494-raveendrababu-vempati",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025494_6880ae7ee3b36.png"
+  },
+  {
+    "id": "dr-ravula-prashanth-kumar",
+    "name": "Dr. Ravula Prashanth Kumar",
+    "designation": "Assistant. Professor",
+    "department": "Computer Science & Artifical Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/453-ravula-prashanth-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025453-475864817-2025-05-12-Profile_Pic.jpg"
+  },
+  {
+    "id": "dr-rishabh-mittal",
+    "name": "Dr. Rishabh Mittal",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/551-rishabh-mittal",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025551_68ef3c719f7d4.jpeg"
+  },
+  {
+    "id": "mr-riyaz-mohammed",
+    "name": "Mr. Riyaz Mohammed",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/62-riyaz-mohammed",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/62-493540656-2022-03-16-Mr.-Mohammed-Riyaz.jpg"
+  },
+  {
+    "id": "dr-s-jamalaiah",
+    "name": "Dr. S Jamalaiah",
+    "designation": "ASSISTANT PROFESSOR",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/437-s-jamalaiah",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025437-2020251561-2025-05-01-PHOTO.jpg"
+  },
+  {
+    "id": "mr-sai-swagat-mishra",
+    "name": "Mr. Sai Swagat Mishra",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/591-sai-swagat-mishra",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/saiswagat.jpg"
+  },
+  {
+    "id": "dr-sajal-mandal",
+    "name": "Dr. Sajal Mandal",
+    "designation": "Assistant professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/497-sajal-mandal",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/sajal-mandalsru.png"
+  },
+  {
+    "id": "mr-sallauddin-mohmmad",
+    "name": "Mr. Sallauddin Mohmmad",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/27-sallauddin-mohmmad",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/27-905016081-2022-03-15-Mr.-Sallauddin-Mohmmad.jpg"
+  },
+  {
+    "id": "dr-sandip-moi",
+    "name": "Dr. Sandip Moi",
+    "designation": "ASSISTANT PROFESSOR",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/496-sandip-moi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025496_6880dfcd5ee9c.jpeg"
+  },
+  {
+    "id": "dr-santosh-kumar-yadav",
+    "name": "Dr. Santosh Kumar Yadav",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/433-santosh-kumar-yadav",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025433-1486454978-2025-04-27-profile_pic.jpeg"
+  },
+  {
+    "id": "dr-shadab-ali",
+    "name": "Dr. Shadab Ali",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/542-shadab-ali",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025542_68d11511d9800.jpeg"
+  },
+  {
+    "id": "dr-shanker-chandre",
+    "name": "Dr. Shanker Chandre",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/190-shanker-chandre",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Ch_Shanker.jpg"
+  },
+  {
+    "id": "dr-shobha-rani-vallem",
+    "name": "Dr. Shobha Rani Vallem",
+    "designation": "Asst. Professor & Associate Dean - Intl. Relations",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/221-shobha-rani-vallem",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023221-2013989604-2023-08-22-shobha.jpg"
+  },
+  {
+    "id": "dr-shravan-kumar-yadav",
+    "name": "Dr. Shravan Kumar Yadav",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/531-shravan-kumar-yadav",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025531_68c297e5e77a9.png"
+  },
+  {
+    "id": "dr-siddhartha-bhattacharyya",
+    "name": "Dr. Siddhartha Bhattacharyya",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/618-siddhartha-bhattacharyya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026618_6973580318ef7.jpeg"
+  },
+  {
+    "id": "dr-sridhar-chintala",
+    "name": "Dr. Sridhar Chintala",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/301-sridhar-chintala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023301-1052195195-2023-12-08-DSC_0004.jpg"
+  },
+  {
+    "id": "dr-srinivas-aluvala",
+    "name": "Dr. Srinivas Aluvala",
+    "designation": "Associate Professor, Director Atuomation & IT Services",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/36-srinivas-aluvala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/36-1416628352-2022-03-15-Mr.-A.-Srinivas.jpg"
+  },
+  {
+    "id": "mr-sripelli-jagadish",
+    "name": "Mr. Sripelli Jagadish",
+    "designation": "Asst. Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/198-sripelli-jagadish",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023198-318293768-2023-08-17-pp.jpg"
+  },
+  {
+    "id": "dr-sudersan-behera",
+    "name": "Dr. Sudersan Behera",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/480-sudersan-behera",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025480_686ced556d884.jpeg"
+  },
+  {
+    "id": "dr-sudharani",
+    "name": "Dr. Sudharani",
+    "designation": "Asst professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/450-sudharani",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025450-1965768017-2025-05-09-photo.png"
+  },
+  {
+    "id": "dr-sudhir-kumar-singh",
+    "name": "Dr. Sudhir Kumar Singh",
+    "designation": "Assistant Professor",
+    "department": "School Of Computer Science & Ai",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/552-sudhir-kumar-singh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025552_68f2221ea18ec.jpeg"
+  },
+  {
+    "id": "dr-sumit-sen",
+    "name": "Dr. Sumit Sen",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/525-sumit-sen",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025525_68c004a57aefa.jpeg"
+  },
+  {
+    "id": "dr-suresh-kumar-mandala",
+    "name": "Dr. Suresh Kumar Mandala",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/255-suresh-kumar-mandala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Suresh_Kumar_Mandala.webp"
+  },
+  {
+    "id": "dr-swarup-ghosh",
+    "name": "Dr. Swarup Ghosh",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/483-swarup-ghosh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025483_686e3b384f637.jpeg"
+  },
+  {
+    "id": "dr-syed-ali-hussain",
+    "name": "Dr. Syed Ali Hussain",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/530-syed-ali-hussain",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025530_68c27499a5d73.png"
+  },
+  {
+    "id": "mr-syed-nawaz-pasha",
+    "name": "Mr. Syed Nawaz Pasha",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/32-syed-nawaz-pasha",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/32-1392577514-2022-03-15-Mr.-Syed-Nawaz-Pasha.jpg"
+  },
+  {
+    "id": "dr-thatiparthy-bharath-kumar",
+    "name": "Dr. Thatiparthy Bharath Kumar",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/544-thatiparthy-bharath-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025544_68d63682abb7d.jpeg"
+  },
+  {
+    "id": "dr-vikas-maurya",
+    "name": "Dr. Vikas Maurya",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/499-vikas-maurya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025499_68820374786d7.jpeg"
+  },
+  {
+    "id": "dr-vikrant-yadav",
+    "name": "Dr. Vikrant Yadav",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/572-vikrant-yadav",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025572_691c4c8159aa8.jpeg"
+  },
+  {
+    "id": "dr-vivek-kumar-dhimole",
+    "name": "Dr. Vivek Kumar Dhimole",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/582-vivek-kumar-dhimole",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025582_6944cca6b2862.jpeg"
+  },
+  {
+    "id": "dr-hitesh-rahangdale",
+    "name": "Dr. Hitesh Rahangdale",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/438-hitesh-rahangdale",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025438-291915107-2025-05-02-secondtry.png"
+  },
+  {
+    "id": "dr-jagjit-singh-dhaterwal",
+    "name": "Dr. Jagjit Singh Dhaterwal",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Artificial Intelligence",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/493-jagjit-singh-dhaterwal",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025493_6880abd17f351.jpeg"
+  },
+  {
+    "id": "dr-jyoti",
+    "name": "Dr. Jyoti",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/583-jyoti",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025583_694660af92260.jpeg"
+  },
+  {
+    "id": "dr-kalaivani-k",
+    "name": "Dr. Kalaivani K",
+    "designation": "Associate Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/567-kalaivani-k",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025567_6912fa6d011e9.png"
+  },
+  {
+    "id": "dr-m-prakash",
+    "name": "Dr. M. Prakash",
+    "designation": "Assistant Professor",
+    "department": "Computer Science And Engineering",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/454-m-prakash",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025454-286379109-2025-05-12-photo.jpeg"
+  },
+  {
+    "id": "dr-nirakara-pradhan",
+    "name": "Dr. Nirakara Pradhan",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/533-nirakara-pradhan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025533_68c8312b95475.jpeg"
+  },
+  {
+    "id": "dr-varatharaj-k",
+    "name": "Dr. Varatharaj K",
+    "designation": "Assistant professor",
+    "department": "Mathematics",
+    "school": "School Of Computer Science And Artificial Intelligence",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/560-varatharaj-k",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025560_690c281a395d1.jpeg"
+  },
+  {
+    "id": "dr-g-bhupal-raj",
+    "name": "Dr. G. Bhupal Raj",
+    "designation": "Dean (Ag)",
+    "department": "School Of Agriculture",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/141-g-bhupal-raj",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_G_BHUPAL_RAJ.jpg"
+  },
+  {
+    "id": "dr-m-mohana-keerthi",
+    "name": "Dr. M. Mohana Keerthi",
+    "designation": "Associate Professor & Head",
+    "department": "Department Of Agronomy",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/138-m-mohana-keerthi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_M_MOHANA_KEERTHI.jpg"
+  },
+  {
+    "id": "dr-boda-somraj",
+    "name": "Dr. Boda Somraj",
+    "designation": "Associate Professor",
+    "department": "Horticulture",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/231-boda-somraj",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_BODA_SOMRAJ.jpg"
+  },
+  {
+    "id": "dr-g-venkatasubba-reddy",
+    "name": "Dr. G. Venkatasubba Reddy",
+    "designation": "Associate Professor",
+    "department": "Agricultural Microbiology",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/354-g-venkatasubba-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024354-1854965173-2024-08-29-Subba_Reddy_photo.jpg"
+  },
+  {
+    "id": "dr-kakani-grihalakshmi",
+    "name": "Dr. Kakani Grihalakshmi",
+    "designation": "Associate Professor",
+    "department": "Agricultural Economics",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/570-kakani-grihalakshmi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/grilaxmi.png"
+  },
+  {
+    "id": "dr-kalluri-praveen",
+    "name": "Dr. Kalluri Praveen",
+    "designation": "Assistant Professor",
+    "department": "Agriculture Engineering",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/341-kalluri-praveen",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024341-1844767024-2024-08-08-photo.jpg"
+  },
+  {
+    "id": "mis-b-sai-divya",
+    "name": "Mis. B. Sai Divya",
+    "designation": "Assistant Professor",
+    "department": "Department Of Agronomy",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/129-b-sai-divya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2022129-841245955-2022-04-05-Ms._B._Sai_Divya.JPG"
+  },
+  {
+    "id": "dr-banoth-madhu",
+    "name": "Dr. Banoth Madhu",
+    "designation": "Assistant Professor",
+    "department": "Genetics And Plant Breeding",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/511-banoth-madhu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025511_689429ef17cc4.png"
+  },
+  {
+    "id": "dr-chitrasena-padhy",
+    "name": "Dr. Chitrasena Padhy",
+    "designation": "Associate Professor",
+    "department": "Agricultural Extension Education",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/555-chitrasena-padhy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025555_6904ef736d285.png"
+  },
+  {
+    "id": "dr-chitteti-ravali",
+    "name": "Dr. Chitteti Ravali",
+    "designation": "Assistant professor",
+    "department": "Soil Science",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/239-chitteti-ravali",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023239-316498870-2023-08-23-IMG-20220409-WA0005.jpg"
+  },
+  {
+    "id": "mr-chunchu-suchith-kumar",
+    "name": "Mr. Chunchu Suchith Kumar",
+    "designation": "Assistant Professor",
+    "department": "Agronomy",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/127-chunchu-suchith-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/127-530468918-2022-07-30-Mr._Chunchu_Suchith_Kumar.JPG"
+  },
+  {
+    "id": "mr-g-sriker-reddy",
+    "name": "Mr. G Sriker Reddy",
+    "designation": "Assistant Professor",
+    "department": "Agricultural Extension",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/126-g-sriker-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2022126-264843893-2022-04-05-Mr._G._Sriker_Reddy.JPG"
+  },
+  {
+    "id": "dr-gireesha-d",
+    "name": "Dr. Gireesha D",
+    "designation": "Assistant Professor",
+    "department": "Plant Pathology",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/317-gireesha-d",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024317-363540606-2024-01-18-SRU_Pic.jpg"
+  },
+  {
+    "id": "dr-guda-bhargavi",
+    "name": "Dr. Guda Bhargavi",
+    "designation": "Assistant Professor",
+    "department": "Agronomy",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/342-guda-bhargavi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024342-748596309-2024-08-08-BHARGAVI_G.jpg"
+  },
+  {
+    "id": "dr-gugulothu-prasanna",
+    "name": "Dr. Gugulothu Prasanna",
+    "designation": "Assistant professor",
+    "department": "Genetics And Plant Breeding",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/397-gugulothu-prasanna",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025397-1977131805-2025-02-21-IMG-20250221-WA0012.jpg"
+  },
+  {
+    "id": "mr-karthik-h-p",
+    "name": "Mr. Karthik H P",
+    "designation": "Assistant Professor",
+    "department": "Agricultural Economics",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/123-karthik-h-p",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2022123-1909846017-2022-04-05-Mr._Karthik_H.P.JPG"
+  },
+  {
+    "id": "mrs-koncha-lakshmi-prasanna",
+    "name": "Mrs. Koncha Lakshmi Prasanna",
+    "designation": "Assistant Professor",
+    "department": "Soil Science",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/267-koncha-lakshmi-prasanna",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023267-333759639-2023-08-24-2070b3c1-a532-41c9-9ab7-0b1c899569f0.jpg"
+  },
+  {
+    "id": "dr-m-s-likitha-reddy",
+    "name": "Dr. M. S. Likitha Reddy",
+    "designation": "Assistant Professor",
+    "department": "Department Of Agronomy",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/448-m-s-likitha-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025448-1654456209-2025-05-06-WhatsApp_Image_2025-05-01_at_12.01.11.jpg"
+  },
+  {
+    "id": "mis-mutha-sravya",
+    "name": "Mis. Mutha Sravya",
+    "designation": "Asst. Professor",
+    "department": "Agronomy",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/218-mutha-sravya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023218-436623630-2023-08-22-WhatsApp_Image_2023-08-22_at_12.47.02_PM.jpeg"
+  },
+  {
+    "id": "dr-narkhede-gopal-wasudeo",
+    "name": "Dr. Narkhede Gopal Wasudeo",
+    "designation": "Assistant Professor",
+    "department": "Genetics And Plant Breeding",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/310-narkhede-gopal-wasudeo",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023310-689589880-2023-12-21-Gopal_Narkhede_Pic.jpeg"
+  },
+  {
+    "id": "dr-navyashree-r",
+    "name": "Dr. Navyashree R",
+    "designation": "Assistant Professor",
+    "department": "Department Of Crop Physiology",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/398-navyashree-r",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025398-437150920-2025-02-26-navyashree_R.jpg"
+  },
+  {
+    "id": "dr-ningaraj-belagalla",
+    "name": "Dr. Ningaraj Belagalla",
+    "designation": "Assistant Professor",
+    "department": "Agricultural Entomology",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/403-ningaraj-belagalla",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025403-1899776781-2025-03-05-photo_1.jpg"
+  },
+  {
+    "id": "dr-pandit-vaibhav-bhagwan",
+    "name": "Dr. Pandit Vaibhav Bhagwan",
+    "designation": "Assistant Professor",
+    "department": "Soil Science",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/241-pandit-vaibhav-bhagwan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_VAIBHAV.jpg"
+  },
+  {
+    "id": "mis-pooja-srivastav",
+    "name": "Mis. Pooja Srivastav",
+    "designation": "Assistant Professor",
+    "department": "Department Of Agronomy, School Of Agriculture",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/135-pooja-srivastav",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/135-728722765-2022-04-05-Ms._Pooja_Srivatsav.JPG"
+  },
+  {
+    "id": "dr-rathod-lalsingh",
+    "name": "Dr. Rathod Lalsingh",
+    "designation": "Assistant professor",
+    "department": "Agricultural Entomology",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/235-rathod-lalsingh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_RATHOD_LALSINGH.jpg"
+  },
+  {
+    "id": "dr-raviteja-d-h",
+    "name": "Dr. Raviteja D H",
+    "designation": "Assistant Professor",
+    "department": "Crop Physiology",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/512-raviteja-d-h",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025512_68959ca57cd73.png"
+  },
+  {
+    "id": "dr-srinu-banothu",
+    "name": "Dr. Srinu Banothu",
+    "designation": "Assistant Professor",
+    "department": "Horticulture",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/137-srinu-banothu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_SRINU.jpg"
+  },
+  {
+    "id": "mr-thokalasaikrishna-reddy",
+    "name": "Mr. Thokala.Saikrishna Reddy",
+    "designation": "Assistant Professor",
+    "department": "Agriculture Engineering",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/134-thokala-saikrishna-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2022134-1093739176-2022-04-05-Sri._T._Sai_Krishna_Reddy.JPG"
+  },
+  {
+    "id": "dr-tithli-sadhu",
+    "name": "Dr. Tithli Sadhu",
+    "designation": "Assistant professor & Associate Dean",
+    "department": "Department Of Biochemistry And Department Of Food Science & Technology, School O",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/238-tithli-sadhu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_TITHLI_SADHU.jpg"
+  },
+  {
+    "id": "dr-vyamasani-shravani",
+    "name": "Dr. Vyamasani Shravani",
+    "designation": "Assistant Professor",
+    "department": "Department Of Entomology, School Of Agriculture",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/510-vyamasani-shravani",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025510_68931dbf58f6b.jpeg"
+  },
+  {
+    "id": "dr-yedida-sudhamini",
+    "name": "Dr. Yedida Sudhamini",
+    "designation": "Assistant Professor",
+    "department": "Department Of Agricultural Extension, School Of Agriculture",
+    "school": "School Of Agriculture",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/402-yedida-sudhamini",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025402-312092062-2025-03-05-Yedida_Sudhamini_passport_pic.jpg"
+  },
+  {
+    "id": "dr-gurunadham-goli",
+    "name": "Dr. Gurunadham Goli",
+    "designation": "Professor & Dean",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/142-gurunadham-goli",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_g_gurunadham.JPG"
+  },
+  {
+    "id": "dr-m-rajya-laxmi",
+    "name": "Dr. M. Rajya Laxmi",
+    "designation": "Professor & Head of the Department",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/147-m-rajya-laxmi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_M_RajyaLakshmi.jpg"
+  },
+  {
+    "id": "dr-d-ramesh-babu",
+    "name": "Dr. D. Ramesh Babu",
+    "designation": "Professor and Associate Dean",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/144-d-ramesh-babu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_ramesh_babu.jpg"
+  },
+  {
+    "id": "dr-kafila",
+    "name": "Dr. Kafila",
+    "designation": "Professor, Associate Head & Assistant Dean",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/270-kafila",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_kafila.jpg"
+  },
+  {
+    "id": "dr-dharmula-srinivas",
+    "name": "Dr. Dharmula Srinivas",
+    "designation": "Associate Professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/145-dharmula-srinivas",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Srinivas_D.jpg"
+  },
+  {
+    "id": "dr-geetha-manoharan",
+    "name": "Dr. Geetha Manoharan",
+    "designation": "Associate Professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/158-geetha-manoharan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/158-339392848-2022-07-30-Dr._Geetha.JPG"
+  },
+  {
+    "id": "mr-sardar-parminder-singh",
+    "name": "Mr. Sardar Parminder Singh",
+    "designation": "Associate Professor of Practice",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/183-sardar-parminder-singh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_parminder.jpg"
+  },
+  {
+    "id": "dr-srinivas-tunguturi",
+    "name": "Dr. Srinivas Tunguturi",
+    "designation": "Associate Professor & Asst Dean- Internships & Placements",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/389-srinivas-tunguturi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024389-1514478663-2024-12-30-Dr.T._Srinivas_@_SRU_Photo.jpeg"
+  },
+  {
+    "id": "dr-balakrishna-ballekura",
+    "name": "Dr. Balakrishna Ballekura",
+    "designation": "Assistant Professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/507-balakrishna-ballekura",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025507_688c6ca2cd7e0.jpeg"
+  },
+  {
+    "id": "dr-dasari-shanti-ratnam",
+    "name": "Dr. Dasari Shanti Ratnam",
+    "designation": "Assistant Professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/477-dasari-shanti-ratnam",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025471_686cc0098c93d.jpeg"
+  },
+  {
+    "id": "dr-jeevan-john-varghese",
+    "name": "Dr. Jeevan John Varghese",
+    "designation": "Assistant Professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/546-jeevan-john-varghese",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025546_68e60afad6d72.jpeg"
+  },
+  {
+    "id": "dr-k-aruna",
+    "name": "Dr. K. Aruna",
+    "designation": "Assistant Professor",
+    "department": "Department Of Bm",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/547-k-aruna",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025547_68e614bede02b.jpeg"
+  },
+  {
+    "id": "mr-mshravan",
+    "name": "Mr. M.Shravan",
+    "designation": "Assistant professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/258-m-shravan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/m_shravan.webp"
+  },
+  {
+    "id": "dr-naini-shalini-reddy",
+    "name": "Dr. Naini Shalini Reddy",
+    "designation": "Assistant Professor",
+    "department": "Sob",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/545-naini-shalini-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025545_68e4ea12df4d0.jpeg"
+  },
+  {
+    "id": "dr-nupur-sharma",
+    "name": "Dr. Nupur Sharma",
+    "designation": "Assistant Professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/574-nupur-sharma",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025574_691ef75171d18.jpeg"
+  },
+  {
+    "id": "dr-ramesh-r",
+    "name": "Dr. Ramesh R",
+    "designation": "Assistant Professor",
+    "department": "Business",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/338-ramesh-r",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024338-1080206595-2024-05-16-MG_136-21.jpg"
+  },
+  {
+    "id": "dr-rukma-r",
+    "name": "Dr. Rukma R",
+    "designation": "ASSISTANT PROFESSOR",
+    "department": "Management",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/456-rukma-r",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025456-794915610-2025-05-13-IMG_20250501_153400.jpg"
+  },
+  {
+    "id": "dr-salla-nithyanth-kumar",
+    "name": "Dr. Salla Nithyanth Kumar",
+    "designation": "Assistant Professor",
+    "department": "Management Studies",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/515-salla-nithyanth-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025515_68a988bd03d6e.jpeg"
+  },
+  {
+    "id": "dr-k-uttam",
+    "name": "Dr. K. Uttam",
+    "designation": "Assistant Professor",
+    "department": "Sob",
+    "school": "Astra School Of Business",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/573-k-uttam",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025573_691ee7631cc2e.jpeg"
+  },
+  {
+    "id": "dr-padala-raja-shekar",
+    "name": "Dr. Padala Raja Shekar",
+    "designation": "Assistant Professor (Head of the Department)",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/428-padala-raja-shekar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025428-1493024635-2025-04-11-Padala.jpeg"
+  },
+  {
+    "id": "dr-g-shyamala",
+    "name": "Dr. G. Shyamala",
+    "designation": "Professor",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/178-g-shyamala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_G_Shyamala.jpg"
+  },
+  {
+    "id": "dr-k-poongodi",
+    "name": "Dr. K. Poongodi",
+    "designation": "Professor",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/163-k-poongodi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_K_Poongodi.jpg"
+  },
+  {
+    "id": "dr-gaurav-tyagi",
+    "name": "Dr. Gaurav Tyagi",
+    "designation": "Associate Professor",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/508-gaurav-tyagi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025508_689040b8c2a9b.jpeg"
+  },
+  {
+    "id": "dr-p-swamy-naga-ratna-giri",
+    "name": "Dr. P Swamy Naga Ratna Giri",
+    "designation": "Associate Professor & Associate Head",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/406-p-swamy-naga-ratna-giri",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025406-446496080-2025-04-01-Dr_P_Swamy_Naga_Ratna_Giri.jpg"
+  },
+  {
+    "id": "dr-guntakala-venkatanaga-chandra",
+    "name": "Dr. Guntakala Venkatanaga Chandra",
+    "designation": "Assistant Professor & Associate Dean Campus Beautification",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/506-guntakala-venkatanaga-chandra",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025506_688c54e52818f.png"
+  },
+  {
+    "id": "dr-jnyanendra-kumar-prusty",
+    "name": "Dr. Jnyanendra Kumar Prusty",
+    "designation": "Asst. Professor",
+    "department": "Ce",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/405-jnyanendra-kumar-prusty",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025405-748534695-2025-03-21-JKP_Photo.jpeg"
+  },
+  {
+    "id": "dr-ketan-kumar-nandi",
+    "name": "Dr. Ketan Kumar Nandi",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/501-ketan-kumar-nandi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025501_688347c26b75a.jpeg"
+  },
+  {
+    "id": "dr-mvishnupriyan",
+    "name": "Dr. M.Vishnupriyan",
+    "designation": "Assistant Professor & Associate Dean Planning",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/425-m-vishnupriyan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025425-1306756138-2025-04-10-DSC_6361.JPG"
+  },
+  {
+    "id": "dr-nagalapuram-muni-pradeep",
+    "name": "Dr. Nagalapuram Muni Pradeep",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/440-nagalapuram-muni-pradeep",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025440-1877835809-2025-05-02-Dr._N._Muni_Pradeep.png"
+  },
+  {
+    "id": "dr-prakhash-n",
+    "name": "Dr. Prakhash N",
+    "designation": "Assistant Professor & Associate Dean Student Welfare",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/404-prakhash-n",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025404-1628799771-2025-03-20-Dr.Prakhash_N.jpg"
+  },
+  {
+    "id": "dr-ramesh-gomasa",
+    "name": "Dr. Ramesh Gomasa",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/518-ramesh-gomasa",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025518_68b7daabddda6.jpeg"
+  },
+  {
+    "id": "dr-sritam-swapnadarshi-sahu",
+    "name": "Dr. Sritam Swapnadarshi Sahu",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/161-sritam-swapnadarshi-sahu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Sritam.jpg"
+  },
+  {
+    "id": "dr-sujay-vipulbhai-teli",
+    "name": "Dr. Sujay Vipulbhai Teli",
+    "designation": "Assistant Professor & Associate Dean PhD Programmes",
+    "department": "Civil Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/441-sujay-vipulbhai-teli",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025441-395476861-2025-05-02-sujay_image_(1).png"
+  },
+  {
+    "id": "dr-l-m-i-leo-joseph",
+    "name": "Dr. L. M. I. Leo Joseph",
+    "designation": "Professor (Dean School of Engineering)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/113-l-m-i-leo-joseph",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Joseph.jpg"
+  },
+  {
+    "id": "dr-kodela-raj-kumar",
+    "name": "Dr. Kodela Raj Kumar",
+    "designation": "Associate Professor (Head of the Department)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/115-kodela-raj-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Raj_Kumar.jpg"
+  },
+  {
+    "id": "dr-arun-sekar-r",
+    "name": "Dr. Arun Sekar R",
+    "designation": "Professor(Assoc. Head)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/233-arun-sekar-r",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Arun_Shekar.jpg"
+  },
+  {
+    "id": "dr-ch-rajendra-prasad",
+    "name": "Dr. Ch. Rajendra Prasad",
+    "designation": "Professor (ECE),Controller of Examinations & In-Charge, Center for Experiential Learning",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/107-ch-rajendra-prasad",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Rajendra_Prasad.jpg"
+  },
+  {
+    "id": "dr-j-ajayan",
+    "name": "Dr. J. Ajayan",
+    "designation": "Professor (Dean Pg)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/117-j-ajayan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_J_Ajayan.jpg"
+  },
+  {
+    "id": "dr-k-sreedhar-reddy",
+    "name": "Dr. K. Sreedhar Reddy",
+    "designation": "Professor(Assoc Dean: Academics)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/114-k-sreedhar-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_K_Sreedhar.jpg"
+  },
+  {
+    "id": "dr-sandip-bhattacharya",
+    "name": "Dr. Sandip Bhattacharya",
+    "designation": "Professor & Dean, Postdoctoral Research",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/112-sandip-bhattacharya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Sandip.jpg"
+  },
+  {
+    "id": "dr-biswajit-mahanty",
+    "name": "Dr. Biswajit Mahanty",
+    "designation": "Associate Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/407-biswajit-mahanty",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025407-410216334-2025-04-02-1743573040189.jpg"
+  },
+  {
+    "id": "dr-shaik-vaseem-akram",
+    "name": "Dr. Shaik Vaseem Akram",
+    "designation": "Associate Professor (Dean: IPR and Publications)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/193-shaik-vaseem-akram",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Shaik_Vaseem_Akram.jpg"
+  },
+  {
+    "id": "dr-suresh-yarlagadda",
+    "name": "Dr. Suresh Yarlagadda",
+    "designation": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/548-suresh-yarlagadda",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025548_68e75c9db6636.jpeg"
+  },
+  {
+    "id": "dr-syed-nageena-parveen",
+    "name": "Dr. Syed Nageena Parveen",
+    "designation": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/195-syed-nageena-parveen",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Syed_Nageena_Parveen.jpg"
+  },
+  {
+    "id": "dr-v-malathy",
+    "name": "Dr. V. Malathy",
+    "designation": "Associate Professor(Asst.Dean: Post Graduation Programs)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/109-v-malathy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_V_Malathy.jpg"
+  },
+  {
+    "id": "dr-vipin-kumar",
+    "name": "Dr. Vipin Kumar",
+    "designation": "Associate Professor",
+    "department": "Electronics & Communication Engineering (Ece)",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/636-vipin-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026636_69942df17636f.jpeg"
+  },
+  {
+    "id": "dr-anjana-tripathi",
+    "name": "Dr. Anjana Tripathi",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/568-anjana-tripathi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025568_69146b7974603.jpeg"
+  },
+  {
+    "id": "dr-aparna-sajeev",
+    "name": "Dr. Aparna Sajeev",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/620-aparna-sajeev",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026620_6975bfcfd1221.jpeg"
+  },
+  {
+    "id": "dr-ark-dev",
+    "name": "Dr. Ark Dev",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/634-ark-dev",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026634_69932b646c67b.jpeg"
+  },
+  {
+    "id": "dr-ashish-kant-shukla",
+    "name": "Dr. Ashish Kant Shukla",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/607-ashish-kant-shukla",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026607_696b6547101e8.jpeg"
+  },
+  {
+    "id": "dr-borish-moirangthem",
+    "name": "Dr. Borish Moirangthem",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/635-borish-moirangthem",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026635_69940e928fa81.png"
+  },
+  {
+    "id": "dr-chakradhar-adupa",
+    "name": "Dr. Chakradhar Adupa",
+    "designation": "Assistant Professor (Assoc.Dean: Innovation & Startups & Director: NEST)",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/395-chakradhar-adupa",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025393-1354674175-2025-02-10-CHAKRIFEB1_11zon.jpg"
+  },
+  {
+    "id": "dr-danish-abdullah",
+    "name": "Dr. Danish Abdullah",
+    "designation": "Assistant professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/580-danish-abdullah",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025580_6936b5f6c5ae8.jpeg"
+  },
+  {
+    "id": "dr-joydev-ghosh",
+    "name": "Dr. Joydev Ghosh",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/504-joydev-ghosh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025504_688aed0286ef7.jpeg"
+  },
+  {
+    "id": "dr-kallepelli-sagar",
+    "name": "Dr. Kallepelli Sagar",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/282-kallepelli-sagar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_KALLEPELLI_SAGAR.jpg"
+  },
+  {
+    "id": "dr-mohammad-junaid-khan",
+    "name": "Dr. Mohammad Junaid Khan",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/503-mohammad-junaid-khan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025503_6888d2dfe495e.jpeg"
+  },
+  {
+    "id": "dr-mounika-b",
+    "name": "Dr. Mounika B",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/396-mounika-b",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025396-1232108377-2025-02-18-WhatsApp_Image_2024-11-11_at_12.18.14_PM.jpeg"
+  },
+  {
+    "id": "dr-nramkumar",
+    "name": "Dr. N.Ramkumar",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/366-n-ramkumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024366-1105238659-2024-10-03-DSC_0628.jpg"
+  },
+  {
+    "id": "dr-p-soni-reddy",
+    "name": "Dr. P Soni Reddy",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/563-p-soni-reddy",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025563_690c6151375af.jpeg"
+  },
+  {
+    "id": "dr-partha-pratim-shome",
+    "name": "Dr. Partha Pratim Shome",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/367-partha-pratim-shome",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024367-752199078-2024-10-03-Dr._Partha_Pratim_Shome_1_11zon.jpg"
+  },
+  {
+    "id": "lt-rajeshwar-rao-arabelli",
+    "name": "Lt. Rajeshwar rao Arabelli",
+    "designation": "Assistant Professor( Associate NCC Officer),Associate Dean Student Welfare",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/108-rajeshwarrao-arabelli",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2022108-556804171-2022-03-25-Sri._A_Rajeshwar_Rao.JPG"
+  },
+  {
+    "id": "dr-raushan-kumar",
+    "name": "Dr. Raushan Kumar",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/392-raushan-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025392-1613261393-2025-01-30-raushan.png"
+  },
+  {
+    "id": "dr-rishitej-chaparala",
+    "name": "Dr. Rishitej Chaparala",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/541-rishitej-chaparala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025541_68ce760010550.jpeg"
+  },
+  {
+    "id": "dr-shaik-imamvali",
+    "name": "Dr. Shaik Imamvali",
+    "designation": "ASSISTANT PROFESSOR",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/605-shaik-imamvali",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026605_696b1a8d72900.jpeg"
+  },
+  {
+    "id": "dr-soumadri-samanta",
+    "name": "Dr. Soumadri Samanta",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/613-soumadri-samanta",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026613_69706204b7aac.jpeg"
+  },
+  {
+    "id": "dr-srinivas-samala",
+    "name": "Dr. Srinivas Samala",
+    "designation": "Assistant Professor(Assoc Dean School of Engineering)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/106-srinivas-samala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2022106-1342835275-2022-03-25-Sri._S._Srinivas.JPG"
+  },
+  {
+    "id": "dr-subhashis-das",
+    "name": "Dr. Subhashis Das",
+    "designation": "Associate Professor (Coordinator of Library, Sports and Staff Club)",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/559-subhashis-das",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025559_6909d51bc0fac.jpeg"
+  },
+  {
+    "id": "dr-suguru-pathinti-ramadevi",
+    "name": "Dr. Suguru Pathinti Ramadevi",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/557-suguru-pathinti-ramadevi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025557_6905a4aeeadb1.jpeg"
+  },
+  {
+    "id": "dr-susamay-samanta",
+    "name": "Dr. Susamay Samanta",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/566-susamay-samanta",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025566_6910bc2d0fc84.jpeg"
+  },
+  {
+    "id": "dr-thaherbasha-shaik",
+    "name": "Dr. Thaherbasha Shaik",
+    "designation": "Assistant Professor (Assoc. Director: IQAC)",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/192-thaherbasha-shaik",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Thaherbasha_Shaik.jpg"
+  },
+  {
+    "id": "dr-thyda-lavanya",
+    "name": "Dr. Thyda Lavanya",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/558-thyda-lavanya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025558_6905c4df47965.jpeg"
+  },
+  {
+    "id": "dr-uday-kumar-singh",
+    "name": "Dr. Uday Kumar Singh",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/498-uday-kumar-singh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025498_6881cb5624848.jpeg"
+  },
+  {
+    "id": "dr-yadvendra-singh",
+    "name": "Dr. Yadvendra Singh",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/610-yadvendra-singh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026610_696bc70d1eb57.jpeg"
+  },
+  {
+    "id": "dr-gyanendra-kumar-maurya",
+    "name": "Dr. Gyanendra Kumar Maurya",
+    "designation": "Assistant Professor",
+    "department": "Electronics And Communication Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/514-gyanendra-kumar-maurya",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025514_68a2e97645975.jpeg"
+  },
+  {
+    "id": "dr-buddhadeva-sahoo",
+    "name": "Dr. Buddhadeva Sahoo",
+    "designation": "Associate Professor & Head, Department of EEE.",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/381-buddhadeva-sahoo",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024381-1338819322-2024-12-17-Dummy.jpg"
+  },
+  {
+    "id": "dr-a-v-v-sudhakar",
+    "name": "Dr. A V V Sudhakar",
+    "designation": "Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/66-a-v-v-sudhakar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Sudhakar.jpg"
+  },
+  {
+    "id": "dr-ram-raghotham-rao-deshmukh",
+    "name": "Dr. Ram Raghotham Rao Deshmukh",
+    "designation": "Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/153-ram-raghotham-rao-deshmukh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Ram_Deshmukh.jpg"
+  },
+  {
+    "id": "dr-vinod-kumar-dm",
+    "name": "Dr. Vinod Kumar Dm",
+    "designation": "Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/279-vinod-kumar-dm",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_VINOD.jpg"
+  },
+  {
+    "id": "dr-asiq-rahman-o-s",
+    "name": "Dr. Asiq Rahman O S",
+    "designation": "Associate Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/611-asiq-rahman-o-s",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026611_696dce3761330.png"
+  },
+  {
+    "id": "dr-b-vedik",
+    "name": "Dr. B. Vedik",
+    "designation": "Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/73-b-vedik",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_B_Vedik.jpg"
+  },
+  {
+    "id": "dr-chandan-kumar-shiva",
+    "name": "Dr. Chandan Kumar Shiva",
+    "designation": "Associate Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/74-chandan-kumar-shiva",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Chandan.jpg"
+  },
+  {
+    "id": "dr-durgam-rajababu",
+    "name": "Dr. Durgam Rajababu",
+    "designation": "Associate Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/69-durgam-rajababu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Durgam_Rajababu.jpg"
+  },
+  {
+    "id": "dr-md-mujahid-irfan",
+    "name": "Dr. Md Mujahid Irfan",
+    "designation": "Associate Professor & Dean, Academics",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/67-md-mujahid-irfan",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Md_Irfan.jpg"
+  },
+  {
+    "id": "dr-sachidananda-sen",
+    "name": "Dr. Sachidananda Sen",
+    "designation": "Associate Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/77-sachidananda-sen",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Sachidananda_Sen.jpg"
+  },
+  {
+    "id": "dr-b-vinod-kumar",
+    "name": "Dr. B. Vinod Kumar",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/590-b-vinod-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026590_695def6625e7a.png"
+  },
+  {
+    "id": "dr-ch-hussaian-basha-phd-funded-by-ugc-govt-of-india",
+    "name": "Dr. Ch Hussaian Basha, Ph.D (Funded By Ugc, Govt. Of India)",
+    "designation": "Associate Professor & Dean ProjectExpo",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/345-ch-hussaian-basha-ph-d-funded-by-ugc-govt-of-india-",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024345-1483779077-2024-08-21-6039_-_Edit.JPG"
+  },
+  {
+    "id": "dr-chidurala-saiprakash",
+    "name": "Dr. Chidurala Saiprakash",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/275-chidurala-saiprakash",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Chidurala_Saiprakash.jpg"
+  },
+  {
+    "id": "dr-kalash-srivastava",
+    "name": "Dr. Kalash Srivastava",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/633-kalash-srivastava",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026633_6992f4d0f36bf.png"
+  },
+  {
+    "id": "dr-markala-karthik",
+    "name": "Dr. Markala Karthik",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/487-markala-karthik",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025487_687dcb06938a6.jpeg"
+  },
+  {
+    "id": "dr-padmini-m",
+    "name": "Dr. Padmini M",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/604-padmini-m",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026604_696b13069d7f1.jpeg"
+  },
+  {
+    "id": "dr-sathyavani-bandela",
+    "name": "Dr. Sathyavani Bandela",
+    "designation": "Assistant professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/78-sathyavani-bandela",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Sathyavani_Bandela.webp"
+  },
+  {
+    "id": "dr-sourabh-ghosh",
+    "name": "Dr. Sourabh Ghosh",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/589-sourabh-ghosh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026589_695b7f3001bfc.jpeg"
+  },
+  {
+    "id": "dr-sourav-basak",
+    "name": "Dr. Sourav Basak",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/609-sourav-basak",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026609_696b68e06c74a.png"
+  },
+  {
+    "id": "dr-srikanth-velpula",
+    "name": "Dr. Srikanth Velpula",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/185-srikanth-velpula",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Srikanth.jpg"
+  },
+  {
+    "id": "dr-vikash-gurugubelli",
+    "name": "Dr. Vikash Gurugubelli",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/603-vikash-gurugubelli",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026603_696a219730e4d.jpeg"
+  },
+  {
+    "id": "dr-k-mounika-nagabhushanam",
+    "name": "Dr. K Mounika Nagabhushanam",
+    "designation": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/629-k-mounika-nagabhushanam",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026629_69832b828af68.jpeg"
+  },
+  {
+    "id": "dr-kumar-sourav",
+    "name": "Dr. Kumar Sourav",
+    "designation": "Associate Professor & Head of Department",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/365-kumar-sourav",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024365-181373449-2024-09-23-sourav_profile_picture.jpg"
+  },
+  {
+    "id": "dr-pankaj-kumar",
+    "name": "Dr. Pankaj Kumar",
+    "designation": "Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/14-pankaj-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Pankaj.jpg"
+  },
+  {
+    "id": "dr-pulla-sammaiah",
+    "name": "Dr. Pulla Sammaiah",
+    "designation": "Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/289-pulla-sammaiah",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_p_sammaiah.jpg"
+  },
+  {
+    "id": "dr-v-mahesh",
+    "name": "Dr. V. Mahesh",
+    "designation": "Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/1-v-mahesh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_V_Mahesh.jpg"
+  },
+  {
+    "id": "dr-dipankar-saha",
+    "name": "Dr. Dipankar Saha",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/537-dipankar-saha",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025537_68cbd893eb6e3.jpeg"
+  },
+  {
+    "id": "dr-nagallapati-vishwanath",
+    "name": "Dr. Nagallapati Vishwanath",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/492-nagallapati-vishwanath",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025492_68809d77b5dc5.jpeg"
+  },
+  {
+    "id": "dr-nagireddy-praveena-devi",
+    "name": "Dr. Nagireddy Praveena Devi",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/11-nagireddy-praveena-devi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Praveena.jpg"
+  },
+  {
+    "id": "dr-rohit-singh",
+    "name": "Dr. Rohit Singh",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/383-rohit-singh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024383-492456330-2024-12-19-Dr._rohit_.jpg"
+  },
+  {
+    "id": "dr-santhosh-kumar-kamarapu",
+    "name": "Dr. Santhosh Kumar Kamarapu",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/390-santhosh-kumar-kamarapu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025390-428599525-2025-01-16-photo.jpg"
+  },
+  {
+    "id": "dr-shitendu-some",
+    "name": "Dr. Shitendu Some",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/382-shitendu-some",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024382-1165502634-2024-12-18-8ccfd659-f23f-46a8-892e-972c7d0b5129.jpg"
+  },
+  {
+    "id": "dr-subbarao-medabalimi",
+    "name": "Dr. Subbarao Medabalimi",
+    "designation": "Assistant Professor and Associate Head",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/276-subbarao-medabalimi",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_m_SUBBARAO.jpg"
+  },
+  {
+    "id": "dr-vikas",
+    "name": "Dr. Vikas",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/447-vikas",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025447-666719263-2025-05-05-Vikas.JPG"
+  },
+  {
+    "id": "dr-prasun-dutta",
+    "name": "Dr. Prasun Dutta",
+    "designation": "Associate Professor",
+    "department": "Mechanical Engineeing",
+    "school": "School Of Engineering",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/485-prasun-dutta",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025485_68773f725105d.png"
+  },
+  {
+    "id": "dr-sujoy-saha",
+    "name": "Dr. Sujoy Saha",
+    "designation": "Associate Professor, Dean, School of Sciences and Humanities; Head, Department of Basic Sciences",
+    "department": "Basic Sciences",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/376-sujoy-saha",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024376-669805868-2024-11-04-sssss.jpg"
+  },
+  {
+    "id": "dr-ajeesh-a-k",
+    "name": "Dr. Ajeesh A K",
+    "designation": "Assistant Professor & Head",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/378-ajeesh-a-k",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024378-896321198-2024-11-14-Ajeesh.JPEG"
+  },
+  {
+    "id": "dr-anam-giridhar-babu",
+    "name": "Dr. Anam Giridhar Babu",
+    "designation": "Professor",
+    "department": "Sciences and Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/343-anam-giridhar-babu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024343-1806897267-2024-08-08-4.jpg"
+  },
+  {
+    "id": "dr-ayan-kumar-barui",
+    "name": "Dr. Ayan Kumar Barui",
+    "designation": "Professor & Associate Dean – Research, Grants and Consultancy",
+    "department": "Department Of Basic Sciences",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/379-ayan-kumar-barui",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024379-1953761729-2024-11-20-Dr_Ayan_Kumar_Barui.jpg"
+  },
+  {
+    "id": "dr-bathula-babu",
+    "name": "Dr. Bathula Babu",
+    "designation": "Professor of Physics",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/369-bathula-babu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024369-138947603-2024-10-05--00.jpg"
+  },
+  {
+    "id": "dr-endla-purushotham",
+    "name": "Dr. Endla Purushotham",
+    "designation": "Professor, Dean, Online learning for the university.",
+    "department": "Department Of Physics, School Of Sciences And Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/4-endla-purushotham",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Endla_Purushotham.jpg"
+  },
+  {
+    "id": "dr-p-v-raja-shekar",
+    "name": "Dr. P. V. Raja Shekar",
+    "designation": "Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/90-p-v-raja-shekar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_P_V_Raja_Shekar.jpg"
+  },
+  {
+    "id": "dr-p-venkata-ramana-rao",
+    "name": "Dr. P. Venkata Ramana Rao",
+    "designation": "Professor of Physics & Associate Dean (Student Welfare)",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/84-p-venkata-ramana-rao",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_P_Venkata_Ramana.jpg"
+  },
+  {
+    "id": "dr-radhakrishnan-s",
+    "name": "Dr. Radhakrishnan S",
+    "designation": "Professor | Associate Dean (PhD Programs)",
+    "department": "Chemistry",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/375-radhakrishnan-s",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024375-1661487407-2024-11-01-04.jpg"
+  },
+  {
+    "id": "dr-anima-ghosh",
+    "name": "Dr. Anima Ghosh",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/219-anima-ghosh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Anima_ghosh.jpg"
+  },
+  {
+    "id": "dr-ashish-runthala",
+    "name": "Dr. Ashish Runthala",
+    "designation": "Associate Professor, School of Sciences and Humanities, and Associate Dean, Academics.",
+    "department": "Sciences and Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/380-ashish-runthala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024380-1218931184-2024-11-29-Dr._Ashish_Runthala__Passport_photo.jpg"
+  },
+  {
+    "id": "dr-k-venkata-krishnaiah",
+    "name": "Dr. K Venkata Krishnaiah",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/578-k-venkata-krishnaiah",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025578_6932bccccebab.jpeg"
+  },
+  {
+    "id": "dr-koppula-ravindar",
+    "name": "Dr. Koppula Ravindar",
+    "designation": "Associate Physical Director",
+    "department": "Sosh",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/330-koppula-ravindar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024330-764539039-2024-02-08-ravinder.jpg"
+  },
+  {
+    "id": "dr-r-pranesh-kumar",
+    "name": "Dr. R. Pranesh Kumar",
+    "designation": "Associate Professor",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/409-r-pranesh-kumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025409-1903111290-2025-04-03-pra.jpg"
+  },
+  {
+    "id": "dr-raj-kumar-samudrala",
+    "name": "Dr. Raj Kumar Samudrala",
+    "designation": "Associate Professor",
+    "department": "School Of Sciences (Physics)",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/287-raj-kumar-samudrala",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_rajkumar.jpg"
+  },
+  {
+    "id": "dr-rajamouli-boddula",
+    "name": "Dr. Rajamouli Boddula",
+    "designation": "Associate Professor",
+    "department": "Basic Sciences - Chemistry",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/522-rajamouli-boddula",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025522_68bdc66ca9461.jpeg"
+  },
+  {
+    "id": "dr-randeep-singh",
+    "name": "Dr. Randeep Singh",
+    "designation": "Associate Professor",
+    "department": "Basic Sciences",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/550-randeep-singh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025550_68ed2e029b094.png"
+  },
+  {
+    "id": "dr-sarath-chandra-veerla",
+    "name": "Dr. Sarath Chandra Veerla",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/351-sarath-chandra-veerla",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024351-255703391-2024-08-22-Sarath_Chandra_Veerla_-_Photo.jpeg"
+  },
+  {
+    "id": "dr-soumya-kanti-hazra",
+    "name": "Dr. Soumya Kanti Hazra",
+    "designation": "Associate Professor and Research Coordinator",
+    "department": "Department Of Basic Sciences, School Of Sciences And Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/519-soumya-kanti-hazra",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025519_68b80f0d673a8.jpeg"
+  },
+  {
+    "id": "dr-srinivas-pattipaka",
+    "name": "Dr. Srinivas Pattipaka",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/517-srinivas-pattipaka",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025517_68b57684efb25.png"
+  },
+  {
+    "id": "dr-subhankar-panda",
+    "name": "Dr. Subhankar Panda",
+    "designation": "Associate Professor & Associate Head of the Department",
+    "department": "Basic Sciences",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/523-subhankar-panda",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025523_68beb1c96aa25.jpeg"
+  },
+  {
+    "id": "dr-thamilselvan-a",
+    "name": "Dr. Thamilselvan A",
+    "designation": "Associate Professor",
+    "department": "Basic Sciences-Chemistry",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/569-thamilselvan-a",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025569_6915696288cc3.jpeg"
+  },
+  {
+    "id": "dr-thirumala-rao-gurugubelli",
+    "name": "Dr. Thirumala Rao Gurugubelli",
+    "designation": "Associate Professor and Associate Dean R&R",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/209-thirumala-rao-gurugubelli",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Thirumala_Rao.jpg"
+  },
+  {
+    "id": "dr-b-sivakumar",
+    "name": "Dr. B. Sivakumar",
+    "designation": "Assistant Professor",
+    "department": "Department Of Chemistry, Basic Sciences, School Of Sciences And Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/619-b-sivakumar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026619_69746e747b58b.jpeg"
+  },
+  {
+    "id": "dr-dr-lalithadevi-bommanaboina",
+    "name": "Dr. Dr. Lalithadevi Bommanaboina",
+    "designation": "Assistant Professor",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/571-dr-lalithadevi-bommanaboina",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025571_691b340fd68b0.jpeg"
+  },
+  {
+    "id": "dr-halavath-rajesh",
+    "name": "Dr. Halavath Rajesh",
+    "designation": "Assistant Professor",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/576-halavath-rajesh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025576_6932a2da25d10.jpeg"
+  },
+  {
+    "id": "dr-itishree-panda",
+    "name": "Dr. Itishree Panda",
+    "designation": "Assistant Professor in Sociology",
+    "department": "Sciences and Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/520-itishree-panda",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025520_68b8188be1916.png"
+  },
+  {
+    "id": "dr-jintu-alias",
+    "name": "Dr. Jintu Alias",
+    "designation": "Assistant Professor",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/445-jintu-alias",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025445-1465616008-2025-05-05-Jintu-photo.jpg"
+  },
+  {
+    "id": "dr-k-srishailam",
+    "name": "Dr. K. Srishailam",
+    "designation": "Assistant Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/86-k-srishailam",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_K_Srishailam.jpg"
+  },
+  {
+    "id": "dr-manoranjan-ojha",
+    "name": "Dr. Manoranjan Ojha",
+    "designation": "Assistant Professor",
+    "department": "Bs",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/577-manoranjan-ojha",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025577_6932af11b4789.png"
+  },
+  {
+    "id": "dr-mritunjoy-prasad-ghosh",
+    "name": "Dr. Mritunjoy Prasad Ghosh",
+    "designation": "Assistant Professor (Physics)",
+    "department": "Dept. Of Basic Sciences",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/575-mritunjoy-prasad-ghosh",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025575_6924812e554dd.jpeg"
+  },
+  {
+    "id": "dr-muthu-kumar-t",
+    "name": "Dr. Muthu Kumar T",
+    "designation": "Assistant Professor & Associate Dean PhD",
+    "department": "Sciences and Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/332-muthu-kumar-t",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024332-951525120-2024-02-12-002_-_Copy.jpg"
+  },
+  {
+    "id": "dr-nalin-prashant-poddar",
+    "name": "Dr. Nalin Prashant Poddar",
+    "designation": "Assistant Professor",
+    "department": "Department Of Basic Sciences",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/505-nalin-prashant-poddar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025505_688b04c859e54.jpeg"
+  },
+  {
+    "id": "dr-nallala-hima-varshini",
+    "name": "Dr. Nallala Hima Varshini",
+    "designation": "Assistant Professor & Associate Dean",
+    "department": "School Of Sciences",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/211-nallala-hima-varshini",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Nallala_Hima_Varshini.jpg"
+  },
+  {
+    "id": "dr-nikita-anand",
+    "name": "Dr. Nikita Anand",
+    "designation": "Assistant Professor",
+    "department": "Of English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/434-nikita-anand",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025434-1799509758-2025-04-30-Nikita_.jpg"
+  },
+  {
+    "id": "dr-ramamoorthy-s",
+    "name": "Dr. Ramamoorthy S",
+    "designation": "Assistant Professor",
+    "department": "School Of Science And Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/340-ramamoorthy-s",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024340-505119771-2024-08-07-Ram_Photo.jpg"
+  },
+  {
+    "id": "dr-ravinder",
+    "name": "Dr. Ravinder",
+    "designation": "Assistant Professor",
+    "department": "Basic Sciences (Biotechnology)",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/516-ravinder",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025516_68ade79d83a87.jpeg"
+  },
+  {
+    "id": "dr-ritu-sharma",
+    "name": "Dr. Ritu Sharma",
+    "designation": "Assistant Professor",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/457-ritu-sharma",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025457-1327637568-2025-05-13-images.png"
+  },
+  {
+    "id": "dr-rupsa-banerjee",
+    "name": "Dr. Rupsa Banerjee",
+    "designation": "Assistant Professor",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/446-rupsa-banerjee",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025446-1929795556-2025-05-05-IMG_20250502_180921.jpg"
+  },
+  {
+    "id": "dr-sayani-konar",
+    "name": "Dr. Sayani Konar",
+    "designation": "Assistant Professor",
+    "department": "English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/565-sayani-konar",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025565_690d880ea9b92.jpeg"
+  },
+  {
+    "id": "dr-siva-sankara-rao-ede",
+    "name": "Dr. Siva Sankara Rao Ede",
+    "designation": "Assistant Professor",
+    "department": "Chemistry",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/579-siva-sankara-rao-ede",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025579_6932c065abaa3.jpeg"
+  },
+  {
+    "id": "dr-srikanth-pallerla",
+    "name": "Dr. Srikanth Pallerla",
+    "designation": "Assistant Professor",
+    "department": "Psychology",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/521-srikanth-pallerla",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025521_68b821773c32b.jpeg"
+  },
+  {
+    "id": "dr-sruthi-k-s",
+    "name": "Dr. Sruthi K S",
+    "designation": "Assistant Professor",
+    "department": "Psychology",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/612-sruthi-k-s",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026612_696e41169af42.jpeg"
+  },
+  {
+    "id": "mr-t-raghu",
+    "name": "Mr. T. Raghu",
+    "designation": "Assistant Professor",
+    "department": "Department Of English",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/79-t-raghu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/79-509079943-2022-07-30-Sri._T._Raghu.JPG"
+  },
+  {
+    "id": "dr-vahini-billu",
+    "name": "Dr. Vahini Billu",
+    "designation": "Assistant Professor",
+    "department": "Sciences and Humanities",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/352-vahini-billu",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024352-884889460-2024-08-23-alfa_vhn_(2).jpg"
+  },
+  {
+    "id": "dr-dhanaprabhu-p",
+    "name": "Dr. Dhanaprabhu P",
+    "designation": "Assistant Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/639-dhanaprabhu-p",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026639_6998191f0dc70.jpeg"
+  },
+  {
+    "id": "dr-dibyendu-nanda",
+    "name": "Dr. Dibyendu Nanda",
+    "designation": "Assistant Professor",
+    "department": "Physics",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/601-dibyendu-nanda",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2026601_696854f803560.png"
+  },
+  {
+    "id": "dr-sreenivas-pulluri",
+    "name": "Dr. Sreenivas Pulluri",
+    "designation": "Director Physical Education",
+    "department": "School Of Science And Humanities Science",
+    "school": "School Of Sciences And Humanities",
+    "profile_link": "https://sru.edu.in/faculty/FacultyProfile/329-sreenivas-pulluri",
+    "image_link": "https://sru.edu.in/facultyProfile/uploads/studentpic/sreenivas_pulluri.webp"
+  }
+]

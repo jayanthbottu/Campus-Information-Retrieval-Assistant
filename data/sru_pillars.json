@@ -1,0 +1,451 @@
+{
+  "institution": "SR University",
+  "document_type": "institutional_leadership_directory",
+  "version": "3.0",
+  "last_updated": "2026-02-25",
+  "leaders": [
+
+    {
+      "unit_id": "chancellor",
+      "unit_name": "University Administration",
+      "role_type": "Chancellor",
+      "person": {
+        "name": "Sri A. Varada Reddy",
+        "designation": "Chancellor",
+        "image_url": "https://sru.edu.in/images/leader/SR-University-chancellor.png"
+      },
+      "retrieval_keywords": [
+        "Varada Reddy", "Chancellor SR University", "Chancellor SRU",
+        "University Chancellor", "SRU top leadership", "university founder",
+        "governing body SR University", "head of university SRU",
+        "Sri A Varada Reddy", "chancellor contact SRU"
+      ]
+    },
+
+    {
+      "unit_id": "pro_chancellor",
+      "unit_name": "University Administration",
+      "role_type": "Pro Chancellor",
+      "person": {
+        "name": "Sri A. Madhukar Reddy",
+        "designation": "Pro Chancellor",
+        "image_url": "https://sru.edu.in/images/leader/madhuker_1.jpeg"
+      },
+      "retrieval_keywords": [
+        "Madhukar Reddy", "Pro Chancellor SRU", "SR University Pro Chancellor",
+        "A Madhukar Reddy", "university administration leadership",
+        "pro chancellor contact", "SRU governing leadership"
+      ]
+    },
+
+    {
+      "unit_id": "vice_chancellor",
+      "unit_name": "University Administration",
+      "role_type": "Vice Chancellor",
+      "person": {
+        "name": "Prof. Deepak Garg",
+        "designation": "Vice Chancellor",
+        "image_url": "https://sru.edu.in/images/leader/deepak_garg.png"
+      },
+      "retrieval_keywords": [
+        "Deepak Garg", "Vice Chancellor SRU","VC", "VC SR University",
+        "VC SRU", "university head SRU", "academic head SR University",
+        "vice chancellor contact", "Prof Deepak Garg", "SRU VC",
+        "university administration SRU", "academic administration SRU"
+      ]
+    },
+
+    {
+      "unit_id": "pro_vice_chancellor",
+      "unit_name": "University Administration",
+      "role_type": "Pro Vice Chancellor",
+      "person": {
+        "name": "Dr. V. Mahesh",
+        "designation": "Pro Vice Chancellor",
+        "image_url": "https://sru.edu.in/images/leader/Dr.V.Mahesh2-SR-University.png"
+      },
+      "retrieval_keywords": [
+        "Dr V Mahesh", "V Mahesh", "Pro Vice Chancellor SRU",
+        "Pro VC SRU", "university executive leadership",
+        "academic governance SR University", "pro vice chancellor contact",
+        "Dr Mahesh SRU", "PVC SRU"
+      ]
+    },
+{
+      "unit_id": "cse",
+      "unit_name": "Department of Computer Science and Engineering",
+      "role_type": "Head of Department",
+      "person": {
+        "name": "Mr. Sandeep Chintham",
+        "designation": "Dean of CSE Department",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/38-331298864-2022-03-16-Mr.-Ch.Sandeep.jpg"
+      },
+      "retrieval_keywords": [
+        "Mr Sandeep Chintham","CSE head","HOD CSE" ,"Sandeep Chintham", "CSE HOD SRU",
+        "Head of CSE", "Computer Science HOD SR University",
+        "CSE department head", "Head Computer Science Engineering",
+        "CSE head SRU", "department of CSE SRU",
+        "computer science department leadership", "Professor Head CSE",
+        "who is HOD of CSE", "CSE head contact"
+      ]
+    },
+    {
+      "unit_id": "cse",
+      "unit_name": "Department of Computer Science and Engineering",
+      "role_type": "Dean",
+      "person": {
+        "name": "Dr. Sheshikala Martha",
+        "designation": "Dean of CSE Department",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_shashikala.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Sheshikala Martha", "Sheshikala", "CSE Dean SRU",
+        "Head of CSE", "Computer Science Dean SR University",
+        "CSE department Dean", "Dean Computer Science Engineering",
+        "CSE dean SRU", "department of CSE SRU",
+        "computer science department leadership", "Professor dean CSE",
+        "who is dean of CSE", "CSE dean contact"
+      ]
+    },
+
+    {
+      "unit_id": "school_cs_ai",
+      "unit_name": "School of Computer Science – Artificial Intelligence",
+      "role_type": "Associate Dean",
+      "person": {
+        "name": "Dr. Rupesh Mishra",
+        "designation": "Associate Dean, School of CS – AI",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2023306-779755191-2023-12-11-rupesh_image.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Rupesh Mishra", "Rupesh Mishra", "Associate Dean AI SRU",
+        "School of CS AI dean", "AI school dean SR University",
+        "Artificial Intelligence school leadership", "CS AI associate dean",
+        "machine learning school head", "AI department leadership SRU",
+        "Associate Dean Computer Science AI"
+      ]
+    },
+
+    {
+      "unit_id": "ece",
+      "unit_name": "Department of Electronics and Communication Engineering",
+      "role_type": "Head of Department",
+      "person": {
+        "name": "Dr. Kodela Raj Kumar",
+        "designation": "Associate Professor (Head of the Department)",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Raj_Kumar.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Kodela Raj Kumar", "Raj Kumar ECE", "ECE HOD SRU",
+        "Head ECE department", "Electronics Communication HOD",
+        "ECE head SR University", "ECE department leadership",
+        "electronics communication engineering head",
+        "who is HOD of ECE", "ECE head contact SRU"
+      ]
+    },
+
+    {
+      "unit_id": "eee",
+      "unit_name": "Department of Electrical and Electronics Engineering",
+      "role_type": "Head of Department",
+      "person": {
+        "name": "Dr. Buddhadeva Sahoo",
+        "designation": "Associate Professor & Head, Department of EEE",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024381-1338819322-2024-12-17-Dummy.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Buddhadeva Sahoo", "Buddhadeva Sahoo", "EEE HOD SRU",
+        "Head EEE department", "Electrical Electronics HOD SR University",
+        "EEE head SRU", "electrical engineering head",
+        "electronics electrical department leadership",
+        "who is HOD of EEE", "EEE department head contact"
+      ]
+    },
+
+    {
+      "unit_id": "mech",
+      "unit_name": "Department of Mechanical Engineering",
+      "role_type": "Head of Department",
+      "person": {
+        "name": "Dr. Kumar Sourav",
+        "designation": "Associate Professor & Head of Department",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024365-181373449-2024-09-23-sourav_profile_picture.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Kumar Sourav", "Kumar Sourav", "Mechanical HOD SRU",
+        "Head Mechanical Engineering", "Mech HOD SR University",
+        "Mechanical department head SRU", "mech engineering leadership",
+        "who is HOD of Mechanical", "mechanical department contact SRU",
+        "mech head SRU"
+      ]
+    },
+
+    {
+      "unit_id": "civil",
+      "unit_name": "Department of Civil Engineering",
+      "role_type": "Head of Department",
+      "person": {
+        "name": "Dr. Padala Raja Shekar",
+        "designation": "Assistant Professor (Head of the Department)",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2025428-1493024635-2025-04-11-Padala.jpeg"
+      },
+      "retrieval_keywords": [
+        "Dr Padala Raja Shekar", "Raja Shekar", "Civil HOD SRU",
+        "Head Civil Engineering", "Civil department head SR University",
+        "civil engineering leadership SRU", "who is HOD of Civil",
+        "civil department contact SRU", "civil engineering head SRU"
+      ]
+    },
+
+    {
+      "unit_id": "school_engineering",
+      "unit_name": "School of Engineering",
+      "role_type": "Dean",
+      "person": {
+        "name": "Dr. L. M. I. Leo Joseph",
+        "designation": "Professor (Dean School of Engineering)",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Joseph.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Leo Joseph", "L M I Leo Joseph", "Dean Engineering SRU",
+        "School of Engineering Dean", "Engineering school head SR University",
+        "Dean of Engineering SRU", "engineering school leadership",
+        "Dr Joseph SRU", "engineering dean contact", "SRU engineering dean"
+      ]
+    },
+
+    {
+      "unit_id": "business",
+      "unit_name": "School of Business",
+      "role_type": "Head of School",
+      "person": {
+        "name": "Dr. M. Rajya Laxmi",
+        "designation": "Professor & Head of the Department",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_M_RajyaLakshmi.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Rajya Laxmi", "M Rajya Laxmi", "Business School Head SRU",
+        "Head of School of Business", "MBA HOD SR University",
+        "School of Business leadership", "business school head contact",
+        "commerce school head SRU", "management department head SRU",
+        "who heads business school SRU"
+      ]
+    },
+
+    {
+      "unit_id": "business",
+      "unit_name": "School of Business",
+      "role_type": "Dean",
+      "person": {
+        "name": "Dr. Gurunadham Goli",
+        "designation": "Professor & Dean",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/dr_g_gurunadham.JPG"
+      },
+      "retrieval_keywords": [
+        "Dr Gurunadham Goli", "Gurunadham Goli", "Dean Business School SRU",
+        "Business School Dean SR University", "Dean MBA SRU",
+        "School of Business Dean", "management school dean contact",
+        "commerce dean SRU", "business administration dean SRU"
+      ]
+    },
+
+    {
+      "unit_id": "agriculture",
+      "unit_name": "School of Agriculture",
+      "role_type": "Dean",
+      "person": {
+        "name": "Dr. G. Bhupal Raj",
+        "designation": "Dean (Ag)",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_G_BHUPAL_RAJ.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr G Bhupal Raj", "Bhupal Raj", "Dean Agriculture SRU",
+        "Agriculture School Dean SR University", "Ag Dean SRU",
+        "School of Agriculture leadership", "agriculture department dean",
+        "who is dean of agriculture SRU", "agriculture school head contact"
+      ]
+    },
+
+    {
+      "unit_id": "agronomy",
+      "unit_name": "Department of Agronomy",
+      "role_type": "Head of Department",
+      "person": {
+        "name": "Dr. M. Mohana Keerthi",
+        "designation": "Associate Professor & Head",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_M_MOHANA_KEERTHI.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Mohana Keerthi", "M Mohana Keerthi", "Agronomy HOD SRU",
+        "Head Agronomy Department", "Agronomy department head SR University",
+        "agronomy department leadership SRU", "who is HOD of Agronomy",
+        "agronomy head contact SRU", "crop science head SRU"
+      ]
+    },
+
+    {
+      "unit_id": "school_sciences_humanities",
+      "unit_name": "School of Sciences and Humanities",
+      "role_type": "Dean & Head of Basic Sciences",
+      "person": {
+        "name": "Dr. Sujoy Saha",
+        "designation": "Associate Professor, Dean, School of Sciences and Humanities; Head, Department of Basic Sciences",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024376-669805868-2024-11-04-sssss.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Sujoy Saha", "Sujoy Saha", "Dean Sciences Humanities SRU",
+        "Head Basic Sciences SRU", "School of Sciences Dean SR University",
+        "SSH dean SRU", "Basic Sciences HOD", "sciences humanities leadership",
+        "SRU Science Dean", "who is dean of sciences SRU",
+        "school of sciences and humanities head", "basic sciences department head"
+      ]
+    },
+
+    {
+      "unit_id": "english",
+      "unit_name": "Department of English",
+      "role_type": "Head of Department",
+      "person": {
+        "name": "Dr. Ajeesh A K",
+        "designation": "Assistant Professor & Head",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024378-896321198-2024-11-14-Ajeesh.JPEG"
+      },
+      "retrieval_keywords": [
+        "Dr Ajeesh", "Ajeesh A K", "English HOD SRU",
+        "Head English Department SR University", "English department head",
+        "humanities english head SRU", "English faculty head SRU",
+        "English language department head", "who is HOD of English SRU",
+        "English studies SRU leadership"
+      ]
+    },
+
+    {
+      "unit_id": "research_grants",
+      "unit_name": "Research, Grants and Consultancy",
+      "role_type": "Associate Dean",
+      "person": {
+        "name": "Dr. Ayan Kumar Barui",
+        "designation": "Professor & Associate Dean – Research, Grants and Consultancy",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024379-1953761729-2024-11-20-Dr_Ayan_Kumar_Barui.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Ayan Kumar Barui", "Ayan Barui", "Associate Dean Research SRU",
+        "Research Grants Dean SR University", "research leadership SRU",
+        "consultancy dean SRU", "PhD grants SRU", "academic research dean",
+        "research and development SRU", "sponsored research SRU",
+        "who handles research at SRU"
+      ]
+    },
+
+    {
+      "unit_id": "online_learning",
+      "unit_name": "Online Learning Division",
+      "role_type": "Dean",
+      "person": {
+        "name": "Dr. Endla Purushotham",
+        "designation": "Professor, Dean, Online Learning for the University",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_Endla_Purushotham.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Endla Purushotham", "Endla Purushotham", "Dean Online Learning SRU",
+        "Online education dean SR University", "e-learning dean SRU",
+        "distance education leadership SRU", "digital learning dean SRU",
+        "online programs head SRU", "virtual learning dean SRU",
+        "physics department dean SRU"
+      ]
+    },
+
+    {
+      "unit_id": "physics",
+      "unit_name": "Department of Physics",
+      "role_type": "Associate Dean Student Welfare",
+      "person": {
+        "name": "Dr. P. Venkata Ramana Rao",
+        "designation": "Professor of Physics & Associate Dean (Student Welfare)",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/Dr_P_Venkata_Ramana.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Venkata Ramana Rao", "P Venkata Ramana", "Physics Professor SRU",
+        "Associate Dean Student Welfare SRU", "student welfare dean SRU",
+        "physics department SR University", "student welfare leadership SRU",
+        "who handles student welfare SRU", "physics head SRU",
+        "student affairs dean SRU"
+      ]
+    },
+
+    {
+      "unit_id": "chemistry",
+      "unit_name": "Department of Chemistry",
+      "role_type": "Associate Dean PhD Programs",
+      "person": {
+        "name": "Dr. Radhakrishnan S",
+        "designation": "Professor | Associate Dean (PhD Programs)",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024375-1661487407-2024-11-01-04.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Radhakrishnan", "Radhakrishnan S", "Chemistry Professor SRU",
+        "Associate Dean PhD SRU", "PhD programs dean SR University",
+        "doctoral programs leadership SRU", "chemistry department head SRU",
+        "who handles PhD admissions SRU", "research programs dean SRU",
+        "chemistry faculty head SRU"
+      ]
+    },
+
+    {
+      "unit_id": "academics",
+      "unit_name": "Academic Affairs",
+      "role_type": "Associate Dean Academics",
+      "person": {
+        "name": "Dr. Ashish Runthala",
+        "designation": "Associate Professor, School of Sciences and Humanities & Associate Dean, Academics",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/SRUF2024380-1218931184-2024-11-29-Dr._Ashish_Runthala__Passport_photo.jpg"
+      },
+      "retrieval_keywords": [
+        "Dr Ashish Runthala", "Ashish Runthala", "Associate Dean Academics SRU",
+        "Academic affairs dean SR University", "curriculum dean SRU",
+        "academics leadership SRU", "sciences humanities associate dean",
+        "who manages academics SRU", "academic programs head SRU",
+        "academic quality dean SRU"
+      ]
+    },
+
+    {
+      "unit_id": "physical_education",
+      "unit_name": "Physical Education",
+      "role_type": "Director",
+      "person": {
+        "name": "Dr. Sreenivas Pulluri",
+        "designation": "Director Physical Education",
+        "image_url": "https://sru.edu.in/facultyProfile/uploads/studentpic/sreenivas_pulluri.webp"
+      },
+      "retrieval_keywords": [
+        "Sreenivas Pulluri", "Dr Sreenivas", "Director Physical Education SRU",
+        "Sports director SR University", "physical education head SRU",
+        "campus sports leadership SRU", "PE director SRU",
+        "sports and fitness SRU", "athletics director SRU",
+        "who heads physical education SRU"
+      ]
+    },
+
+    {
+      "unit_id": "training_placements",
+      "unit_name": "Training & Placements",
+      "role_type": "Associate Director",
+      "person": {
+        "name": "G Sunil Reddy",
+        "designation": "Associate Director, Training & Placements",
+        "email": "director.placements@sru.edu.in",
+        "image_url": "https://sru.edu.in/assets/placements/sunil.jpg"
+      },
+      "retrieval_keywords": [
+        "Sunil Reddy", "G Sunil Reddy", "Training Placements SRU",
+        "Placement officer SR University", "campus placements SRU",
+        "career services SRU", "placement director SRU",
+        "who handles placements SRU", "T&P head SRU",
+        "placement cell SRU", "job placement contact SRU",
+        "internship placements SRU", "director placements contact"
+      ]
+    }
+
+  ]
+}

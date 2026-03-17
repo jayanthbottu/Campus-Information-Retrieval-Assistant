@@ -1,0 +1,387 @@
+==================================================================
+  TRAINING METRICS REPORT
+==================================================================
+
+-- Model --------------------------------------------------------
+  Base model      : Qwen/Qwen2.5-0.5B-Instruct
+  Output dir      : models\club-slm
+  Device          : cuda
+  Precision       : bf16
+  Train time      : 119.6 min
+
+-- Dataset ------------------------------------------------------
+  QA pairs total  : 7821
+  Training rows   : 7429
+  Eval rows       : 392
+  Epochs          : 5
+  Batch size      : 2  (x8 grad accum = 16 effective)
+  Learning rate   : 3e-05
+
+-- Evaluation Results -------------------------------------------
+  Eval loss       : 0.335335
+  Perplexity      : 1.3984  [GREAT]
+                    (<5 great | 5-15 good | >30 underfit)
+  Token accuracy  : 32.50%  [NEEDS MORE TRAINING]
+                    32,485 correct / 99,960 answer tokens
+  Wrong tokens    : 67,475
+  Exact match     : 0.00%  [LOW (normal for generation)]
+                    0 / 392 samples
+  Fuzzy match     : 0.00%
+                    0 / 392 samples
+                    (all reference words found somewhere in prediction)
+
+-- What These Numbers Mean --------------------------------------
+  Token accuracy  : Of every answer token the model was asked to
+                    predict, what % did it get right. Measured on
+                    answer tokens ONLY (not question/prompt tokens).
+  Exact match     : Normalised prediction == normalised reference.
+                    Low is normal for generation models -- use Fuzzy.
+  Fuzzy match     : All words in the reference appear in prediction.
+                    This is the most useful metric for QA.
+  Perplexity      : How confident the model is on held-out text.
+                    Your 1.4 perplexity = model has learnt the corpus.
+
+-- Per-Step Train Loss ------------------------------------------
+  epoch 0.02    step 10      loss 3.673507
+  epoch 0.04    step 20      loss 3.380849
+  epoch 0.06    step 30      loss 2.831332
+  epoch 0.09    step 40      loss 2.20228
+  epoch 0.11    step 50      loss 1.890123
+  epoch 0.13    step 60      loss 1.625928
+  epoch 0.15    step 70      loss 1.608759
+  epoch 0.17    step 80      loss 1.523835
+  epoch 0.19    step 90      loss 1.391224
+  epoch 0.22    step 100     loss 1.276159
+  epoch 0.24    step 110     loss 1.265831
+  epoch 0.26    step 120     loss 1.06008
+  epoch 0.28    step 130     loss 1.173187
+  epoch 0.3     step 140     loss 1.191657
+  epoch 0.32    step 150     loss 1.120185
+  epoch 0.34    step 160     loss 1.093464
+  epoch 0.37    step 170     loss 0.995333
+  epoch 0.39    step 180     loss 1.068814
+  epoch 0.41    step 190     loss 1.006557
+  epoch 0.43    step 200     loss 1.053628
+  epoch 0.45    step 210     loss 0.995194
+  epoch 0.47    step 220     loss 0.957164
+  epoch 0.5     step 230     loss 0.979695
+  epoch 0.52    step 240     loss 0.925564
+  epoch 0.54    step 250     loss 0.888211
+  epoch 0.56    step 260     loss 0.914199
+  epoch 0.58    step 270     loss 0.893902
+  epoch 0.6     step 280     loss 0.881656
+  epoch 0.62    step 290     loss 0.850408
+  epoch 0.65    step 300     loss 0.809787
+  epoch 0.67    step 310     loss 0.853976
+  epoch 0.69    step 320     loss 0.821917
+  epoch 0.71    step 330     loss 0.881752
+  epoch 0.73    step 340     loss 0.770348
+  epoch 0.75    step 350     loss 0.760463
+  epoch 0.78    step 360     loss 0.791171
+  epoch 0.8     step 370     loss 0.717607
+  epoch 0.82    step 380     loss 0.782005
+  epoch 0.84    step 390     loss 0.772476
+  epoch 0.86    step 400     loss 0.727276
+  epoch 0.88    step 410     loss 0.781023
+  epoch 0.9     step 420     loss 0.752274
+  epoch 0.93    step 430     loss 0.717247
+  epoch 0.95    step 440     loss 0.720272
+  epoch 0.97    step 450     loss 0.737959
+  epoch 0.99    step 460     loss 0.697645
+  epoch 1.01    step 470     loss 0.548655
+  epoch 1.03    step 480     loss 0.550381
+  epoch 1.05    step 490     loss 0.569225
+  epoch 1.08    step 500     loss 0.538405
+  epoch 1.1     step 510     loss 0.520008
+  epoch 1.12    step 520     loss 0.525656
+  epoch 1.14    step 530     loss 0.555653
+  epoch 1.16    step 540     loss 0.554701
+  epoch 1.18    step 550     loss 0.56037
+  epoch 1.2     step 560     loss 0.571677
+  epoch 1.23    step 570     loss 0.506848
+  epoch 1.25    step 580     loss 0.503055
+  epoch 1.27    step 590     loss 0.560167
+  epoch 1.29    step 600     loss 0.528751
+  epoch 1.31    step 610     loss 0.475181
+  epoch 1.33    step 620     loss 0.537284
+  epoch 1.36    step 630     loss 0.518218
+  epoch 1.38    step 640     loss 0.528746
+  epoch 1.4     step 650     loss 0.464697
+  epoch 1.42    step 660     loss 0.494603
+  epoch 1.44    step 670     loss 0.502719
+  epoch 1.46    step 680     loss 0.477892
+  epoch 1.48    step 690     loss 0.489148
+  epoch 1.51    step 700     loss 0.478489
+  epoch 1.53    step 710     loss 0.519881
+  epoch 1.55    step 720     loss 0.468913
+  epoch 1.57    step 730     loss 0.530156
+  epoch 1.59    step 740     loss 0.449579
+  epoch 1.61    step 750     loss 0.433122
+  epoch 1.64    step 760     loss 0.466816
+  epoch 1.66    step 770     loss 0.466718
+  epoch 1.68    step 780     loss 0.449744
+  epoch 1.7     step 790     loss 0.429334
+  epoch 1.72    step 800     loss 0.465894
+  epoch 1.74    step 810     loss 0.392776
+  epoch 1.76    step 820     loss 0.470184
+  epoch 1.79    step 830     loss 0.463271
+  epoch 1.81    step 840     loss 0.427761
+  epoch 1.83    step 850     loss 0.421049
+  epoch 1.85    step 860     loss 0.41458
+  epoch 1.87    step 870     loss 0.425634
+  epoch 1.89    step 880     loss 0.412593
+  epoch 1.92    step 890     loss 0.417373
+  epoch 1.94    step 900     loss 0.403305
+  epoch 1.96    step 910     loss 0.411155
+  epoch 1.98    step 920     loss 0.427315
+  epoch 2.0     step 930     loss 0.402502
+  epoch 2.02    step 940     loss 0.304085
+  epoch 2.04    step 950     loss 0.285231
+  epoch 2.06    step 960     loss 0.290745
+  epoch 2.09    step 970     loss 0.270124
+  epoch 2.11    step 980     loss 0.283372
+  epoch 2.13    step 990     loss 0.284532
+  epoch 2.15    step 1000    loss 0.270921
+  epoch 2.17    step 1010    loss 0.282726
+  epoch 2.19    step 1020    loss 0.284413
+  epoch 2.22    step 1030    loss 0.2682
+  epoch 2.24    step 1040    loss 0.268169
+  epoch 2.26    step 1050    loss 0.265762
+  epoch 2.28    step 1060    loss 0.274262
+  epoch 2.3     step 1070    loss 0.267679
+  epoch 2.32    step 1080    loss 0.276804
+  epoch 2.34    step 1090    loss 0.276497
+  epoch 2.37    step 1100    loss 0.28569
+  epoch 2.39    step 1110    loss 0.26311
+  epoch 2.41    step 1120    loss 0.25099
+  epoch 2.43    step 1130    loss 0.274988
+  epoch 2.45    step 1140    loss 0.261295
+  epoch 2.47    step 1150    loss 0.245447
+  epoch 2.5     step 1160    loss 0.287245
+  epoch 2.52    step 1170    loss 0.260615
+  epoch 2.54    step 1180    loss 0.270639
+  epoch 2.56    step 1190    loss 0.263159
+  epoch 2.58    step 1200    loss 0.243453
+  epoch 2.6     step 1210    loss 0.242194
+  epoch 2.62    step 1220    loss 0.230759
+  epoch 2.65    step 1230    loss 0.243978
+  epoch 2.67    step 1240    loss 0.257585
+  epoch 2.69    step 1250    loss 0.251543
+  epoch 2.71    step 1260    loss 0.230343
+  epoch 2.73    step 1270    loss 0.274376
+  epoch 2.75    step 1280    loss 0.261679
+  epoch 2.78    step 1290    loss 0.253968
+  epoch 2.8     step 1300    loss 0.239549
+  epoch 2.82    step 1310    loss 0.238915
+  epoch 2.84    step 1320    loss 0.234489
+  epoch 2.86    step 1330    loss 0.232685
+  epoch 2.88    step 1340    loss 0.231499
+  epoch 2.9     step 1350    loss 0.223252
+  epoch 2.93    step 1360    loss 0.244325
+  epoch 2.95    step 1370    loss 0.255999
+  epoch 2.97    step 1380    loss 0.264762
+  epoch 2.99    step 1390    loss 0.246688
+  epoch 3.01    step 1400    loss 0.204261
+  epoch 3.03    step 1410    loss 0.212866
+  epoch 3.05    step 1420    loss 0.18749
+  epoch 3.08    step 1430    loss 0.187718
+  epoch 3.1     step 1440    loss 0.184144
+  epoch 3.12    step 1450    loss 0.189121
+  epoch 3.14    step 1460    loss 0.201176
+  epoch 3.16    step 1470    loss 0.189117
+  epoch 3.18    step 1480    loss 0.186818
+  epoch 3.2     step 1490    loss 0.198263
+  epoch 3.23    step 1500    loss 0.183168
+  epoch 3.25    step 1510    loss 0.181653
+  epoch 3.27    step 1520    loss 0.18247
+  epoch 3.29    step 1530    loss 0.19287
+  epoch 3.31    step 1540    loss 0.203817
+  epoch 3.33    step 1550    loss 0.191013
+  epoch 3.36    step 1560    loss 0.172727
+  epoch 3.38    step 1570    loss 0.185981
+  epoch 3.4     step 1580    loss 0.188215
+  epoch 3.42    step 1590    loss 0.179959
+  epoch 3.44    step 1600    loss 0.18324
+  epoch 3.46    step 1610    loss 0.1866
+  epoch 3.48    step 1620    loss 0.187446
+  epoch 3.51    step 1630    loss 0.187642
+  epoch 3.53    step 1640    loss 0.185423
+  epoch 3.55    step 1650    loss 0.181782
+  epoch 3.57    step 1660    loss 0.189735
+  epoch 3.59    step 1670    loss 0.209074
+  epoch 3.61    step 1680    loss 0.192625
+  epoch 3.64    step 1690    loss 0.188765
+  epoch 3.66    step 1700    loss 0.191266
+  epoch 3.68    step 1710    loss 0.194638
+  epoch 3.7     step 1720    loss 0.182128
+  epoch 3.72    step 1730    loss 0.190359
+  epoch 3.74    step 1740    loss 0.181668
+  epoch 3.76    step 1750    loss 0.177796
+  epoch 3.79    step 1760    loss 0.184682
+  epoch 3.81    step 1770    loss 0.173
+  epoch 3.83    step 1780    loss 0.175888
+  epoch 3.85    step 1790    loss 0.172485
+  epoch 3.87    step 1800    loss 0.189007
+  epoch 3.89    step 1810    loss 0.206134
+  epoch 3.92    step 1820    loss 0.18332
+  epoch 3.94    step 1830    loss 0.195303
+  epoch 3.96    step 1840    loss 0.195526
+  epoch 3.98    step 1850    loss 0.188107
+  epoch 4.0     step 1860    loss 0.195283
+  epoch 4.02    step 1870    loss 0.176317
+  epoch 4.04    step 1880    loss 0.170773
+  epoch 4.06    step 1890    loss 0.180002
+  epoch 4.09    step 1900    loss 0.169515
+  epoch 4.11    step 1910    loss 0.182661
+  epoch 4.13    step 1920    loss 0.169262
+  epoch 4.15    step 1930    loss 0.175039
+  epoch 4.17    step 1940    loss 0.17197
+  epoch 4.19    step 1950    loss 0.174948
+  epoch 4.22    step 1960    loss 0.186722
+  epoch 4.24    step 1970    loss 0.183905
+  epoch 4.26    step 1980    loss 0.175902
+  epoch 4.28    step 1990    loss 0.178009
+  epoch 4.3     step 2000    loss 0.189156
+  epoch 4.32    step 2010    loss 0.172458
+  epoch 4.34    step 2020    loss 0.174846
+  epoch 4.37    step 2030    loss 0.171839
+  epoch 4.39    step 2040    loss 0.174276
+  epoch 4.41    step 2050    loss 0.172959
+  epoch 4.43    step 2060    loss 0.176811
+  epoch 4.45    step 2070    loss 0.17267
+  epoch 4.47    step 2080    loss 0.179714
+  epoch 4.5     step 2090    loss 0.179473
+  epoch 4.52    step 2100    loss 0.172328
+  epoch 4.54    step 2110    loss 0.176313
+  epoch 4.56    step 2120    loss 0.177838
+  epoch 4.58    step 2130    loss 0.183181
+  epoch 4.6     step 2140    loss 0.176651
+  epoch 4.62    step 2150    loss 0.169534
+  epoch 4.65    step 2160    loss 0.167478
+  epoch 4.67    step 2170    loss 0.178978
+  epoch 4.69    step 2180    loss 0.176534
+  epoch 4.71    step 2190    loss 0.175687
+  epoch 4.73    step 2200    loss 0.178287
+  epoch 4.75    step 2210    loss 0.178707
+  epoch 4.78    step 2220    loss 0.187475
+  epoch 4.8     step 2230    loss 0.184983
+  epoch 4.82    step 2240    loss 0.17736
+  epoch 4.84    step 2250    loss 0.171934
+  epoch 4.86    step 2260    loss 0.196926
+  epoch 4.88    step 2270    loss 0.175234
+  epoch 4.9     step 2280    loss 0.18753
+  epoch 4.93    step 2290    loss 0.166468
+  epoch 4.95    step 2300    loss 0.170573
+  epoch 4.97    step 2310    loss 0.177368
+  epoch 4.99    step 2320    loss 0.162907
+
+-- Per-Epoch Eval Loss ------------------------------------------
+  epoch 1.0     eval_loss 0.727038
+  epoch 2.0     eval_loss 0.457646
+  epoch 3.0     eval_loss 0.353403
+  epoch 4.0     eval_loss 0.335049
+  epoch 5.0     eval_loss 0.335335
+  epoch 5.0     eval_loss 0.335335
+
+-- Sample Predictions (first 10 eval examples) ------------------
+  Sample #1  [MISS]  tokens: 47/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Wh
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #2  [MISS]  tokens: 78/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Wh
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #3  [MISS]  tokens: 109/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Wh
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #4  [MISS]  tokens: 75/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Ex
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #5  [MISS]  tokens: 132/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Wh
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #6  [MISS]  tokens: 149/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Ex
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #7  [MISS]  tokens: 38/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Wh
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #8  [MISS]  tokens: 49/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Wh
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #9  [MISS]  tokens: 108/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Ex
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+  Sample #10  [MISS]  tokens: 91/255
+  REF  : You are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: Ex
+  PRED :  are a small domain model trained on one university corpus.
+Answer briefly and exactly from the corpus.
+
+Question: What 
+
+==================================================================

@@ -1,0 +1,18 @@
+{
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "output_dir": "models\\club-slm",
+  "corpus": "J:\\MAJOR PROJECT 2026\\MAIN\\data\\clean_corpus.txt",
+  "dataset": "data\\python\\train_qa.jsonl",
+  "qa_pairs": 7821,
+  "train_rows": 7429,
+  "eval_rows": 392,
+  "epochs": 5,
+  "batch_size": 2,
+  "grad_accum": 8,
+  "effective_bs": 16,
+  "lr": 3e-05,
+  "max_length": 256,
+  "precision": "bf16",
+  "device": "cuda",
+  "train_time_min": 119.6
+}

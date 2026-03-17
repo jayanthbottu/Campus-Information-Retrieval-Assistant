@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html ng-app="campusApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Campus Map Locator</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <style>
+        /* CSS Variables for Neumorphic & Matte Palette */
+        :root {
+            --bg-color: #e0e5ec;
+            --text-color: #4a5568;
+            --shadow-light: #ffffff;
+            --shadow-dark: #a3b1c6;
+            --accent: #3182ce;
+            --matte-dark: #2d3748;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 40px 20px;
+        }
+
+        /* Neumorphic Typography */
+        h2 {
+            font-weight: 700;
+            letter-spacing: 1px;
+            margin-bottom: 30px;
+            color: var(--text-color);
+            text-shadow: 2px 2px 4px rgba(163, 177, 198, 0.5), 
+                        -2px -2px 4px rgba(255, 255, 255, 1);
+        }
+
+        .search-container {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        /* Inset Neumorphism for Input (Looks pressed into the screen) */
+        #searchBox {
+            background: var(--bg-color);
+            border: none;
+            padding: 16px 24px;
+            font-size: 16px;
+            width: 350px;
+            border-radius: 50px;
+            color: var(--text-color);
+            box-shadow: inset 6px 6px 10px 0 var(--shadow-dark),
+                        inset -6px -6px 10px 0 var(--shadow-light);
+            outline: none;
+            transition: box-shadow 0.2s ease-in-out;
+        }
+
+        #searchBox:focus {
+            box-shadow: inset 8px 8px 12px 0 var(--shadow-dark),
+                        inset -8px -8px 12px 0 var(--shadow-light);
+        }
+
+        #searchBox::placeholder {
+            color: #a0aec0;
+        }
+
+        /* Outset Neumorphism for Button (Looks raised off the screen) */
+        button {
+            background: var(--bg-color);
+            border: none;
+            padding: 16px 32px;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--accent);
+            border-radius: 50px;
+            cursor: pointer;
+            box-shadow: 6px 6px 10px 0 var(--shadow-dark),
+                        -6px -6px 10px 0 var(--shadow-light);
+            transition: all 0.2s ease-in-out;
+        }
+
+        button:active {
+            /* Swaps to inset shadow to simulate clicking a physical button */
+            box-shadow: inset 4px 4px 8px 0 var(--shadow-dark),
+                        inset -4px -4px 8px 0 var(--shadow-light);
+            color: #2b6cb0;
+        }
+
+        /* Raised Frame for the Map */
+        #mapContainer {
+            position: relative;
+            display: inline-block;
+            border-radius: 24px;
+            padding: 12px; /* Creates a border frame effect */
+            background: var(--bg-color);
+            box-shadow: 12px 12px 24px var(--shadow-dark),
+                        -12px -12px 24px var(--shadow-light);
+        }
+
+        #mapContainer > img {
+            border-radius: 16px;
+            display: block;
+        }
+
+        /* MAIN LOCATION - Dark Matte Finish */
+        .mainMarker {
+            position: absolute;
+            transform: translate(-50%, -100%);
+            text-align: center;
+            z-index: 10;
+            transition: top 0.4s ease-out, left 0.4s ease-out; /* Smooth sliding */
+        }
+
+        .mainMarker img {
+            width: 48px;
+            filter: drop-shadow(0px 8px 6px rgba(0,0,0,0.4));
+        }
+
+        .mainLabel {
+            background: var(--matte-dark);
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            color: #e2e8f0;
+            margin-top: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.05); /* Subtle matte edge */
+        }
+
+        /* NEARBY LOCATIONS - Light Matte Finish */
+        .nearMarker {
+            position: absolute;
+            transform: translate(-50%, -50%);
+            z-index: 5;
+            transition: top 0.4s ease-out, left 0.4s ease-out;
+        }
+
+        .nearLabel {
+            background: rgba(245, 247, 250, 0.95);
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #718096;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            border: 1px solid rgba(255,255,255,0.8);
+            backdrop-filter: blur(4px); /* Adds a frosted glass/matte feel over the map */
+        }
+    </style>
+</head>
+<body ng-controller="MapController">
+
+    <h2>Campus Map Locator</h2>
+
+    <div class="search-container">
+        <input id="searchBox"
+               type="text"
+               ng-model="query"
+               ng-keydown="$event.keyCode === 13 && search()"
+               placeholder="Search library, gym, food...">
+
+        <button ng-click="search()">Search</button>
+    </div>
+
+    <div id="mapContainer">
+        <img src="SRUniversity.png" alt="Campus Map">
+
+        <div class="mainMarker"
+             ng-if="selected"
+             ng-style="{'left':selected.x+'px','top':selected.y+'px'}">
+            
+            <img src="">
+            
+            <div class="mainLabel">
+                {{selectedName}}
+            </div>
+        </div>
+
+        <div class="nearMarker"
+             ng-repeat="n in nearby"
+             ng-style="{'left':n.x+'px','top':n.y+'px'}">
+            
+            <div class="nearLabel">
+                {{n.name}}
+            </div>
+        </div>
+    </div>
+
+    <script>
+        angular.module("campusApp", [])
+        .controller("MapController", function($scope, $http){
+            $scope.locations = {}
+            $scope.selected = null
+            $scope.selectedName = ""
+            $scope.nearby = []
+
+            $http.get("locations.json").then(function(res){
+                $scope.locations = res.data
+            })
+
+            function normalize(text){
+                return text.toUpperCase().trim()
+            }
+
+            $scope.search = function(){
+                let q = normalize($scope.query || "")
+
+                if($scope.locations[q]){
+                    $scope.showLocation(q)
+                    return
+                }
+
+                for(let name in $scope.locations){
+                    let loc = $scope.locations[name]
+                    if(name.includes(q) || loc.tag.includes(q)){
+                        $scope.showLocation(name)
+                        return
+                    }
+                }
+                alert("Location not found")
+            }
+
+            $scope.showLocation = function(name){
+                $scope.selected = $scope.locations[name]
+                $scope.selectedName = name
+
+                let base = $scope.selected
+                let list = []
+
+                for(let key in $scope.locations){
+                    if(key === name) continue
+                    let loc = $scope.locations[key]
+                    let dx = base.x - loc.x
+                    let dy = base.y - loc.y
+                    let dist = Math.sqrt(dx*dx + dy*dy)
+
+                    list.push({
+                        name: key,
+                        dist: dist,
+                        x: loc.x,
+                        y: loc.y
+                    })
+                }
+
+                list.sort((a,b) => a.dist - b.dist)
+                $scope.nearby = list.slice(0, 5)
+            }
+        })
+    </script>
+</body>
+</html>
