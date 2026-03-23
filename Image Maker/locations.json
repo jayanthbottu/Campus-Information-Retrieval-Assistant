@@ -2,136 +2,136 @@
     "SRI RANGANATHA SWAMY TEMPLE": {
         "x": 484,
         "y": 1775,
-        "tag": "TEMPLE, SRI_RANGANADHA_SWAMY, WORSHIP, PRAYER, RELIGION, LOCATION, HISTORY, TIMINGS, FESTIVALS, RITUALS, DARSHAN, POOJA, ARCHITECTURE, ENTRY_FEE, DRESS_CODE, CONTACT"
+        "tag": "temple, worship, prayer, religion, pooja, darshan, Hindu, Ranganatha, Ranganadha, festival, rituals, spiritual, timings, entry fee, dress code, architecture, contact"
     },
     "PARKING": {
         "x": 704,
         "y": 1287,
-        "tag": "PARKING, VEHICLES, CARS, BIKES, TWO_WHEELER, FOUR_WHEELER, BUS_PARKING, PARKING_LOCATION, PARKING_FEES, PARKING_TIMINGS, PARKING_RULES, PARKING_CAPACITY"
+        "tag": "parking, vehicles, bikes, cars, two wheeler, four wheeler, bus parking, parking fees, parking timings, parking rules, parking capacity, parking location"
     },
     "MAIN GATE": {
         "x": 367,
         "y": 1841,
-        "tag": "MAIN_GATE, ENTRANCE, EXIT, LOCATION, DIRECTIONS, OPENING_HOURS, SECURITY, PARKING, TICKET_COUNTER, QUEUE, ACCESSIBILITY"
+        "tag": "main gate, entrance, exit, entry point, security, ticket counter, queue, opening hours, directions, accessibility, campus gate"
     },
     "CHECK POINT": {
         "x": 634,
         "y": 1207,
-        "tag": "CHECKPOINT, SECURITY, ENTRY_VERIFICATION, TICKET_CHECK, ID_VERIFICATION, BAGGAGE_CHECK, METAL_DETECTOR, QUEUE_MANAGEMENT, CROWD_CONTROL"
+        "tag": "checkpoint, security, entry verification, ticket check, ID verification, baggage check, metal detector, queue management, crowd control"
     },
     "CENTRAL LIBRARY": {
         "x": 750,
         "y": 817,
-        "tag": "CENTRAL_LIBRARY, BOOKS, READING, LIBRARY_LOCATION, LIBRARY_TIMINGS, MEMBERSHIP, BOOK_BORROWING, DIGITAL_LIBRARY, READING_ROOM, STUDY_AREA, LIBRARY_RULES, LIBRARY"
+        "tag": "library, books, reading, study, digital library, membership, book borrowing, reading room, study area, library rules, library timings, 9101, 9102, 9103, 9104, 9105, 9106"
     },
     "CANTEEN": {
         "x": 1026,
         "y": 868,
-        "tag": "CANTEEN, CAFETERIA, FOOD, LUNCH, BEVERAGES, SNACKS, MENU, MEAL_PRICES, SEATING_AREA, HYGIENE, PAYMENT_METHODS"
+        "tag": "canteen, cafeteria, food, lunch, breakfast, snacks, beverages, menu, meal prices, seating, hygiene, payment methods"
     },
     "AMPHI": {
         "x": 939,
         "y": 695,
-        "tag": "AMPHITHEATER, OPEN_AUDITORIUM, EVENTS, GATHERINGS, SEATING, OUTDOOR_STAGE, PERFORMANCES, CULTURAL_EVENTS, STUDENT_ACTIVITIES"
+        "tag": "amphitheater, open auditorium, outdoor stage, events, cultural events, gatherings, performances, seating, student activities, college fest"
     },
     "STORE": {
         "x": 1239,
         "y": 693,
-        "tag": "STORE, SHOP, EATERIES, STATIONARY, SNACKS, SUPPLIES, PENS, NOTEBOOKS, DAILY_NEEDS, CONVENIENCE"
+        "tag": "store, shop, stationery, snacks, notebooks, pens, daily essentials, supplies, convenience"
     },
     "XEROX": {
         "x": 1259,
         "y": 672,
-        "tag": "XEROX, PRINTING, COPYING, PRINT_SHOP, SCAN, DOCUMENTS, STATIONARY, PRINTOUTS, STUDY_MATERIALS"
+        "tag": "xerox, printing, photocopying, scanning, print shop, documents, study materials, printouts, assignments"
     },
     "8TH BLOCK": {
         "x": 1206,
         "y": 1009,
-        "tag": "8TH_BLOCK, BTECH, 1ST_YEAR, CSE, COMPUTER_SCIENCE, FRESHMEN, CLASSROOMS, ACADEMICS, BLOCK_8"
+        "tag": "8th block, block 8, first year, freshmen, CSE, computer science, B.Tech, classrooms, academics, 8001, 8002, 8003, 8004, 8005, 8006, 8008, 8101, 8102, 8103, 8104, 8105, 8106, 8108, 8202, 8204, 8205, 8206, 8207, 8208, 8209"
     },
     "SRIX": {
         "x": 1016,
         "y": 929,
-        "tag": "SRIX,7TH BLOCK, SR_INNOVATION_HUB, MAIN_BLOCK, PLACEMENT_CELL, INTERVIEWS, AC_LABS, CANTEEN, INCUBATION, STARTUPS, ENTREPRENEURSHIP"
+        "tag": "SRIX, 7th block, SR innovation hub, main block, placement cell, interviews, AC labs, incubation center, startups, entrepreneurship, canteen, 7003, 7004, 7005, 7102, 7103, 7105, 7201, 7202, 7204, 7205"
     },
     "SCHOOL OF BUSINESS": {
         "x": 725,
         "y": 843,
-        "tag": "SCHOOL_OF_BUSINESS, MBA, MANAGEMENT, BUSINESS_ADMINISTRATION, PG, MASTERS, CLASSROOMS, FACULTY, BUSINESS_SCHOOL"
+        "tag": "school of business, MBA, management, business administration, postgraduate, PG, masters, classrooms, faculty, business school"
     },
     "2ND BLOCK": {
         "x": 825,
         "y": 612,
-        "tag": "2ND_BLOCK, ECE, EEE, CIVIL, MECHANICAL, CORE_BRANCHES, ENGINEERING, BTECH, CLASSROOMS, LABS, FACULTY, BLOCK_2"
+        "tag": "2nd block, block 2, ECE, EEE, civil, mechanical, core branches, engineering, B.Tech, classrooms, labs, faculty, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2015, 2017, 2101, 2102, 2103, 2104, 2106, 2107, 2108, 2111, 2112, 2113, 2114, 2115, 2116, 2117, 2118, 2201, 2202, 2203, 2204, 2206, 2207, 2208, 2211, 2212, 2213, 2214, 2216, 2217, 2218"
     },
     "PLAY GROUND": {
         "x": 202,
         "y": 152,
-        "tag": "PLAYGROUND, SPORTS, CRICKET, FOOTBALL, OUTDOOR_GAMES, RECREATION, PHYSICAL_EDUCATION, GROUND, MATCHES, SPORTS_FIELD"
+        "tag": "playground, sports, cricket, football, outdoor games, recreation, physical education, ground, matches, sports field"
     },
     "RUNNING TRACK": {
         "x": 264,
         "y": 294,
-        "tag": "RUNNING_TRACK, ATHLETICS, JOGGING, WALKING, SPORTS, FITNESS, TRACK_AND_FIELD, EXERCISE"
+        "tag": "running track, athletics, jogging, walking, sprinting, fitness, track and field, exercise, training"
     },
     "HOSTEL MESS": {
         "x": 1069,
         "y": 322,
-        "tag": "HOSTEL_MESS, DINING, FOOD, MEALS, BREAKFAST, LUNCH, DINNER, HOSTEL_STUDENTS, CATERING, EATING_AREA"
+        "tag": "hostel mess, dining, food, meals, breakfast, lunch, dinner, hostel students, catering, eating area"
     },
     "BOYS HOSTEL": {
         "x": 833,
         "y": 253,
-        "tag": "BOYS_HOSTEL, MENS_HOSTEL, ACCOMMODATION, RESIDENCY, LODGING, BOARDING, MALE_STUDENTS, ROOMS, DORMS"
+        "tag": "boys hostel, mens hostel, accommodation, residency, lodging, boarding, male students, rooms, dorms"
     },
     "GIRLS HOSTEL": {
         "x": 629,
         "y": 174,
-        "tag": "GIRLS_HOSTEL, WOMENS_HOSTEL, ACCOMMODATION, RESIDENCY, LODGING, BOARDING, FEMALE_STUDENTS, ROOMS, DORMS, SAFE"
+        "tag": "girls hostel, womens hostel, accommodation, residency, lodging, boarding, female students, rooms, dorms, safe, secure"
     },
     "3RD BLOCK": {
         "x": 306,
         "y": 423,
-        "tag": "3RD_BLOCK, CSE, COMPUTER_SCIENCE, 3RD_YEAR, 4TH_YEAR, HR, HUMAN_RESOURCES, MATHEMATICS, ENGLISH, HUMANITIES, ACADEMICS, FACULTY, BLOCK_3"
+        "tag": "3rd block, block 3, CSE, computer science, 3rd year, 4th year, HR, human resources, mathematics, English, humanities, faculty, classrooms, 3001, 3002, 3003, 3007, 3011, 3013, 3014, 3016, 3018, 3101, 3102, 3103, 3104, 3105, 3106, 3107, 3111, 3112, 3113, 3114, 3115, 3117, 3118, 3201, 3202, 3203, 3204, 3205, 3206, 3207, 3208, 3209, 3212, 3213, 3215, 3216, 3217, 3218, 3219, 3220, 3221"
     },
     "1ST BLOCK": {
         "x": 1231,
         "y": 763,
-        "tag": "1ST_BLOCK, CSE, COMPUTER_SCIENCE, 2ND_YEAR, CSAI, ARTIFICIAL_INTELLIGENCE, HOD, HEAD_OF_DEPARTMENT, FACULTY, ACADEMICS, BLOCK_1"
+        "tag": "1st block, block 1, CSE, computer science, CSAI, artificial intelligence, 2nd year, HOD, head of department, faculty, classrooms, admin, power room, Memos, CISCO, netacad, CSE help, 1009, 1011, 1013, 1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1111, 1114, 1115, 1201, 1202, 1203, 1205, 1206, 1207, 1209, 1210, 1213, 1215, 1216"
     },
     "MEMO COUNTER": {
         "x": 1200,
         "y": 805,
-        "tag": "MEMO_COUNTER, COLLEGE_MEMO, CERTIFICATES, MARKS_MEMO, RESULTS, ACADEMIC_RECORDS, ADMIN_SERVICES, STUDENT_SERVICES, DOCUMENTS"
+        "tag": "memo counter, marks memo, certificates, results, academic records, documents, admin services, student services"
     },
     "ADMINISTRATION OFFICE": {
         "x": 1297,
         "y": 844,
-        "tag": "ADMINISTRATION_OFFICE, ADMIN, FEE_PAYMENT, ACCOUNTS, ADMISSIONS, INQUIRIES, MANAGEMENT, STUDENT_AFFAIRS, OFFICE, REGISTRAR"
+        "tag": "administration office, admin, fee payment, accounts, admissions, inquiries, management, student affairs, registrar"
     },
     "AUDITORIUM": {
         "x": 1076,
         "y": 894,
-        "tag": "AUDITORIUM, SRIX_AUDITORIUM, INDOOR_HALL, EVENTS, SEMINARS, WORKSHOPS, GUEST_LECTURES, PRESENTATIONS, SEATING, STAGE"
+        "tag": "auditorium, SRIX auditorium, indoor hall, events, seminars, workshops, guest lectures, presentations, seating, stage"
     },
     "DANCE CLUB": {
         "x": 1492,
         "y": 675,
-        "tag": "DANCE_CLUB, EXTRACURRICULAR, CULTURAL, PRACTICE, CHOREOGRAPHY, STUDENT_CLUB, ACTIVITIES, ARTS, PERFORMANCE"
+        "tag": "dance club, dance, extracurricular, cultural, practice, choreography, student club, arts, performance"
     },
     "GYM": {
         "x": 1502,
         "y": 740,
-        "tag": "GYM, GYMNASIUM, FITNESS_CENTER, WORKOUT, EXERCISE, WEIGHTS, PHYSICAL_FITNESS, HEALTH, TRAINING"
+        "tag": "gym, gymnasium, fitness center, workout, exercise, weights, physical fitness, health, training"
     },
     "WORK SHOPS": {
         "x": 1574,
         "y": 785,
-        "tag": "WORKSHOPS, PRACTICAL_LABS, MACHINERY, TOOLS, MECHANICAL_WORKSHOP, ENGINEERING_LABS, HANDS_ON, PRACTICALS"
+        "tag": "workshops, practical labs, machinery, tools, mechanical workshop, engineering labs, hands on, practicals, 4101, 4102, 4304, 4305, 4406, 4407, 4508, 4610, 4711, 4712, 4813, 4814"
     },
     "INDOOR GAMES": {
         "x": 1522,
         "y": 784,
-        "tag": "INDOOR_GAMES, SPORTS, CHESS, CARROM, BADMINTON, TABLE_TENNIS, SHUTTLE, RECREATION, INDOOR_SPORTS_COMPLEX, GAMING_ZONE"
+        "tag": "indoor games, chess, carrom, badminton, table tennis, shuttle, recreation, indoor sports, gaming zone, sports"
     }
 }
